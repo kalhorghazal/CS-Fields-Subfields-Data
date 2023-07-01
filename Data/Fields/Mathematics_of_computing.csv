@@ -1,0 +1,87 @@
+Conference,Subfield,Paper
+CCS22,Mathematical software,Widespread Underestimation of Sensitivity in Differentially Private Libraries and How to Fix It
+CCS22,Probability and statistics,Poirot: Probabilistically Recommending Protections for the Android Framework
+FSE22,Probability and statistics,Discovering feature flag interdependencies in Microsoft office
+MOD22,Discrete mathematics,GraphZeppelin: Storage-Friendly Sketching for Connected Components on Dynamic Graph Streams
+MOD22,Probability and statistics,Reptile: Aggregation-level Explanations for Hierarchical Data
+MOD22,Discrete mathematics,A Convex-Programming Approach for Efficient Directed Densest Subgraph Discovery
+MOD22,Discrete mathematics,Efficient Algorithms for Maximal k-Biplex Enumeration
+MOD22,Discrete mathematics,Hunting Temporal Bumps in Graphs with Dynamic Vertex Properties
+MOD22,Discrete mathematics,On Scalable Computation of Graph Eccentricities
+MOD22,Discrete mathematics,Anchored Densest Subgraph
+MOD22,Probability and statistics,Adaptive Threshold Sampling
+MOD22,Mathematical analysis,Givens QR Decomposition over Relational Databases
+MOD22,Discrete mathematics,Scalable and Effective Bipartite Network Embedding
+MOD22,Discrete mathematics,One Set to Cover All Maximal Cliques Approximately
+SAC22,Discrete mathematics,K-core decomposition on super large graphs with limited resources
+SAC22,Discrete mathematics,SAGA-Net: efficient pointcloud completion with shape-assisted graph attention neural network
+SAC22,Probability and statistics,Multi-antenna covert communications in random wireless networks with full-duplex relay
+STOC22,Probability and statistics,Expanders via local edge flips in quasilinear time
+STOC22,Discrete mathematics,The shortest even cycle problem is tractable
+STOC22,Discrete mathematics,Deterministic massively parallel connectivity
+STOC22,Probability and statistics,Approximate polymorphisms
+STOC22,Mathematical analysis/Probability and statistics,Learning low-degree functions from a logarithmic number of random queries
+STOC22,Information theory,"Locally testable codes with constant rate, distance, and locality"
+STOC22,Discrete mathematics,On the complexity of CSP-based ideal membership problems
+STOC22,Mathematical analysis,Matrix anti-concentration inequalities with applications
+STOC22,Information theory,Interactive error correcting codes over binary erasure channels resilient to > ½ adversarial corruption
+STOC22,Discrete mathematics,Matrix discrepancy from Quantum communication
+STOC22,Discrete mathematics,Testing thresholds for high-dimensional sparse random geometric graphs
+STOC22,Probability and statistics,Approximately efficient bilateral trade
+STOC22,Probability and statistics,Kalman filtering with adversarial corruptions
+STOC22,Probability and statistics,Binary perceptron: efficient algorithms can find solutions in a rare well-connected cluster
+STOC22,Discrete mathematics,Twin-width IV: ordered graphs and matrices
+STOC22,Information theory,The optimal error resilience of interactive communication over binary channels
+STOC22,Discrete mathematics,Randomized communication and implicit graph representations
+STOC22,Probability and statistics,Efficient mean estimation with pure differential privacy via a sum-of-squares exponential mechanism
+STOC22,Discrete mathematics/Probability and statistics,Computational thresholds for the fixed-magnetization Ising model
+STOC22,Probability and statistics,Approximate counting and sampling via local central limit theorems
+STOC22,Discrete mathematics,Counting small induced subgraphs with hereditary properties
+STOC22,Discrete mathematics,Breaching the 2-approximation barrier for the forest augmentation problem
+KDD22,Probability and statistics,Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting
+KDD22,Discrete mathematics,HyperAid: Denoising in Hyperbolic Spaces for Tree-fitting and Hierarchical Clustering
+KDD22,Probability and statistics,TARNet: Task-Aware Reconstruction for Time-Series Transformer
+KDD22,Information theory/Probability and statistics,Discovering Significant Patterns under Sequential False Discovery Control
+KDD22,Probability and statistics,Robust Event Forecasting with Spatiotemporal Confounder Learning
+KDD22,Discrete mathematics,FreeKD: Free-direction Knowledge Distillation for Graph Neural Networks
+KDD22,Discrete mathematics,Meta-Learned Metrics over Multi-Evolution Temporal Graphs
+KDD22,Discrete mathematics/Mathematical analysis,Core-periphery Partitioning and Quantum Annealing
+KDD22,Probability and statistics,Local Evaluation of Time Series Anomaly Detection Algorithms
+KDD22,Discrete mathematics,A Spectral Representation of Networks: The Path of Subgraphs
+KDD22,Discrete mathematics,Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN
+KDD22,Mathematical analysis,Partial-Quasi-Newton Methods: Efficient Algorithms for Minimax Optimization Problems with Unbalanced Dimensionality
+KDD22,Discrete mathematics,UD-GNN: Uncertainty-aware Debiased Training on Semi-Homophilous Graphs
+KDD22,Discrete mathematics/Probability and statistics,Learning Causal Effects on Hypergraphs
+KDD22,Probability and statistics,ML4S: Learning Causal Skeleton from Vicinal Graphs
+KDD22,Information theory/Probability and statistics,Discovering Invariant and Changing Mechanisms from Data
+KDD22,Mathematical analysis/Probability and statistics,Predicting Opinion Dynamics via Sociologically-Informed Neural Networks
+KDD22,Probability and statistics,Fair and Interpretable Models for Survival Analysis
+KDD22,Probability and statistics,State Dependent Parallel Neural Hawkes Process for Limit Order Book Event Stream Prediction and Simulation
+KDD22,Discrete mathematics,Learning on Graphs with Out-of-Distribution Nodes
+KDD22,Probability and statistics,Towards an Optimal Asymmetric Graph Structure for Robust Semi-supervised Node Classification
+KDD22,Discrete mathematics,Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems
+KDD22,Discrete mathematics,Causal Attention for Interpretable and Generalizable Graph Classification
+KDD22,Mathematical analysis,Demystify Hyperparameters for Stochastic Optimization with Transferable Representations
+KDD22,Probability and statistics,Estimating Individualized Causal Effect with Confounded Instruments
+KDD22,Probability and statistics,Beyond Point Prediction: Capturing Zero-Inflated & Heavy-Tailed Spatiotemporal Data with Deep Extreme Mixture Models
+KDD22,Probability and statistics,Non-stationary A/B Tests
+KDD22,Discrete mathematics,Enhancing Machine Learning Approaches for Graph Optimization Problems with Diversifying Graph Augmentation
+KDD22,Discrete mathematics,Multiplex Heterogeneous Graph Convolutional Network
+KDD22,Discrete mathematics,Dual Bidirectional Graph Convolutional Networks for Zero-shot Node Classification
+KDD22,Discrete mathematics,Model Degradation Hinders Deep Graph Neural Networks
+KDD22,Discrete mathematics,AntiBenford Subgraphs: Unsupervised Anomaly Detection in Financial Networks
+KDD22,Mathematical analysis,"The Good, the Bad, and the Outliers: A Testing Framework for Decision Optimization Model Learning"
+KDD22,Probability and statistics,Applying Deep Learning Based Probabilistic Forecasting to Food Preparation Time for On-Demand Delivery Service
+KDD22,Probability and statistics,Greykite: Deploying Flexible Forecasting at Scale at LinkedIn
+KDD22,Probability and statistics,SoccerCPD: Formation and Role Change-Point Detection in Soccer Matches Using Spatiotemporal Tracking Data
+KDD22,Mathematical analysis,Fast Mining and Forecasting of Co-evolving Epidemiological Data Streams
+KDD22,Probability and statistics,A/B Testing Intuition Busters: Common Misunderstandings in Online Controlled Experiments
+KDD22,Probability and statistics,Rapid Regression Detection in Software Deployments through Sequential Testing
+KDD22,Mathematical software,Promotheus: An End-to-End Machine Learning Framework for Optimizing Markdown in Online Fashion E-commerce
+KDD22,Probability and statistics,Counterfactual Phenotyping with Censored Time-to-Events
+KDD22,Discrete mathematics,Reinforcement Learning-based Placement of Charging Stations in Urban Road Networks
+KDD22,Probability and statistics,Multi Armed Bandit vs. A/B Tests in E-commerce - Confidence Interval and Hypothesis Test Power Perspectives
+KDD22,Probability and statistics,Perioperative Predictions with Interpretable Latent Representation
+KDD22,Probability and statistics,Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation
+KDD22,Discrete mathematics,Graph Attention Multi-Layer Perceptron
+KDD22,Probability and statistics,DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect Estimation
