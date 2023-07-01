@@ -1,0 +1,441 @@
+Conference,Subfield,Paper
+CHI22,Information systems applications,Scaling Creative Inspiration with Fine-Grained Functional Aspects of Ideas
+CHI22,Information retrieval,BIGexplore: Bayesian Information Gain Framework for Information Exploration
+CHI22,Information systems applications,Crystalline: Lowering the Cost for Developers to Collect and Organize Information for Decision Making
+CHI22,Information systems applications/World Wide Web,How Much Do Platform Workers Value Reviews? An Experimental Method
+CHI22,Information systems applications,OneLabeler: A Flexible System for Building Data Labeling Tools
+CHI22,Information retrieval/Information systems applications,What is Your Current Mindset?
+CHI22,Information retrieval,Design and Evaluation of Hybrid Search for American Sign Language to English Dictionaries: Making the Most of Imperfect Sign Recognition
+CHI22,World Wide Web,Interpolating Happiness: Understanding the Intensity Gradations of Face Emojis Across Cultures
+CHI22,World Wide Web,Birds of a feather don’t fact-check each other: Partisanship and the evaluation of news in Twitter’s Birdwatch crowdsourced fact-checking program
+CHI22,Information retrieval,ShapeFindAR: Exploring In-Situ Spatial Search for Physical Artifact Retrieval using Mixed Reality
+CHI22,Information systems applications,Follow the Leader: Technical and Inspirational Leadership in Open Source Software
+CHI22,World Wide Web,“I Wanted to See How Bad it Was”: Online Self-screening as a Critical Transition Point Among Young Adults with Common Mental Health Conditions
+CHI22,Information systems applications,Designing Flexible Longitudinal Regimens: Supporting Clinician Planning for Discontinuation of Psychiatric Drugs
+CHI22,World Wide Web,RMS: Removing Barriers to Analyze the Availability and Surge Pricing of Ridesharing Services
+CHI22,Information retrieval,Structure-aware Visualization Retrieval
+CHI22,Information retrieval,Impacts of Personal Characteristics on User Trust in Conversational Recommender Systems
+CHI22,Information systems applications,Tisane: Authoring Statistical Models via Formal Reasoning from Conceptual and Data Relationships
+CHI22,Information systems applications,Enhanced Videogame Livestreaming by Reconstructing an Interactive 3D Game View for Spectators
+CHI22,World Wide Web,“Just Not Together”: The Experience of Videoconferencing for People with Aphasia during the Covid-19 Pandemic
+CHI22,World Wide Web,"“In this online environment, we're limited”:: Exploring Inclusive Video Conferencing Design for Signers"
+CHI22,Information storage systems,Navigating Imaginaries of DNA-Based Digital Data Storage
+CHI22,World Wide Web,"Online Terms and Conditions: Improving User Engagement, Awareness, and Satisfaction through UI Design"
+CHI22,World Wide Web,Toward User-Driven Algorithm Auditing: Investigating users’ strategies for uncovering harmful algorithmic behavior
+CCS22,World Wide Web,DISTINCT: Identity Theft using In-Browser Communications in Dual-Window Single Sign-On
+CCS22,Information retrieval,LPGNet: Link Private Graph Networks for Node Classification
+CCS22,Information retrieval,Order-Disorder: Imitation Adversarial Attacks for Black-box Neural Ranking Models
+CCS22,World Wide Web,Ibex: Privacy-preserving Ad Conversion Tracking and Bidding
+FSE22,Information systems applications,A retrospective study of one decade of artifact evaluations
+FSE22,Information retrieval,API recommendation for machine learning libraries: how far are we?
+FSE22,World Wide Web,Online testing of RESTful APIs: promises and challenges
+FSE22,Information systems applications,Tracking patches for open source software vulnerabilities
+FSE22,Information systems applications,Uncertainty-aware transfer learning to evolve digital twins for industrial elevators
+FSE22,Information retrieval,Improving ML-based information retrieval software with user-driven functional testing and defect class analysis
+FSE22,Data management systems/Information retrieval,Metadata-based retrieval for resolution recommendation in AIOps
+FSE22,Information retrieval,Exploring and evaluating personalized models for code generation
+FSE22,Information retrieval,Context-aware code recommendation in Intellij IDEA
+FSE22,Information retrieval,RecipeGen++: an automated trigger action programs generator
+FSE22,Information retrieval,This is your cue! assisting search behaviour with resource style properties
+FSE22,World Wide Web,Automated capacity analysis of limitation-aware microservices architectures
+ISCA22,Information storage systems,Managing reliability skew in DNA storage
+ISCA22,Data management systems,Accelerating database analytic query workloads using an associative processor
+ISCA22,Information systems applications,Lukewarm serverless functions: characterization and optimization
+ISCA22,Data management systems,Understanding data storage and ingestion for large-scale deep recommendation model training: industrial product
+MOD22,Data management systems/World Wide Web,"Ad Hoc Transactions in Web Applications: The Good, the Bad, and the Ugly"
+MOD22,Data management systems,"Plor: General Transactions with Predictable, Low Tail Latency"
+MOD22,Data management systems,Skeena: Efficient and Consistent Cross-Engine Transactions
+MOD22,Data management systems,Diva: Making MVCC Systems HTAP-Friendly
+MOD22,Data management systems,Hybrid Deterministic and Nondeterministic Execution of Transactions in Actor Systems
+MOD22,Data management systems,Optimizing Recursive Queries with Progam Synthesis
+MOD22,Data management systems,WeTune: Automatic Discovery and Verification of Query Rewrite Rules
+MOD22,Data management systems,Conjunctive Queries with Comparisons
+MOD22,Data management systems,Efficient Massively Parallel Join Optimization for Large Queries
+MOD22,Data management systems,Efficient Incrementialization of Correlated Nested Aggregate Queries using Relative Partial Aggregate Indexes (RPAI)
+MOD22,Data management systems,Serenade - Low-Latency Session-Based Recommendation in e-Commerce at Scale
+MOD22,Information systems applications,Neural Subgraph Counting with Wasserstein Estimator
+MOD22,Data management systems,Statistical Schema Learning with Occam's Razor
+MOD22,Data management systems,"DB-BERT: A Database Tuning Tool that ""Reads the Manual"""
+MOD22,Data management systems,PreQR: Pre-training Representation for SQL Understanding
+MOD22,Data management systems,DataPrism: Exposing Disconnect between Data and Systems
+MOD22,Data management systems,Through the Data Management Lens: Experimental Analysis and Evaluation of Fair Classification
+MOD22,Information systems applications/Data management systems,Interpretable Data-Based Explanations for Fairness Debugging
+MOD22,Data management systems,Rank Aggregation with Proportionate Fairness
+MOD22,Data management systems,TSUBASA: Climate Network Construction on Historical and Real-Time Data
+MOD22,Information systems applications,DenForest: Enabling Fast Deletion in Incremental Density-Based Clustering over Sliding Windows
+MOD22,Data management systems,AutoMon: Automatic Distributed Monitoring for Arbitrary Multivariate Functions
+MOD22,Information retrieval,DLACEP: A Deep-Learning Based Framework for Approximate Complex Event Processing
+MOD22,Data management systems,Complaint-Driven Training Data Debugging at Interactive Speeds
+MOD22,Data management systems,Parallel Rule Discovery from Large Datasets by Sampling
+MOD22,Data management systems/Information retrieval,Reptile: Aggregation-level Explanations for Hierarchical Data
+MOD22,Data management systems,Hierarchical Entity Resolution using an Oracle
+MOD22,Data management systems,Entity Resolution with Hierarchical Graph Attention Networks
+MOD22,Data management systems,Domain Adaptation for Deep Entity Resolution
+MOD22,Data management systems/Information retrieval/Information systems applications,Compact Walks: Taming Knowledge-Graph Embeddings with Domain- and Task-Specific Pathways
+MOD22,Data management systems/Information systems applications,HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training
+MOD22,Data management systems,NuPS: A Parameter Server for Machine Learning with Non-Uniform Parameter Access
+MOD22,Data management systems,Finding Label and Model Errors in Perception Data With Learned Observation Assertions
+MOD22,Data management systems/Information systems applications,Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets
+MOD22,Data management systems,One Size Does Not Fit All: A Bandit-Based Sampler Combination Framework with Theoretical Guarantees
+MOD22,Data management systems,Zeus: Efficiently Localizing Actions in Videos using Reinforcement Learning
+MOD22,Data management systems,FiGO: Fine-Grained Query Optimization in Video Analytics
+MOD22,Data management systems,Redundancy Elimination in Distributed Matrix Computation
+MOD22,Data management systems,End-to-end Optimization of Machine Learning Prediction Queries
+MOD22,Data management systems,EVA: A Symbolic Approach to Accelerating Exploratory Video Analytics with Materialized Views
+MOD22,Data management systems,Tastes Great! Less Filling! High Performance and Accurate Training Data Collection for Self-Driving Database Management Systems
+MOD22,Data management systems,Towards Dynamic and Safe Configuration Tuning for Cloud Databases
+MOD22,Data management systems,ISUM: Efficiently Compressing Large and Complex Workloads for Scalable Index Tuning
+MOD22,Data management systems/Information systems applications,LOCAT: Low-Overhead Online Configuration Auto-Tuning of Spark SQL Applications
+MOD22,Data management systems,"ScaleStore: A Fast and Cost-Efficient Storage Engine using DRAM, NVMe, and RDMA"
+MOD22,Data management systems/Information storage systems,Proteus: Autonomous Adaptive Storage for Mixed Workloads
+MOD22,Data management systems,Natto: Providing Distributed Transaction Prioritization for High-Contention Workloads
+MOD22,Data management systems,R2T: Instance-optimal Truncation for Differentially Private Query Evaluation with Foreign Keys
+MOD22,Data management systems,Unsupervised Contextual Anomaly Detection for Database Systems
+MOD22,Information systems applications,DMCS : Density Modularity based Community Search
+MOD22,Data management systems,HAP: An Efficient Hamming Space Index Based on Augmented Pigeonhole Principle
+MOD22,Data management systems,Balsa: Learning a Query Optimizer Without Expert Demonstrations
+MOD22,Data management systems,LearnedSQLGen: Constraint-aware SQL Generation using Reinforcement Learning
+MOD22,Data management systems,Selectivity Functions of Range Queries are Learnable
+MOD22,Data management systems,Lightweight and Accurate Cardinality Estimation by Neural Network Gaussian Process
+MOD22,Data management systems/Information storage systems,X-SSD: A Storage System with Native Support for Database Logging and Replication
+MOD22,Data management systems,GaccO - A GPU-accelerated OLTP DBMS
+MOD22,Data management systems,Triton Join: Efficiently Scaling to a Large Join State on GPUs with Fast Interconnects
+MOD22,Data management systems,Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory
+MOD22,Data management systems,Halo: A Hybrid PMem-DRAM Persistent Hash Index with Fast Recovery
+MOD22,Data management systems,Rethinking Stateful Stream Processing with RDMA
+MOD22,Data management systems,HYPERSONIC: A Hybrid Parallelization Approach for Scalable Complex Event Processing
+MOD22,Data management systems,Approximate Range Thresholding
+MOD22,Information systems applications,Gloria: Graph-based Sharing Optimizer for Event Trend Aggregation
+MOD22,Data management systems/Information retrieval,TxtAlign: Efficient Near-Duplicate Text Alignment Search via Bottom-k Sketches for Plagiarism Detection
+MOD22,Data management systems/Information retrieval,Classifier Construction Under Budget Constraints
+MOD22,Data management systems/Information systems applications,dCAM: Dimension-wise Class Activation Map for Explaining Multivariate Data Series Classification
+MOD22,Data management systems,CoLES: Contrastive Learning for Event Sequences with Self-Supervision
+MOD22,Information systems applications,Anchored Densest Subgraph
+MOD22,Data management systems,Learned Cardinality Estimation: An In-depth Study
+MOD22,Data management systems,LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems
+MOD22,Data management systems/Information retrieval,Efficient Evaluation of Arbitrarily-Framed Holistic SQL Aggregates and Window Functions
+MOD22,Data management systems,HINT: A Hierarchical Index for Intervals in Main Memory
+MOD22,Data management systems,Camel: Managing Data for Efficient Stream Learning
+MOD22,Data management systems,In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle
+MOD22,Data management systems,NeutronStar: Distributed GNN Training with Hybrid Dependency Management
+MOD22,Data management systems,The Price of Tailoring the Index to Your Data: Poisoning Attacks on Learned Index Structures
+MOD22,Data management systems,Optimizing Data-intensive Systems in Disaggregated Data Centers with TELEPORT
+MOD22,Data management systems,TCUDB: Accelerating Database with Tensor Processors
+MOD22,Data management systems,P4DB - The Case for In-Network OLTP
+MOD22,Data management systems/Information storage systems,Avoiding Read Stalls on Flash Storage
+MOD22,Data management systems,TimeUnion: An Efficient Architecture with Unified Data Model for Timeseries Management Systems on Hybrid Cloud Storage
+MOD22,Data management systems,Optimizing Parallel Recursive Datalog Evaluation on Multicore Machines
+MOD22,Data management systems,Parallel Query Processing: To Separate Communication from Computation
+MOD22,Data management systems,Annotating Columns with Pre-trained Language Models
+MOD22,Data management systems,Leva: Boosting Machine Learning Performance with Relational Embedding Data Augmentation
+MOD22,Data management systems,Cooperative Route Planning Framework for Multiple Distributed Assets in Maritime Applications
+MOD22,Data management systems,Budget-aware Index Tuning with Reinforcement Learning
+MOD22,Data management systems,SAM: Database Generation from Query Workloads with Supervised Autoregressive Models
+MOD22,Data management systems,Efficient Answering of Historical What-if Queries
+MOD22,Data management systems,Computing the Shapley Value of Facts in Query Answering
+MOD22,Data management systems/Information retrieval,JEDI: These aren't the JSON documents you're looking for?
+MOD22,Data management systems,Adaptive Hybrid Indexes
+MOD22,Data management systems,Entropy-Learned Hashing: Constant Time Hashing with Controllable Uniformity
+MOD22,Data management systems,CompressDB: Enabling Efficient Compressed Data Direct Processing for Various Databases
+MOD22,Data management systems,Proteus: A Self-Designing Range Filter
+MOD22,Data management systems,Scalable Time Series Compound Infrastructure
+MOD22,Data management systems,PI2: End-to-end Interactive Visualization Interface Generation from Queries
+MOD22,Data management systems,A Hierarchical Contraction Scheme for Querying Big Graphs
+MOD22,Data management systems,Representative Query Results by Voting
+MOD22,Data management systems/Information systems applications,Protecting Data Markets from Strategic Buyers
+MOD22,Information retrieval,Automated Category Tree Construction in E-Commerce
+MOD22,Data management systems,FILA: Online Auditing of Machine Learning Model Accuracy under Finite Labelling Budget
+MOD22,Data management systems,Evaluating Multi-GPU Sorting with Modern Interconnects
+MOD22,Data management systems,How Good is My HTAP System?
+MOD22,Data management systems/Information storage systems,Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines
+MOD22,Data management systems,Juggler: Autonomous Cost Optimization and Performance Prediction of Big Data Applications
+MOD22,Information systems applications,Sintel: A Machine Learning Framework to Extract Insights from Signals
+MOD22,Data management systems,Sommelier: Curating DNN Models for the Masses
+MOD22,Data management systems,Video-zilla: An Indexing Layer for Large-Scale Video Analytics
+MOD22,Data management systems,Warper: Efficiently Adapting Learned Cardinality Estimators to Data and Workload Drifts
+MOD22,Data management systems,TASTI: Semantic Indexes for Machine Learning-based Queries over Unstructured Data
+MOD22,Data management systems,Givens QR Decomposition over Relational Databases
+MOD22,Data management systems,Materialization and Reuse Optimizations for Production Data Science Pipelines
+MOD22,Data management systems,Computing Complex Temporal Join Queries Efficiently
+MOD22,Information systems applications,OTIF: Efficient Tracker Pre-processing over Large Video Datasets
+MOD22,Information retrieval/Information systems applications,Controlled Intentional Degradation in Analytical Video Systems
+MOD22,Information systems applications,SLAM: Efficient Sweep Line Algorithms for Kernel Density Visualization
+MOD22,Information retrieval,T-LevelIndex: Towards Efficient Query Processing in Continuous Preference Space
+MOD22,Data management systems,Scaling Equi-Joins
+MOD22,Data management systems,HiEngine: How to Architect a Cloud-Native Memory-Optimized Database Engine
+MOD22,Data management systems,KafkaDirect: Zero-copy Data Access for Apache Kafka over RDMA Networks
+MOD22,Data management systems,Amazon Redshift Re-invented
+MOD22,Data management systems,Remus: Efficient Live Migration for Distributed Databases with Snapshot Isolation
+MOD22,Data management systems,Graph Pattern Matching in GQL and SQL/PGQ
+MOD22,Data management systems/World Wide Web,Saga: A Platform for Continuous Construction and Serving of Knowledge at Scale
+MOD22,Data management systems/Information systems applications,Intelligent Automated Workload Analysis for Database Replatforming
+MOD22,Data management systems,ESDB: Processing Extremely Skewed Workloads in Real-time
+MOD22,Data management systems,Deploying a Steered Query Optimizer in Production at Microsoft
+MOD22,Data management systems,Enabling the Next Generation of Multi-Region Applications with CockroachDB
+MOD22,Data management systems,Photon: A Fast Query Engine for Lakehouse Systems
+MOD22,Data management systems,Cloud-Native Transactions and Analytics in SingleStore
+SAC22,Information retrieval,Residual size is not enough for anomaly detection: improving detection performance using residual similarity in multivariate time series
+SAC22,Information storage systems,On enduring more data through enabling page rewrite capability on multi-level-cell flash memory
+SAC22,Information systems applications,SureSpace: orchestrating beacons and witnesses to certify device location
+SAC22,Data management systems,Toward replicated and asynchronous data streams for edge-cloud applications
+SAC22,Data management systems,Evaluating the integration of datasets
+SAC22,Information systems applications,A graph-based blocking approach for entity matching using pre-trained contextual embedding models
+SAC22,Data management systems,Indexer++: workload-aware online index tuning with transformers and reinforcement learning
+SAC22,Information systems applications,Variable size segmentation for efficient representation and querying of non-uniform time series datasets
+SAC22,Data management systems,Optimizing ADWIN for steady streams
+SAC22,Information systems applications,pi-Lisco: parallel and incremental stream-based point-cloud clustering
+SAC22,Data management systems/World Wide Web,Learning on streaming graphs with experience replay
+SAC22,Information systems applications,Place embedding across cities in location-based social networks
+SAC22,Information systems applications,An ETL-like platform for the processing of mobility data
+SAC22,Information systems applications,Propagation measure on circulation graphs for tourism behavior analysis
+SAC22,Information systems applications,A fast unsupervised assignment of ICD codes with clinical notes through explanations
+SAC22,Information retrieval,CheReS: a deep learning-based multi-faceted system for similarity search of chest X-rays
+SAC22,Information systems applications,Collaborative is better than adversarial: generative cooperative networks for topic clustering
+SAC22,Information retrieval,Aspect based sentiment analysis in music: a case study with spotify
+SAC22,Information retrieval,Query-relevant sentiment summarization based on facet identification and sentence clustering
+SAC22,Data management systems,GraphSPARQL: a GraphQL interface for linked data
+SAC22,Information retrieval,Linguistic characterization of answer passages for fact-seeking question answering
+SAC22,Information retrieval,Named-entity recognition for a low-resource language using pre-trained language model
+SAC22,Information retrieval,Practical and efficient out-of-domain detection with adversarial learning
+SAC22,Information systems applications,Leveraging multimodal content for podcast summarization
+SAC22,Information systems applications,An automatic approach to detect problems in Android builds through screenshot analysis
+SAC22,Data management systems,Estimating the lifetime of transient context for adaptive caching in IoT applications
+SAC22,Information systems applications,Automatic disease vector mosquitoes identification via hierarchical data stream classification
+SAC22,Information systems applications,A comparison of spatio-temporal prediction methods: a parking availability case study
+SAC22,Information systems applications,CAIBAL: cluster-attribute interdependency based automatic labeler
+SAC22,Information storage systems,Enhanced configurable snapshot: snapshot-based fast booting on NAND flash with lifetime control
+SAC22,Information storage systems,An efficient log-structured scheme for disk arrays
+SAC22,World Wide Web,Predicting links in a social network based on recognised personalities
+SAC22,World Wide Web/Information retrieval,Rating consistency is consistently underrated: an exploratory analysis of movie-tag rating inconsistency
+SAC22,Information retrieval,Shap-enhanced counterfactual explanations for recommendations
+SAC22,Information retrieval,GAN-based matrix factorization for recommender systems
+SAC22,Information retrieval,IPreMom: a continual learning-based image rating framework for infant precious moments capturing
+SAC22,Information retrieval,Are tags 'it?': analysis of the impact of tags on StackOverflow questions
+SAC22,Information storage systems,Optimized flight safety event detection in the national general aviation flight information database
+SAC22,World Wide Web,An architecture for data integrity in untrustworthy social networks
+SAC22,Information systems applications,Combining clutter reduction methods for temporal network visualization
+SAC22,World Wide Web/Information systems applications,Incremental communication patterns in blockchain online social media
+SAC22,Information systems applications,D-FEND: a diffusion-based fake news detection framework for news articles related to COVID-19
+SAC22,World Wide Web/Information systems applications/Information retrieval,Group oriented trust-aware location recommendation for location-based social networks
+SAC22,Information retrieval/World Wide Web,Predicting the category of customers' next product to buy in web shops
+SAC22,World Wide Web/Information storage systems,Could jamstack be the future of web applications architecture?: an empirical study
+SAC22,World Wide Web/Information systems applications,Knowledge graph enhanced multi-task learning between reviews and ratings for movie recommendation
+SAC22,World Wide Web/Information systems applications,Generalized graph pattern discovery in linked data with data properties and a domain ontology
+SAC22,World Wide Web/Information retrieval,EABlock: a declarative entity alignment block for knowledge graph creation pipelines
+ICMR22,Information retrieval,Multiple Biological Granularities Network for Person Re-Identification
+ICMR22,Information retrieval,TriReID: Towards Multi-Modal Person Re-Identification via Descriptive Fusion Model
+ICMR22,Information retrieval,Pluggable Weakly-Supervised Cross-View Learning for Accurate Vehicle Re-Identification
+ICMR22,Information retrieval,An Effective Two-way Metapath Encoder over Heterogeneous Information Network for Recommendation
+ICMR22,Information retrieval,Multi-Modal Contrastive Pre-training for Recommendation
+ICMR22,Information retrieval,Flexible Order Aware Sequential Recommendation
+ICMR22,World Wide Web/Information systems applications,Sequential Intention-aware Recommender based on User Interaction Graph
+ICMR22,Information retrieval,TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval
+ICMR22,Information retrieval,Relevance-based Margin for Contrastively-trained Video Retrieval Models
+ICMR22,Information retrieval,CLIP4Hashing: Unsupervised Deep Hashing for Cross-Modal Video-Text Retrieval
+ICMR22,Information retrieval,Cross-Modal Retrieval between Event-Dense Text and Image
+ICMR22,Information retrieval,Learning Hierarchical Semantic Correspondences for Cross-Modal Image-Text Retrieval
+ICMR22,Information retrieval,Nearest Neighbor Search with Compact Codes: A Decoder Perspective
+ICMR22,Information retrieval,Cross-lingual Adaptation for Recipe Retrieval with Mixup
+ICMR22,Information retrieval,Dual-Channel Localization Networks for Moment Retrieval with Natural Language
+ICMR22,Information retrieval,Joint Modality Synergy and Spatio-temporal Cue Purification for Moment Localization
+ICMR22,Information retrieval,Fashion Image Search via Anchor-Free Detector
+ICMR22,Information systems applications,Accelerated Sign Hunter: A Sign-based Black-box Attack via Branch-Prune Strategy and Stabilized Hierarchical Search
+ICMR22,Information retrieval,GIO: A Timbre-informed Approach for Pitch Tracking in Highly Noisy Environments
+ICMR22,Information retrieval,Self-Lifting: A Novel Framework for Unsupervised Voice-Face Association Learning
+ICMR22,Information retrieval,Revisiting Performance Measures for Cross-Modal Hashing
+ICMR22,Information systems applications,Motor Learning based on Presentation of a Tentative Goal
+ICMR22,Information retrieval,MSSPQ: Multiple Semantic Structure-Preserving Quantization for Cross-Modal Retrieval
+KDD22,Information systems applications,Motif Prediction with Graph Neural Networks
+KDD22,Information systems applications,Avoiding Biases due to Similarity Assumptions in Node Embeddings
+KDD22,Data management systems,Efficient Join Order Selection Learning with Graph-based Representation
+KDD22,Information retrieval,Knowledge-enhanced Black-box Attacks for Recommendations
+KDD22,Data management systems/Information retrieval/Information systems applications,Multi-modal Siamese Network for Entity Alignment
+KDD22,Information retrieval,Scalar is Not Enough: Vectorization-based Unbiased Learning to Rank
+KDD22,Information retrieval,Learning Binarized Graph Representations with Multi-faceted Quantization Reinforcement for Top-K Recommendation
+KDD22,World Wide Web,Noisy Interactive Graph Search
+KDD22,Information systems applications,A Generalized Doubly Robust Learning Framework for Debiasing Post-Click Conversion Rate Prediction
+KDD22,Information systems applications,Discovering Significant Patterns under Sequential False Discovery Control
+KDD22,Information systems applications/Information retrieval,Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers
+KDD22,Information systems applications,Robust Event Forecasting with Spatiotemporal Confounder Learning
+KDD22,Information retrieval,Addressing Unmeasured Confounder for Recommendation with Sensitivity Analysis
+KDD22,Information systems applications,On Structural Explanation of Bias in Graph Neural Networks
+KDD22,Data management systems,On Aligning Tuples for Regression
+KDD22,World Wide Web/Information retrieval,PARSRec: Explainable Personalized Attention-fused Recurrent Sequential Recommendation Using Session Partial Actions
+KDD22,Information systems applications,Subset Node Anomaly Tracking over Large Dynamic Graphs
+KDD22,Information systems applications/Information retrieval,BLISS: A Billion scale Index using Iterative Re-partitioning
+KDD22,Information systems applications,ProActive: Self-Attentive Temporal Point Process Flows for Activity Sequences
+KDD22,Information systems applications,Continuous-Time and Multi-Level Graph Representation Learning for Origin-Destination Demand Prediction
+KDD22,Information systems applications,Quantifying and Reducing Registration Uncertainty of Spatial Vector Labels on Earth Imagery
+KDD22,Information retrieval,Towards Universal Sequence Representation Learning for Recommender Systems
+KDD22,Information systems applications,Information systems/Computing methodologies
+KDD22,Information retrieval,Few-Shot Fine-Grained Entity Typing with Automatic Label Interpretation and Instance Generation
+KDD22,Data management systems,Detecting Cash-out Users via Dense Subgraphs
+KDD22,Information systems applications,JuryGCN: Quantifying Jackknife Uncertainty on Graph Convolutional Networks
+KDD22,Data management systems,HyperLogLogLog: Cardinality Estimation With One Log More
+KDD22,Information retrieval,CoRGi: Content-Rich Graph Neural Networks with Attention
+KDD22,Information systems applications,Modeling Network-level Traffic Flow Transitions on Sparse Data
+KDD22,Information systems applications,The DipEncoder: Enforcing Multimodality in Autoencoders
+KDD22,Information systems applications,Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning
+KDD22,Information systems applications,Graph Structural Attack by Perturbing Spectral Distance
+KDD22,Information systems applications,Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems
+KDD22,Data management systems,Semantic Enhanced Text-to-SQL Parsing via Iteratively Learning Schema Linking Graph
+KDD22,Information systems applications,MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting
+KDD22,Information retrieval,User-Event Graph Embedding Learning for Context-Aware Recommendation
+KDD22,Information systems applications,Fair Representation Learning: An Alternative to Mutual Information
+KDD22,Information systems applications,Joint Knowledge Graph Completion and Question Answering
+KDD22,Information systems applications,Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries
+KDD22,Information systems applications,Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation
+KDD22,Information systems applications,Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer
+KDD22,Information systems applications,Learning Differential Operators for Interpretable Time Series Modeling
+KDD22,World Wide Web,Learning Causal Effects on Hypergraphs
+KDD22,Information retrieval,CrossCBR: Cross-view Contrastive Learning for Bundle Recommendation
+KDD22,Information retrieval,Extracting Relevant Information from User's Utterances in Conversational Search and Recommendation
+KDD22,Information systems applications,Predicting Opinion Dynamics via Sociologically-Informed Neural Networks
+KDD22,Information systems applications,FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy
+KDD22,World Wide Web,Core-periphery Models for Hypergraphs
+KDD22,World Wide Web,Neural Bandit with Arm Group Graph
+KDD22,World Wide Web/Information systems applications,Rep2Vec: Repository Embedding via Heterogeneous Graph Adversarial Contrastive Learning
+KDD22,Information systems applications,Graph-Flashback Network for Next Location Recommendation
+KDD22,World Wide Web/Information retrieval,Fair Ranking as Fair Division: Impact-Based Individual Fairness in Ranking
+KDD22,Information systems applications,Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting
+KDD22,Information systems applications/Data management systems,Multi-View Clustering for Open Knowledge Base Canonicalization
+KDD22,Information systems applications,Pairwise Adversarial Training for Unsupervised Class-imbalanced Domain Adaptation
+KDD22,Information systems applications,ERNet: Unsupervised Collective Extraction and Registration in Neuroimaging Data
+KDD22,Information retrieval,Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems
+KDD22,Information retrieval,Knowledge Enhanced Search Result Diversification
+KDD22,Information systems applications,GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks
+KDD22,Information systems applications,Incremental Cognitive Diagnosis for Intelligent Education
+KDD22,Information retrieval,Aligning Dual Disentangled User Representations from Ratings and Textual Content
+KDD22,Information retrieval,Towards Representation Alignment and Uniformity in Collaborative Filtering
+KDD22,Information systems applications,A Model-Agnostic Approach to Differentially Private Topic Mining
+KDD22,Information retrieval,Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-Distribution
+KDD22,Information retrieval,Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning
+KDD22,Information retrieval/Information systems applications,Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage
+KDD22,Information retrieval,Debiasing Learning for Membership Inference Attacks Against Recommender Systems
+KDD22,World Wide Web,Invariant Preference Learning for General Debiasing in Recommendation
+KDD22,Information retrieval,Comprehensive Fair Meta-learned Recommender System
+KDD22,Information systems applications,Disentangled Dynamic Heterogeneous Graph Learning for Opioid Overdose Prediction
+KDD22,Data management systems,Multi-fidelity Hierarchical Neural Processes
+KDD22,Information systems applications,CLARE: A Semi-supervised Community Detection Algorithm
+KDD22,Information retrieval,Self-Supervised Hypergraph Transformer for Recommender Systems
+KDD22,Information systems applications,MetaPTP: An Adaptive Meta-optimized Model for Personalized Spatial Trajectory Prediction
+KDD22,Information systems applications,On-Device Learning for Model Personalization with Large-Scale Cloud-Coordinated Domain Adaption
+KDD22,Information retrieval/World Wide Web,HICF: Hyperbolic Informative Collaborative Filtering
+KDD22,Information retrieval/World Wide Web,Numerical Tuple Extraction from Tables with Pre-training
+KDD22,Information retrieval,Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation
+KDD22,Information retrieval/Information systems applications,TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation
+KDD22,World Wide Web,Learning Classifiers under Delayed Feedback with a Time Window Assumption
+KDD22,Information systems applications,Adaptive Model Pooling for Online Deep Anomaly Detection from a Complex Evolving Data Stream
+KDD22,Information systems applications,ROLAND: Graph Learning Framework for Dynamic Graphs
+KDD22,Information retrieval,MDP2 Forest: A Constrained Continuous Multi-dimensional Policy Optimization Approach for Short-video Recommendation
+KDD22,Information systems applications,Dual Bidirectional Graph Convolutional Networks for Zero-shot Node Classification
+KDD22,Information systems applications,M3Care: Learning with Missing Modalities in Multimodal Healthcare Data
+KDD22,Information retrieval/Information systems applications,Variational Graph Author Topic Modeling
+KDD22,Information systems applications,Multi-Agent Graph Convolutional Reinforcement Learning for Dynamic Electric Vehicle Charging Pricing
+KDD22,Information retrieval,Counteracting User Attention Bias in Music Streaming Recommendation via Reward Modification
+KDD22,Information systems applications,COSTA: Covariance-Preserving Feature Augmentation for Graph Contrastive Learning
+KDD22,Information systems applications,Unsupervised Key Event Detection from Massive Text Corpora
+KDD22,Information systems applications,Instant Graph Neural Networks for Dynamic Graphs
+KDD22,Information retrieval,KRATOS: Context-Aware Cell Type Classification and Interpretation using Joint Dimensionality Reduction and Clustering
+KDD22,Information systems applications,A Nearly-Linear Time Algorithm for Minimizing Risk of Conflict in Social Networks
+KDD22,Information systems applications,A Process-Aware Decision Support System for Business Processes
+KDD22,Information retrieval,ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest
+KDD22,World Wide Web,Company-as-Tribe: Company Financial Risk Assessment on Tribe-Style Graph with Hierarchical Graph Neural Networks
+KDD22,Information retrieval,Personalized Chit-Chat Generation for Recommendation Using External Chat Corpora
+KDD22,World Wide Web,EXTR: Click-Through Rate Prediction with Externalities in E-Commerce Sponsored Search
+KDD22,Information systems applications,Physics-Guided Graph Meta Learning for Predicting Water Temperature and Streamflow in Stream Networks
+KDD22,Information systems applications,Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival
+KDD22,Information retrieval,Graph-based Multilingual Language Model: Leveraging Product Relations for Search Relevance
+KDD22,Information retrieval,Ask to Know More: Generating Counterfactual Explanations for Fake Claims
+KDD22,Information retrieval,Amazon Shop the Look: A Visual Search System for Fashion and Home
+KDD22,Information retrieval,Affective Signals in a Social Media Recommender System
+KDD22,World Wide Web,TwHIN: Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation
+KDD22,World Wide Web,Automatic Generation of Product-Image Sequence in E-commerce
+KDD22,Information systems applications,Applying Deep Learning Based Probabilistic Forecasting to Food Preparation Time for On-Demand Delivery Service
+KDD22,World Wide Web,Automatic Controllable Product Copywriting for E-Commerce
+KDD22,Information systems applications,Talent Demand-Supply Joint Prediction with Dynamic Heterogeneous Graph Enhanced Meta-Learning
+KDD22,Information retrieval,Learning Backward Compatible Embeddings
+KDD22,Information systems applications,ERNIE-GeoL: A Geography-and-Language Pre-trained Model and its Applications in Baidu Maps
+KDD22,Information retrieval,Rax: Composable Learning-to-Rank Using JAX
+KDD22,Information systems applications,Precision CityShield Against Hazardous Chemicals Threats via Location Mining and Self-Supervised Learning
+KDD22,Information systems applications,Predicting Bearings Degradation Stages for Predictive Maintenance in the Pharmaceutical Industry
+KDD22,World Wide Web,Vexation-Aware Active Learning for On-Menu Restaurant Dish Availability
+KDD22,World Wide Web,"COBART: Controlled, Optimized, Bidirectional and Auto-Regressive Transformer for Ad Headline Generation"
+KDD22,Information systems applications,SoccerCPD: Formation and Role Change-Point Detection in Soccer Matches Using Spatiotemporal Tracking Data
+KDD22,Information systems applications,Fast Mining and Forecasting of Co-evolving Epidemiological Data Streams
+KDD22,Information retrieval,Multi-Aspect Dense Retrieval
+KDD22,Information systems applications,Self-Supervised Augmentation and Generation for Multi-lingual Text Advertisements at Bing
+KDD22,Information retrieval,AutoFAS: Automatic Feature and Architecture Selection for Pre-Ranking System
+KDD22,Information systems applications/World Wide Web,Arbitrary Distribution Modeling with Censorship in Real-Time Bidding Advertising
+KDD22,Information systems applications,Automatically Discovering User Consumption Intents in Meituan
+KDD22,Information systems applications,TaxoTrans: Taxonomy-Guided Entity Translation
+KDD22,Information systems applications,"Persia: An Open, Hybrid System Scaling Deep Learning-based Recommenders up to 100 Trillion Parameters"
+KDD22,Information systems applications,Duplex Conversation: Towards Human-like Interaction in Spoken Dialogue Systems
+KDD22,Information retrieval,AdaFS: Adaptive Feature Selection in Deep Recommender System
+KDD22,Information retrieval,Feature-aware Diversified Re-ranking with Disentangled Representations for Relevant Recommendation
+KDD22,Information systems applications/World Wide Web,Task-optimized User Clustering based on Mobile App Usage for Cold-start Recommendations
+KDD22,Information systems applications,User Behavior Pre-training for Online Fraud Detection
+KDD22,Information systems applications,Modeling Persuasion Factor of User Decision for Recommendation
+KDD22,Information systems applications/World Wide Web,Lion: A GPU-Accelerated Online Serving System for Web-Scale Recommendation at Baidu
+KDD22,Information systems applications,Para-Pred: Addressing Heterogeneity for City-Wide Indoor Status Estimation in On-Demand Delivery
+KDD22,Information retrieval/Information systems applications,OAG-BERT: Towards a Unified Backbone Language Model for Academic Knowledge Services
+KDD22,Information retrieval,Pretraining Representations of Multi-modal Multi-query E-commerce Search
+KDD22,Information retrieval/Information systems applications/World Wide Web,An Online Multi-task Learning Framework for Google Feed Ads Auction Models
+KDD22,World Wide Web/Data management systems,CS-RAD: Conditional Member Status Refinement and Ability Discovery for Social Network Applications
+KDD22,Information retrieval,Semantic Retrieval at Walmart
+KDD22,World Wide Web,BE3R: BERT based Early-Exit Using Expert Routing
+KDD22,World Wide Web,Proactively Reducing the Hate Intensity of Online Posts via Hate Speech Normalization
+KDD22,Information retrieval/Information systems applications,CERAM: Coverage Expansion for Recommendations by Associating Discarded Models
+KDD22,Data management systems,Graph Neural Network Training and Data Tiering
+KDD22,Information systems applications,Towards Reliable Detection of Dielectric Hotspots in Thermal Images of the Underground Distribution Network
+KDD22,Information retrieval,ASPIRE: Air Shipping Recommendation for E-commerce Products via Causal Inference Framework
+KDD22,Information systems applications,DNA-Stabilized Silver Nanocluster Design via Regularized Variational Autoencoders
+KDD22,World Wide Web,Crowdsourcing with Contextual Uncertainty
+KDD22,Information retrieval,PinnerFormer: Sequence Modeling for User Representation at Pinterest
+KDD22,Information retrieval,Improving Relevance Modeling via Heterogeneous Behavior Graph Learning in Bing Ads
+KDD22,Information retrieval,DocLayNet: A Large Human-Annotated Dataset for Document-Layout Segmentation
+KDD22,Information systems applications,Intelligent Request Strategy Design in Recommender System
+KDD22,Information retrieval,NxtPost: User To Post Recommendations In Facebook Groups
+KDD22,Information systems applications,Service Time Prediction for Delivery Tasks via Spatial Meta-Learning
+KDD22,Information retrieval,Semantic Aware Answer Sentence Selection Using Self-Learning Based Domain Adaptation
+KDD22,Information retrieval,Generalized Deep Mixed Models
+KDD22,Information retrieval/Information systems applications,Recommendation in Offline Stores: A Gamification Approach for Learning the Spatiotemporal Representation of Indoor Shopping
+KDD22,Information retrieval/World Wide Web,Friend Recommendations with Self-Rescaling Graph Neural Networks
+KDD22,Information retrieval,Type Linking for Query Understanding and Semantic Search
+KDD22,Information systems applications,CognitionNet: A Collaborative Neural Network for Play Style Discovery in Online Skill Gaming Platform
+KDD22,Information systems applications,What is the Most Effective Intervention to Increase Job Retention for this Disabled Worker?
+KDD22,Information retrieval/World Wide Web,Learning Supplementary NLP Features for CTR Prediction in Sponsored Search
+KDD22,World Wide Web,ROI-Constrained Bidding via Curriculum-Guided Bayesian Reinforcement Learning
+KDD22,Information systems applications,Learning to Discover Causes of Traffic Congestion with Limited Labeled Data
+KDD22,Information systems applications,Representative Routes Discovery from Massive Trajectories
+KDD22,World Wide Web/Information systems applications,CONFLUX: A Request-level Fusion Framework for Impression Allocation via Cascade Distillation
+KDD22,Information retrieval/World Wide Web,Surrogate for Long-Term User Experience in Recommender Systems
+KDD22,Information systems applications,Graph2Route: A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction
+KDD22,Information retrieval,FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling
+KDD22,World Wide Web,Interpretable Personalized Experimentation
+KDD22,Information retrieval,Training Large-Scale News Recommenders with Pretrained Language Models in the Loop
+KDD22,Information retrieval,Contrastive Cross-domain Recommendation in Matching
+KDD22,World Wide Web/Information systems applications/Information retrieval,G2NET: A General Geography-Aware Representation Network for Hotel Search Ranking
+KDD22,World Wide Web/Information retrieval,Mixture of Virtual-Kernel Experts for Multi-Objective User Profile Modeling
+KDD22,Information systems applications,Multiwave COVID-19 Prediction from Social Awareness Using Web Search and Mobility Data
+KDD22,Information systems applications,A Meta Reinforcement Learning Approach for Predictive Autoscaling in the Cloud
+KDD22,Information retrieval,Scale Calibration of Deep Ranking Models
+KDD22,Information systems applications,DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps
+KDD22,Information systems applications,CausalMTA: Eliminating the User Confounding Bias for Causal Multi-touch Attribution
+KDD22,Information retrieval,Device-cloud Collaborative Recommendation via Meta Controller
+KDD22,Information retrieval,ReprBERT: Distilling BERT to an Efficient Representation-Based Relevance Model for E-Commerce
+KDD22,World Wide Web,Multilingual Taxonomic Web Page Classification for Contextual Targeting at Yahoo
+KDD22,Information systems applications,Embedding Compression with Hashing for Efficient Representation Learning in Large-Scale Graph
+KDD22,Information systems applications,Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data
+KDD22,Information retrieval,CommerceMM: Large-Scale Commerce MultiModal Representation Learning with Omni Retrieval
+KDD22,Information retrieval,Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation
+KDD22,Information retrieval,Data-Driven Oracle Bone Rejoining: A Dataset and Practical Self-Supervised Learning Scheme
+KDD22,Information retrieval,Uni-Retriever: Towards Learning the Unified Embedding Based Retriever in Bing Sponsored Search
+KDD22,Information retrieval,Multi-Task Fusion via Reinforcement Learning for Long-Term User Satisfaction in Recommender Systems
+KDD22,Information retrieval,Medical Symptom Detection in Intelligent Pre-Consultation Using Bi-directional Hard-Negative Noise Contrastive Estimation
+KDD22,Information retrieval,JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding
+KDD22,Information systems applications/Information retrieval,DDR: Dialogue Based Doctor Recommendation for Online Medical Service
+KDD22,Information retrieval,Combo-Fashion: Fashion Clothes Matching CTR Prediction with Item History
+KDD22,Information retrieval,User-tag Profile Modeling in Recommendation System via Contrast Weighted Tag Masking
+KDD22,World Wide Web,Scalable Online Disease Diagnosis via Multi-Model-Fused Actor-Critic Reinforcement Learning
+KDD22,Information systems applications,Dynamic Network Anomaly Modeling of Cell-Phone Call Detail Records for Infectious Disease Surveillance
