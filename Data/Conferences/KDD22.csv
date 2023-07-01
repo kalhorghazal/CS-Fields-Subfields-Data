@@ -1,0 +1,459 @@
+Conference,Track,Index,Paper
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,GBPNet: Universal Geometric Representation Learning on Protein Structures
+KDD22,Research Track Full Papers,Computing methodologies,Saliency-Regularized Deep Multi-Task Learning
+KDD22,Research Track Full Papers,Computing methodologies,Submodular Feature Selection for Partial Label Learning
+KDD22,Research Track Full Papers,Information systems,Motif Prediction with Graph Neural Networks
+KDD22,Research Track Full Papers,Computing methodologies/Security and privacy,Practical Lossless Federated Singular Vector Decomposition over Billion-Scale Data
+KDD22,Research Track Full Papers,Information systems/Computing methodologies,Avoiding Biases due to Similarity Assumptions in Node Embeddings
+KDD22,Research Track Full Papers,Computing methodologies,Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction
+KDD22,Research Track Full Papers,Computing methodologies,Multi-Variate Time Series Forecasting on Variable Subsets
+KDD22,Research Track Full Papers,Computing methodologies,FedMSplit: Correlation-Adaptive Federated Multi-Task Learning across Multimodal Split Networks
+KDD22,Research Track Full Papers,Information systems,Efficient Join Order Selection Learning with Graph-based Representation
+KDD22,Research Track Full Papers,Information systems/Security and privacy,Knowledge-enhanced Black-box Attacks for Recommendations
+KDD22,Research Track Full Papers,Information systems,Multi-modal Siamese Network for Entity Alignment
+KDD22,Research Track Full Papers,Computer systems organization/Networks,Efficient Orthogonal Multi-view Subspace Clustering
+KDD22,Research Track Full Papers,Information systems,Scalar is Not Enough: Vectorization-based Unbiased Learning to Rank
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting
+KDD22,Research Track Full Papers,Theory of computation,Efficient Approximate Algorithms for Empirical Variance with Hashed Block Sampling
+KDD22,Research Track Full Papers,Information systems,Learning Binarized Graph Representations with Multi-faceted Quantization Reinforcement for Top-K Recommendation
+KDD22,Research Track Full Papers,Computing methodologies,RLogic: Recursive Logical Rule Learning from Knowledge Graphs
+KDD22,Research Track Full Papers,Computing methodologies,Sufficient Vision Transformer
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,HyperAid: Denoising in Hyperbolic Spaces for Tree-fitting and Hierarchical Clustering
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,TARNet: Task-Aware Reconstruction for Time-Series Transformer
+KDD22,Research Track Full Papers,Security and privacy/Theory of computation,Scalable Differentially Private Clustering via Hierarchically Separated Trees
+KDD22,Research Track Full Papers,Information systems/Theory of computation,Noisy Interactive Graph Search
+KDD22,Research Track Full Papers,Computing methodologies,Collaboration Equilibrium in Federated Learning
+KDD22,Research Track Full Papers,Information systems/Computing methodologies,A Generalized Doubly Robust Learning Framework for Debiasing Post-Click Conversion Rate Prediction
+KDD22,Research Track Full Papers,Information systems/Mathematics of computing,Discovering Significant Patterns under Sequential False Discovery Control
+KDD22,Research Track Full Papers,Information systems/Computing methodologies,Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers
+KDD22,Research Track Full Papers,Computing methodologies,Framing Algorithmic Recourse for Anomaly Detection
+KDD22,Research Track Full Papers,Computing methodologies/Information systems/Mathematics of computing,Robust Event Forecasting with Spatiotemporal Confounder Learning
+KDD22,Research Track Full Papers,Information systems,Addressing Unmeasured Confounder for Recommendation with Sensitivity Analysis
+KDD22,Research Track Full Papers,Information systems/Computing methodologies,On Structural Explanation of Bias in Graph Neural Networks
+KDD22,Research Track Full Papers,Applied computing/Theory of computation,Fair Labeled Clustering
+KDD22,Research Track Full Papers,Information systems,On Aligning Tuples for Regression
+KDD22,Research Track Full Papers,Computer systems organization,Spatio-Temporal Trajectory Similarity Learning in Road Networks
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,FreeKD: Free-direction Knowledge Distillation for Graph Neural Networks
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,Meta-Learned Metrics over Multi-Evolution Temporal Graphs
+KDD22,Research Track Full Papers,Computing methodologies,SIPF: Sampling Method for Inverse Protein Folding
+KDD22,Research Track Full Papers,Computing methodologies,Antibody Complementarity Determining Regions (CDRs) design using Constrained Energy Model
+KDD22,Research Track Full Papers,Computing methodologies,Optimal Interpretable Clustering Using Oblique Decision Trees
+KDD22,Research Track Full Papers,Computing methodologies,Finding Meta Winning Ticket to Train Your MAML
+KDD22,Research Track Full Papers,Computing methodologies,ClusterEA: Scalable Entity Alignment with Stochastic Training and Normalized Mini-batch Similarities
+KDD22,Research Track Full Papers,Computing methodologies,RES: A Robust Framework for Guiding Visual Explanation
+KDD22,Research Track Full Papers,Computing methodologies,Disentangled Ontology Embedding for Zero-shot Learning
+KDD22,Research Track Full Papers,Computing methodologies/Human-centered computing/Information systems,PARSRec: Explainable Personalized Attention-fused Recurrent Sequential Recommendation Using Session Partial Actions
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,Robust Inverse Framework using Knowledge-guided Self-Supervised Learning: An application to Hydrology
+KDD22,Research Track Full Papers,Information systems/Computing methodologies,Subset Node Anomaly Tracking over Large Dynamic Graphs
+KDD22,Research Track Full Papers,Information systems/Computing methodologies,BLISS: A Billion scale Index using Iterative Re-partitioning
+KDD22,Research Track Full Papers,Information systems,ProActive: Self-Attentive Temporal Point Process Flows for Activity Sequences
+KDD22,Research Track Full Papers,Computing methodologies,Connecting Low-Loss Subspace for Personalized Federated Learning
+KDD22,Research Track Full Papers,Information systems/Computing methodologies,Continuous-Time and Multi-Level Graph Representation Learning for Origin-Destination Demand Prediction
+KDD22,Research Track Full Papers,Computing methodologies,Streaming Hierarchical Clustering Based on Point-Set Kernel
+KDD22,Research Track Full Papers,Networks/Computing methodologies,Compressing Deep Graph Neural Networks via Adversarial Knowledge Distillation
+KDD22,Research Track Full Papers,Computing methodologies,Partial Label Learning with Semantic Label Representations
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies/Information systems,Quantifying and Reducing Registration Uncertainty of Spatial Vector Labels on Earth Imagery
+KDD22,Research Track Full Papers,Mathematics of computing/Hardware/Networks,Core-periphery Partitioning and Quantum Annealing
+KDD22,Research Track Full Papers,Computing methodologies/Theory of computation,AdaAX: Explaining Recurrent Neural Networks by Learning Automata with Adaptive States
+KDD22,Research Track Full Papers,Information systems,Towards Universal Sequence Representation Learning for Recommender Systems
+KDD22,Research Track Full Papers,Information systems/Computing methodologies,Information systems/Computing methodologies
+KDD22,Research Track Full Papers,Information systems/Computing methodologies,Few-Shot Fine-Grained Entity Typing with Automatic Label Interpretation and Instance Generation
+KDD22,Research Track Full Papers,Computing methodologies/Theory of computation,LinE: Logical Query Reasoning over Hierarchical Knowledge Graphs
+KDD22,Research Track Full Papers,Mathematics of computing/General and reference/Computing methodologies,Local Evaluation of Time Series Anomaly Detection Algorithms
+KDD22,Research Track Full Papers,Computing methodologies,Low-rank Nonnegative Tensor Decomposition in Hyperbolic Space
+KDD22,Research Track Full Papers,Computing methodologies,Global Self-Attention as a Replacement for Graph Convolution
+KDD22,Research Track Full Papers,Computing methodologies,Flexible Modeling and Multitask Learning using Differentiable Tree Ensembles
+KDD22,Research Track Full Papers,Computing methodologies,Dual-Geometric Space Embedding Model for Two-View Knowledge Graphs
+KDD22,Research Track Full Papers,Computing methodologies/Information systems/Social and professional topics,Detecting Cash-out Users via Dense Subgraphs
+KDD22,Research Track Full Papers,Human-centered computing/Mathematics of computing,A Spectral Representation of Networks: The Path of Subgraphs
+KDD22,Research Track Full Papers,Computing methodologies,Feature Overcorrelation in Deep Graph Neural Networks: A New Perspective
+KDD22,Research Track Full Papers,Computing methodologies,Condensing Graphs via One-Step Gradient Matching
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,Selective Cross-City Transfer Learning for Traffic Prediction via Source City Region Re-Weighting
+KDD22,Research Track Full Papers,Information systems,JuryGCN: Quantifying Jackknife Uncertainty on Graph Convolutional Networks
+KDD22,Research Track Full Papers,Information systems/Theory of computation,HyperLogLogLog: Cardinality Estimation With One Log More
+KDD22,Research Track Full Papers,Computing methodologies,SOS: Score-based Oversampling for Tabular Data
+KDD22,Research Track Full Papers,Information systems/Computing methodologies,CoRGi: Content-Rich Graph Neural Networks with Attention
+KDD22,Research Track Full Papers,Computing methodologies/Computer systems organization,Learned Token Pruning for Transformers
+KDD22,Research Track Full Papers,Computing methodologies,ExMeshCNN: An Explainable Convolutional Neural Network Architecture for 3D Shape Analysis
+KDD22,Research Track Full Papers,Computing methodologies,In Defense of Core-set: A Density-aware Core-set Selection for Active Learning
+KDD22,Research Track Full Papers,Computing methodologies,FlowGEN: A Generative Model for Flow Graphs
+KDD22,Research Track Full Papers,Computing methodologies,Variational Inference for Training Graph Neural Networks in Low-Data Regime through Joint Structure-Label Estimation
+KDD22,Research Track Full Papers,Information systems/Computing methodologies,Modeling Network-level Traffic Flow Transitions on Sparse Data
+KDD22,Research Track Full Papers,Information systems/Computing methodologies,The DipEncoder: Enforcing Multimodality in Autoencoders
+KDD22,Research Track Full Papers,Computing methodologies,KPGT: Knowledge-Guided Pre-training of Graph Transformer for Molecular Property Prediction
+KDD22,Research Track Full Papers,Computing methodologies,Domain Adaptation in Physical Systems via Graph Kernel
+KDD22,Research Track Full Papers,Computing methodologies,Sampling-based Estimation of the Number of Distinct Values in Distributed Environment
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,HierCDF: A Bayesian Network-based Hierarchical Cognitive Diagnosis Framework
+KDD22,Research Track Full Papers,Computing methodologies,Communication-Efficient Robust Federated Learning with Noisy Labels
+KDD22,Research Track Full Papers,Mathematics of computing/Mathematics of computing,Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN
+KDD22,Research Track Full Papers,Information systems,Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning
+KDD22,Research Track Full Papers,Computing methodologies/Security and privacy/Theory of computation,PAC-Wrap: Semi-Supervised PAC Anomaly Detection
+KDD22,Research Track Full Papers,Computing methodologies,TransBO: Hyperparameter Optimization via Two-Phase Transfer Learning
+KDD22,Research Track Full Papers,Computing methodologies,Transfer Learning based Search Space Design for Hyperparameter Tuning
+KDD22,Research Track Full Papers,Computing methodologies,Sparse Conditional Hidden Markov Model for Weakly Supervised Named Entity Recognition
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Graph Structural Attack by Perturbing Spectral Distance
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,Deep Representations for Time-varying Brain Datasets
+KDD22,Research Track Full Papers,Information systems/Theory of computation,Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Semantic Enhanced Text-to-SQL Parsing via Iteratively Learning Schema Linking Graph
+KDD22,Research Track Full Papers,Mathematics of computing,Partial-Quasi-Newton Methods: Efficient Algorithms for Minimax Optimization Problems with Unbalanced Dimensionality
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting
+KDD22,Research Track Full Papers,Information systems,User-Event Graph Embedding Learning for Context-Aware Recommendation
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,Graph-in-Graph Network for Automatic Gene Ontology Description Generation
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,Graph Rationalization with Environment-based Augmentations
+KDD22,Research Track Full Papers,Computing methodologies,Label-enhanced Prototypical Network with Contrastive Learning for Multi-label Few-shot Aspect Category Detection
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Fair Representation Learning: An Alternative to Mutual Information
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Joint Knowledge Graph Completion and Question Answering
+KDD22,Research Track Full Papers,Computing methodologies,RL2: A Call for Simultaneous Representation Learning and Rule Learning for Graph Streams
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,UD-GNN: Uncertainty-aware Debiased Training on Semi-Homophilous Graphs
+KDD22,Research Track Full Papers,Computing methodologies,Practical Counterfactual Policy Learning for Top-K Recommendations
+KDD22,Research Track Full Papers,Information systems/Theory of computation,Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation
+KDD22,Research Track Full Papers,Information systems,Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer
+KDD22,Research Track Full Papers,Computing methodologies,Matrix Profile XXIV: Scaling Time Series Anomaly Detection to Trillions of Datapoints and Ultra-fast Arriving Data Streams
+KDD22,Research Track Full Papers,Computing methodologies,S2RL: Do We Really Need to Perceive All States in Deep Multi-Agent Reinforcement Learning?
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Learning Differential Operators for Interpretable Time Series Modeling
+KDD22,Research Track Full Papers,Mathematics of computing/Information systems,Learning Causal Effects on Hypergraphs
+KDD22,Research Track Full Papers,Mathematics of computing,ML4S: Learning Causal Skeleton from Vicinal Graphs
+KDD22,Research Track Full Papers,Computing methodologies,Non-stationary Time-aware Kernelized Attention for Temporal Event Prediction
+KDD22,Research Track Full Papers,Information systems,CrossCBR: Cross-view Contrastive Learning for Bundle Recommendation
+KDD22,Research Track Full Papers,Mathematics of computing,Discovering Invariant and Changing Mechanisms from Data
+KDD22,Research Track Full Papers,Human-centered computing/Computing methodologies/Applied computing,Learning Models of Individual Behavior in Chess
+KDD22,Research Track Full Papers,Theory of computation,Minimizing Congestion for Balanced Dominators
+KDD22,Research Track Full Papers,Information systems,Extracting Relevant Information from User's Utterances in Conversational Search and Recommendation
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,Nonlinearity Encoding for Extrapolation of Neural Networks
+KDD22,Research Track Full Papers,Computing methodologies/Social and professional topics,Learning Fair Representation via Distributional Contrastive Disentanglement
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies/Information systems/Mathematics of computing,Predicting Opinion Dynamics via Sociologically-Informed Neural Networks
+KDD22,Research Track Full Papers,Theory of computation/Information systems/Computer systems organization/Security and privacy,FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy
+KDD22,Research Track Full Papers,Security and privacy/Computing methodologies,MetaV: A Meta-Verifier Approach to Task-Agnostic Model Fingerprinting
+KDD22,Research Track Full Papers,Information systems,Core-periphery Models for Hypergraphs
+KDD22,Research Track Full Papers,Computing methodologies/Networks/Social and professional topics,Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep Neural Network
+KDD22,Research Track Full Papers,Security and privacy/Computing methodologies,Bilateral Dependency Optimization: Defending Against Model-inversion Attacks
+KDD22,Research Track Full Papers,Computer systems organization/Networks,Evaluating Knowledge Graph Accuracy Powered by Optimized Human-machine Collaboration
+KDD22,Research Track Full Papers,Information systems/Theory of computation,Neural Bandit with Arm Group Graph
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Rep2Vec: Repository Embedding via Heterogeneous Graph Adversarial Contrastive Learning
+KDD22,Research Track Full Papers,Computing methodologies,External Knowledge Infusion for Tabular Pre-training Models with Dual-adapters
+KDD22,Research Track Full Papers,Security and privacy,Releasing Private Data for Numerical Queries
+KDD22,Research Track Full Papers,Computing methodologies,Importance Prioritized Policy Distillation
+KDD22,Research Track Full Papers,Security and privacy,Synthesising Audio Adversarial Examples for Automatic Speech Recognition
+KDD22,Research Track Full Papers,Computing methodologies,p-Meta: Towards On-device Deep Model Adaptation
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,Fair and Interpretable Models for Survival Analysis
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Graph-Flashback Network for Next Location Recommendation
+KDD22,Research Track Full Papers,Computing methodologies,SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs
+KDD22,Research Track Full Papers,Security and privacy/Computing methodologies,DICE: Domain-attack Invariant Causal Learning for Improved Data Privacy Protection and Adversarial Robustness
+KDD22,Research Track Full Papers,Computing methodologies,Variational Flow Graphical Model
+KDD22,Research Track Full Papers,Computing methodologies,Semi-supervised Drifted Stream Learning with Short Lookback
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Fair Ranking as Fair Division: Impact-Based Individual Fairness in Ranking
+KDD22,Research Track Full Papers,Software and its engineering/Computing methodologies,A Generalized Backward Compatibility Metric
+KDD22,Research Track Full Papers,Computing methodologies,Balancing Bias and Variance for Active Weakly Supervised Learning
+KDD22,Research Track Full Papers,Computing methodologies,"On Missing Labels, Long-tails and Propensities in Extreme Multi-label Classification"
+KDD22,Research Track Full Papers,Computing methodologies,Active Model Adaptation Under Unknown Shift
+KDD22,Research Track Full Papers,Information systems,Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting
+KDD22,Research Track Full Papers,Information systems,Multi-View Clustering for Open Knowledge Base Canonicalization
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,Deep Learning for Prognosis Using Task-fMRI: A Novel Architecture and Training Scheme
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Pairwise Adversarial Training for Unsupervised Class-imbalanced Domain Adaptation
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies/Mathematics of computing,State Dependent Parallel Neural Hawkes Process for Limit Order Book Event Stream Prediction and Simulation
+KDD22,Research Track Full Papers,Computing methodologies,Robust and Informative Text Augmentation (RITA) via Constrained Worst-Case Transformations for Low-Resource Named Entity Recognition
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,Learning on Graphs with Out-of-Distribution Nodes
+KDD22,Research Track Full Papers,Human-centered computing,RGVisNet: A Hybrid Retrieval-Generation Neural Framework Towards Automatic Data Visualization Generation
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,Towards an Optimal Asymmetric Graph Structure for Robust Semi-supervised Node Classification
+KDD22,Research Track Full Papers,Information systems/Computing methodologies,ERNet: Unsupervised Collective Extraction and Registration in Neuroimaging Data
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing/Information systems,Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems
+KDD22,Research Track Full Papers,Information systems,Knowledge Enhanced Search Result Diversification
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,Causal Attention for Interpretable and Generalizable Graph Classification
+KDD22,Research Track Full Papers,Mathematics of computing/Theory of computation,Demystify Hyperparameters for Stochastic Optimization with Transferable Representations
+KDD22,Research Track Full Papers,Information systems/Computing methodologies/Theory of computation,GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks
+KDD22,Research Track Full Papers,Computing methodologies,pureGAM: Learning an Inherently Pure Additive Model
+KDD22,Research Track Full Papers,Computing methodologies,Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders
+KDD22,Research Track Full Papers,Theory of computation,Clustering with Fair-Center Representation: Parameterized Approximation Algorithms and Heuristics
+KDD22,Research Track Full Papers,Information systems/Social and professional topics,Incremental Cognitive Diagnosis for Intelligent Education
+KDD22,Research Track Full Papers,Computing methodologies,Improving Data-driven Heterogeneous Treatment Effect Estimation Under Structure Uncertainty
+KDD22,Research Track Full Papers,Information systems,Aligning Dual Disentangled User Representations from Ratings and Textual Content
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,Dense Feature Tracking of Atmospheric Winds with Deep Optical Flow
+KDD22,Research Track Full Papers,Information systems,Towards Representation Alignment and Uniformity in Collaborative Filtering
+KDD22,Research Track Full Papers,Computing methodologies,Group-wise Reinforcement Feature Generation for Optimal and Explainable Representation Space Reconstruction
+KDD22,Research Track Full Papers,Information systems/Security and privacy,A Model-Agnostic Approach to Differentially Private Topic Mining
+KDD22,Research Track Full Papers,Computing methodologies,Toward Learning Robust and Invariant Representations with Alignment Regularization and Data Augmentation
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,Estimating Individualized Causal Effect with Confounded Instruments
+KDD22,Research Track Full Papers,Information systems,Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-Distribution
+KDD22,Research Track Full Papers,Computing methodologies/Networks,Streaming Graph Neural Networks with Generative Replay
+KDD22,Research Track Full Papers,Computing methodologies,Proton: Probing Schema Linking Information from Pre-trained Language Models for Text-to-SQL Parsing
+KDD22,Research Track Full Papers,Computing methodologies,Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer
+KDD22,Research Track Full Papers,Computing methodologies,Task-Adaptive Few-shot Node Classification
+KDD22,Research Track Full Papers,Computing methodologies,Partial Label Learning with Discrimination Augmentation
+KDD22,Research Track Full Papers,Information systems,Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning
+KDD22,Research Track Full Papers,Information systems,Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage
+KDD22,Research Track Full Papers,Computing methodologies,Graph Neural Networks with Node-wise Architecture
+KDD22,Research Track Full Papers,Information systems/Security and privacy,Debiasing Learning for Membership Inference Attacks Against Recommender Systems
+KDD22,Research Track Full Papers,Information systems,Invariant Preference Learning for General Debiasing in Recommendation
+KDD22,Research Track Full Papers,Computing methodologies,An Embedded Feature Selection Framework for Control
+KDD22,Research Track Full Papers,Information systems,Comprehensive Fair Meta-learned Recommender System
+KDD22,Research Track Full Papers,Computing methodologies,SagDRE: Sequence-Aware Graph-Based Document-Level Relation Extraction with Adaptive Margin Loss
+KDD22,Research Track Full Papers,Computing methodologies/Information systems/Theory of computation,Disentangled Dynamic Heterogeneous Graph Learning for Opioid Overdose Prediction
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies/Mathematics of computing,Beyond Point Prediction: Capturing Zero-Inflated & Heavy-Tailed Spatiotemporal Data with Deep Extreme Mixture Models
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Multi-fidelity Hierarchical Neural Processes
+KDD22,Research Track Full Papers,Computing methodologies/Theory of computation,Domain Adaptation with Dynamic Open-Set Targets
+KDD22,Research Track Full Papers,Computing methodologies,Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,CLARE: A Semi-supervised Community Detection Algorithm
+KDD22,Research Track Full Papers,Computing methodologies,Geometric Policy Iteration for Markov Decision Processes
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,Non-stationary A/B Tests
+KDD22,Research Track Full Papers,Computing methodologies,Robust Tensor Graph Convolutional Networks via T-SVD based Graph Augmentation
+KDD22,Research Track Full Papers,Information systems,Self-Supervised Hypergraph Transformer for Recommender Systems
+KDD22,Research Track Full Papers,Computing methodologies,Sample-Efficient Kernel Mean Estimator with Marginalized Corrupted Data
+KDD22,Research Track Full Papers,Applied computing,RetroGraph: Retrosynthetic Planning with Graph Search
+KDD22,Research Track Full Papers,Theory of computation,Ultrahyperbolic Knowledge Graph Embeddings
+KDD22,Research Track Full Papers,Computing methodologies,End-to-End Semi-Supervised Ordinal Regression AUC Maximization with Convolutional Kernel Networks
+KDD22,Research Track Full Papers,Information systems,MetaPTP: An Adaptive Meta-optimized Model for Personalized Spatial Trajectory Prediction
+KDD22,Research Track Full Papers,Networks/Computing methodologies,Towards a Native Quantum Paradigm for Graph Representation Learning: A Sampling-based Recurrent Embedding Approach
+KDD22,Research Track Full Papers,Applied computing,Solving the Batch Stochastic Bin Packing Problem in Cloud: A Chance-constrained Optimization Approach
+KDD22,Research Track Full Papers,Computing methodologies/Human-centered computing/Information systems,On-Device Learning for Model Personalization with Large-Scale Cloud-Coordinated Domain Adaption
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,Enhancing Machine Learning Approaches for Graph Optimization Problems with Diversifying Graph Augmentation
+KDD22,Research Track Full Papers,Computing methodologies,Causal Discovery on Non-Euclidean Data
+KDD22,Research Track Full Papers,Information systems,HICF: Hyperbolic Informative Collaborative Filtering
+KDD22,Research Track Full Papers,Computing methodologies,Toward Real-life Dialogue State Tracking Involving Negative Feedback Utterances
+KDD22,Research Track Full Papers,Information systems,Numerical Tuple Extraction from Tables with Pre-training
+KDD22,Research Track Full Papers,Computing methodologies,Learning Task-relevant Representations for Generalization via Characteristic Functions of Reward Sequence Distributions
+KDD22,Research Track Full Papers,Computing methodologies,Reinforcement Subgraph Reasoning for Fake News Detection
+KDD22,Research Track Full Papers,Information systems,Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation
+KDD22,Research Track Full Papers,Information systems,TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Learning Classifiers under Delayed Feedback with a Time Window Assumption
+KDD22,Research Track Full Papers,Computing methodologies,Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting
+KDD22,Research Track Full Papers,Security and privacy/Computing methodologies,LeapAttack: Hard-Label Adversarial Attack on Text via Gradient-Based Optimization
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,Deconfounding Actor-Critic Network with Policy Adaptation for Dynamic Treatment Regimes
+KDD22,Research Track Full Papers,Computing methodologies,Nimble GNN Embedding with Tensor-Train Decomposition
+KDD22,Research Track Full Papers,Theory of computation/Computing methodologies,Accurate Node Feature Estimation with Structured Variational Graph Autoencoder
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Adaptive Model Pooling for Online Deep Anomaly Detection from a Complex Evolving Data Stream
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,ROLAND: Graph Learning Framework for Dynamic Graphs
+KDD22,Research Track Full Papers,Security and privacy/Computing methodologies,Availability Attacks Create Shortcuts
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,Multiplex Heterogeneous Graph Convolutional Network
+KDD22,Research Track Full Papers,Computing methodologies/Information systems/Human-centered computing,MDP2 Forest: A Constrained Continuous Multi-dimensional Policy Optimization Approach for Short-video Recommendation
+KDD22,Research Track Full Papers,Computer systems organization/Theory of computation/Hardware,Intrinsic-Motivated Sensor Management: Exploring with Physical Surprise
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing/Information systems,Dual Bidirectional Graph Convolutional Networks for Zero-shot Node Classification
+KDD22,Research Track Full Papers,Applied computing/Information systems,M3Care: Learning with Missing Modalities in Multimodal Healthcare Data
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Variational Graph Author Topic Modeling
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,Physics-infused Machine Learning for Crowd Simulation
+KDD22,Research Track Full Papers,Computing methodologies,Few-shot Heterogeneous Graph Learning via Cross-domain Knowledge Transfer
+KDD22,Research Track Full Papers,Computing methodologies,M-Mix: Generating Hard Negatives via Multi-sample Mixing for Contrastive Learning
+KDD22,Research Track Full Papers,Social and professional topics/Information systems,Multi-Agent Graph Convolutional Reinforcement Learning for Dynamic Electric Vehicle Charging Pricing
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,MetroGAN: Simulating Urban Morphology with Generative Adversarial Network
+KDD22,Research Track Full Papers,Computing methodologies/Mathematics of computing,Model Degradation Hinders Deep Graph Neural Networks
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Counteracting User Attention Bias in Music Streaming Recommendation via Reward Modification
+KDD22,Research Track Full Papers,Computing methodologies/Networks,Improving Social Network Embedding via New Second-Order Continuous Graph Neural Networks
+KDD22,Research Track Full Papers,Information systems,COSTA: Covariance-Preserving Feature Augmentation for Graph Contrastive Learning
+KDD22,Research Track Full Papers,Computing methodologies/Information systems,Unsupervised Key Event Detection from Massive Text Corpora
+KDD22,Research Track Full Papers,Security and privacy/Computing methodologies,FLDetector: Defending Federated Learning Against Model Poisoning Attacks via Detecting Malicious Clients
+KDD22,Research Track Full Papers,Computing methodologies,Adaptive Learning for Weakly Labeled Streams
+KDD22,Research Track Full Papers,Applied computing/Social and professional topics/Computing methodologies,Adaptive Fairness-Aware Online Meta-Learning for Changing Environments
+KDD22,Research Track Full Papers,Networks,MT-FlowFormer: A Semi-Supervised Flow Transformer for Encrypted Traffic Classification
+KDD22,Research Track Full Papers,Security and privacy,Integrity Authentication in Tree Models
+KDD22,Research Track Full Papers,Computing methodologies,Contrastive Learning with Complex Heterogeneity
+KDD22,Research Track Full Papers,Information systems/Theory of computation,Instant Graph Neural Networks for Dynamic Graphs
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies/Information systems,KRATOS: Context-Aware Cell Type Classification and Interpretation using Joint Dimensionality Reduction and Clustering
+KDD22,Research Track Full Papers,Applied computing/Computing methodologies,Unified 2D and 3D Pre-Training of Molecular Representations
+KDD22,Research Track Full Papers,Security and privacy/Computing methodologies,How does Heterophily Impact the Robustness of Graph Neural Networks?: Theoretical Connections and Practical Implications
+KDD22,Research Track Full Papers,Information systems/Theory of computation,A Nearly-Linear Time Algorithm for Minimizing Risk of Conflict in Social Networks
+KDD22,ADS Track Papers,Computing methodologies/Information systems,A Process-Aware Decision Support System for Business Processes
+KDD22,ADS Track Papers,Networks/Computing methodologies,RCAD: Real-time Collaborative Anomaly Detection System for Mobile Broadband Networks
+KDD22,ADS Track Papers,Hardware/Computing methodologies,Generalizable Floorplanner through Corner Block List Representation and Hypergraph Embedding
+KDD22,ADS Track Papers,Information systems/Computing methodologies,ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest
+KDD22,ADS Track Papers,Information systems/Computing methodologies,Company-as-Tribe: Company Financial Risk Assessment on Tribe-Style Graph with Hierarchical Graph Neural Networks
+KDD22,ADS Track Papers,Information systems/Computing methodologies,Personalized Chit-Chat Generation for Recommendation Using External Chat Corpora
+KDD22,ADS Track Papers,Information systems,EXTR: Click-Through Rate Prediction with Externalities in E-Commerce Sponsored Search
+KDD22,ADS Track Papers,Applied computing,BrainNet: Epileptic Wave Detection from SEEG with Hierarchical Graph Diffusion Learning
+KDD22,ADS Track Papers,Information systems,Physics-Guided Graph Meta Learning for Predicting Water Temperature and Streamflow in Stream Networks
+KDD22,ADS Track Papers,Mathematics of computing/Computing methodologies,AntiBenford Subgraphs: Unsupervised Anomaly Detection in Financial Networks
+KDD22,ADS Track Papers,Information systems/Computing methodologies,Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival
+KDD22,ADS Track Papers,Security and privacy/Computing methodologies,ILASR: Privacy-Preserving Incremental Learning for Automatic Speech Recognition at Production Scale
+KDD22,ADS Track Papers,Applied computing/Information systems,Graph-based Multilingual Language Model: Leveraging Product Relations for Search Relevance
+KDD22,ADS Track Papers,Applied computing/Information systems/Computing methodologies,Ask to Know More: Generating Counterfactual Explanations for Fake Claims
+KDD22,ADS Track Papers,Mathematics of computing,"The Good, the Bad, and the Outliers: A Testing Framework for Decision Optimization Model Learning"
+KDD22,ADS Track Papers,Applied computing/Information systems,Amazon Shop the Look: A Visual Search System for Fashion and Home
+KDD22,ADS Track Papers,Human-centered computing/Information systems,Affective Signals in a Social Media Recommender System
+KDD22,ADS Track Papers,Information systems/Computing methodologies,TwHIN: Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation
+KDD22,ADS Track Papers,Applied computing/Information systems,Automatic Generation of Product-Image Sequence in E-commerce
+KDD22,ADS Track Papers,Computing methodologies,SAMCNet: Towards a Spatially Explainable AI Approach for Classifying MxIF Oncology Data
+KDD22,ADS Track Papers,Hardware/Computing methodologies,Large-Scale Acoustic Automobile Fault Detection: Diagnosing Engines Through Sound
+KDD22,ADS Track Papers,Computing methodologies,Precise Mobility Intervention for Epidemic Control Using Unobservable Information via Deep Reinforcement Learning
+KDD22,ADS Track Papers,Computing methodologies/Human-centered computing,Alexa Teacher Model: Pretraining and Distilling Multi-Billion-Parameter Encoders for Natural Language Understanding Systems
+KDD22,ADS Track Papers,Applied computing/Computing methodologies,DP-GAT: A Framework for Image-based Disease Progression Prediction
+KDD22,ADS Track Papers,Applied computing/Computing methodologies,Graph Meta-Reinforcement Learning for Transferable Autonomous Mobility-on-Demand
+KDD22,ADS Track Papers,Computing methodologies/Information systems/Mathematics of computing,Applying Deep Learning Based Probabilistic Forecasting to Food Preparation Time for On-Demand Delivery Service
+KDD22,ADS Track Papers,Computing methodologies,Collaborative Intelligence Orchestration: Inconsistency-Based Fusion of Semi-Supervised Learning and Active Learning
+KDD22,ADS Track Papers,Applied computing/Computing methodologies/Information systems,Automatic Controllable Product Copywriting for E-Commerce
+KDD22,ADS Track Papers,Information systems,Talent Demand-Supply Joint Prediction with Dynamic Heterogeneous Graph Enhanced Meta-Learning
+KDD22,ADS Track Papers,Applied computing/Computing methodologies/Theory of computation,Real-Time Rideshare Driver Supply Values Using Online Reinforcement Learning
+KDD22,ADS Track Papers,Computing methodologies,Learning Sparse Latent Graph Representations for Anomaly Detection in Multivariate Time Series
+KDD22,ADS Track Papers,Computing methodologies,Three-Stage Root Cause Analysis for Logistics Time Efficiency via Explainable Machine Learning
+KDD22,ADS Track Papers,Computing methodologies,Unsupervised Learning Style Classification for Learning Path Generation in Online Education Platforms
+KDD22,ADS Track Papers,Applied computing/Computing methodologies/Mathematics of computing/Software and its engineering,Greykite: Deploying Flexible Forecasting at Scale at LinkedIn
+KDD22,ADS Track Papers,Information systems,Learning Backward Compatible Embeddings
+KDD22,ADS Track Papers,Information systems,ERNIE-GeoL: A Geography-and-Language Pre-trained Model and its Applications in Baidu Maps
+KDD22,ADS Track Papers,Computing methodologies,DuIVA: An Intelligent Voice Assistant for Hands-free and Eyes-free Voice Interaction with the Baidu Maps App
+KDD22,ADS Track Papers,Information systems,Rax: Composable Learning-to-Rank Using JAX
+KDD22,ADS Track Papers,Applied computing/Computing methodologies,A Fully Differentiable Set Autoencoder
+KDD22,ADS Track Papers,Information systems/Applied computing,Precision CityShield Against Hazardous Chemicals Threats via Location Mining and Self-Supervised Learning
+KDD22,ADS Track Papers,Software and its engineering,Augmenting Log-based Anomaly Detection Models to Reduce False Anomalies with Human Feedback
+KDD22,ADS Track Papers,Applied computing/Computing methodologies,T-Cell Receptor-Peptide Interaction Prediction with Physical Model Augmented Pseudo-Labeling
+KDD22,ADS Track Papers,Computing methodologies,Analyzing Online Transaction Networks with Network Motifs
+KDD22,ADS Track Papers,Computing methodologies/Information systems,Predicting Bearings Degradation Stages for Predictive Maintenance in the Pharmaceutical Industry
+KDD22,ADS Track Papers,Computing methodologies/Information systems,Vexation-Aware Active Learning for On-Menu Restaurant Dish Availability
+KDD22,ADS Track Papers,Computing methodologies/Information systems,"COBART: Controlled, Optimized, Bidirectional and Auto-Regressive Transformer for Ad Headline Generation"
+KDD22,ADS Track Papers,Computing methodologies,Preventing Catastrophic Forgetting in Continual Learning of New Natural Language Tasks
+KDD22,ADS Track Papers,Information systems/Mathematics of computing,SoccerCPD: Formation and Role Change-Point Detection in Soccer Matches Using Spatiotemporal Tracking Data
+KDD22,ADS Track Papers,Information systems/Mathematics of computing,Fast Mining and Forecasting of Co-evolving Epidemiological Data Streams
+KDD22,ADS Track Papers,General and reference/Mathematics of computing,A/B Testing Intuition Busters: Common Misunderstandings in Online Controlled Experiments
+KDD22,ADS Track Papers,Information systems,Multi-Aspect Dense Retrieval
+KDD22,ADS Track Papers,Computing methodologies/Information systems,Self-Supervised Augmentation and Generation for Multi-lingual Text Advertisements at Bing
+KDD22,ADS Track Papers,Computing methodologies,A New Generation of Perspective API: Efficient Multilingual Character-level Transformers
+KDD22,ADS Track Papers,Security and privacy,EdgeWatch: Collaborative Investigation of Data Integrity at the Edge based on Blockchain
+KDD22,ADS Track Papers,Computing methodologies/Computer systems organization/Social and professional topics,Design Domain Specific Neural Network via Symbolic Testing
+KDD22,ADS Track Papers,Computing methodologies/Software and its engineering,Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition
+KDD22,ADS Track Papers,Information systems,AutoFAS: Automatic Feature and Architecture Selection for Pre-Ranking System
+KDD22,ADS Track Papers,Information systems/Theory of computation/Applied computing/Computing methodologies,Arbitrary Distribution Modeling with Censorship in Real-Time Bidding Advertising
+KDD22,ADS Track Papers,Information systems,Automatically Discovering User Consumption Intents in Meituan
+KDD22,ADS Track Papers,Computing methodologies,Towards Learning Disentangled Representations for Time Series
+KDD22,ADS Track Papers,Computing methodologies/Information systems,TaxoTrans: Taxonomy-Guided Entity Translation
+KDD22,ADS Track Papers,Information systems,"Persia: An Open, Hybrid System Scaling Deep Learning-based Recommenders up to 100 Trillion Parameters"
+KDD22,ADS Track Papers,Computing methodologies/Information systems,Duplex Conversation: Towards Human-like Interaction in Spoken Dialogue Systems
+KDD22,ADS Track Papers,Information systems,AdaFS: Adaptive Feature Selection in Deep Recommender System
+KDD22,ADS Track Papers,Computer systems organization/Networks,A Logic Aware Neural Generation Method for Explainable Data-to-text
+KDD22,ADS Track Papers,Information systems,Feature-aware Diversified Re-ranking with Disentangled Representations for Relevant Recommendation
+KDD22,ADS Track Papers,Mathematics of computing/Software and its engineering,Rapid Regression Detection in Software Deployments through Sequential Testing
+KDD22,ADS Track Papers,Information systems/Theory of computation,Task-optimized User Clustering based on Mobile App Usage for Cold-start Recommendations
+KDD22,ADS Track Papers,Information systems,User Behavior Pre-training for Online Fraud Detection
+KDD22,ADS Track Papers,Information systems,Modeling Persuasion Factor of User Decision for Recommendation
+KDD22,ADS Track Papers,Computing methodologies/Applied computing,HiPAL: A Deep Framework for Physician Burnout Prediction Using Activity Logs in Electronic Health Records
+KDD22,ADS Track Papers,Information systems/Computer systems organization,Lion: A GPU-Accelerated Online Serving System for Web-Scale Recommendation at Baidu
+KDD22,ADS Track Papers,Computing methodologies,No One Left Behind: Inclusive Federated Learning over Heterogeneous Devices
+KDD22,ADS Track Papers,Information systems,Para-Pred: Addressing Heterogeneity for City-Wide Indoor Status Estimation in On-Demand Delivery
+KDD22,ADS Track Papers,Computing methodologies/Information systems,OAG-BERT: Towards a Unified Backbone Language Model for Academic Knowledge Services
+KDD22,ADS Track Papers,Information systems,Pretraining Representations of Multi-modal Multi-query E-commerce Search
+KDD22,ADS Track Papers,Computer systems organization/Computing methodologies,Multi-task Hierarchical Classification for Disk Failure Prediction in Online Service Systems
+KDD22,ADS Track Papers,Mathematics of computing/Applied computing,Promotheus: An End-to-End Machine Learning Framework for Optimizing Markdown in Online Fashion E-commerce
+KDD22,ADS Track Papers,Human-centered computing,Uncovering the Heterogeneous Effects of Preference Diversity on User Activeness: A Dynamic Mixture Model
+KDD22,ADS Track Papers,Applied computing/Theory of computation,Retrieval-Based Gradient Boosting Decision Trees for Disease Risk Assessment
+KDD22,ADS Track Papers,Computing methodologies/Information systems,An Online Multi-task Learning Framework for Google Feed Ads Auction Models
+KDD22,ADS Track Papers,Information systems,CS-RAD: Conditional Member Status Refinement and Ability Discovery for Social Network Applications
+KDD22,ADS Track Papers,Information systems,Semantic Retrieval at Walmart
+KDD22,ADS Track Papers,Computing methodologies/Information systems/Applied computing,BE3R: BERT based Early-Exit Using Expert Routing
+KDD22,ADS Track Papers,Computing methodologies/Software and its engineering,Looper: An End-to-End ML Platform for Product Decisions
+KDD22,ADS Track Papers,Computing methodologies/Information systems,Proactively Reducing the Hate Intensity of Online Posts via Hate Speech Normalization
+KDD22,ADS Track Papers,Information systems,CERAM: Coverage Expansion for Recommendations by Associating Discarded Models
+KDD22,ADS Track Papers,Computing methodologies/Networks,Packet Representation Learning for Traffic Classification
+KDD22,ADS Track Papers,Information systems/Computer systems organization/Theory of computation,Graph Neural Network Training and Data Tiering
+KDD22,ADS Track Papers,Computing methodologies/Hardware/Information systems,Towards Reliable Detection of Dielectric Hotspots in Thermal Images of the Underground Distribution Network
+KDD22,ADS Track Papers,Computing methodologies/Software and its engineering,Generating Examples from CLI Usage: Can Transformers Help?
+KDD22,ADS Track Papers,Computing methodologies/Information systems,ASPIRE: Air Shipping Recommendation for E-commerce Products via Causal Inference Framework
+KDD22,ADS Track Papers,Computing methodologies/Information systems,DNA-Stabilized Silver Nanocluster Design via Regularized Variational Autoencoders
+KDD22,ADS Track Papers,Computing methodologies,GradMask: Gradient-Guided Token Masking for Textual Adversarial Example Detection
+KDD22,ADS Track Papers,Computing methodologies,Solar: Science of Entity Loss Attribution
+KDD22,ADS Track Papers,Applied computing,Pricing the Long Tail by Explainable Product Aggregation and Monotonic Bandits
+KDD22,ADS Track Papers,Applied computing/Computing methodologies/Mathematics of computing,Counterfactual Phenotyping with Censored Time-to-Events
+KDD22,ADS Track Papers,Computing methodologies/Information systems,Crowdsourcing with Contextual Uncertainty
+KDD22,ADS Track Papers,Computing methodologies,Amazon SageMaker Model Monitor: A System for Real-Time Insights into Deployed Machine Learning Models
+KDD22,ADS Track Papers,Applied computing/Computing methodologies,Human-in-the-Loop Large-Scale Predictive Maintenance of Workstations
+KDD22,ADS Track Papers,Computing methodologies,GraphWorld: Fake Graphs Bring Real Insights for GNNs
+KDD22,ADS Track Papers,Information systems,PinnerFormer: Sequence Modeling for User Representation at Pinterest
+KDD22,ADS Track Papers,Information systems,Improving Relevance Modeling via Heterogeneous Behavior Graph Learning in Bing Ads
+KDD22,ADS Track Papers,Computing methodologies,Temporal Multimodal Multivariate Learning
+KDD22,ADS Track Papers,Applied computing/Computing methodologies,Downscaling Earth System Models with Deep Learning
+KDD22,ADS Track Papers,Applied computing/Computing methodologies/Information systems,DocLayNet: A Large Human-Annotated Dataset for Document-Layout Segmentation
+KDD22,ADS Track Papers,Computing methodologies/Theory of computation,Multi-objective Optimization of Notifications Using Offline Reinforcement Learning
+KDD22,ADS Track Papers,Human-centered computing/Computing methodologies,What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?
+KDD22,ADS Track Papers,Information systems,Intelligent Request Strategy Design in Recommender System
+KDD22,ADS Track Papers,Computing methodologies,Characterizing Covid Waves via Spatio-Temporal Decomposition
+KDD22,ADS Track Papers,Information systems,NxtPost: User To Post Recommendations In Facebook Groups
+KDD22,ADS Track Papers,Software and its engineering/General and reference,Profiling Deep Learning Workloads at Scale using Amazon SageMaker
+KDD22,ADS Track Papers,Applied computing,Generative Adversarial Networks Enhanced Pre-training for Insufficient Electronic Health Records Modeling
+KDD22,ADS Track Papers,Computing methodologies,ChemicalX: A Deep Learning Library for Drug Pair Scoring
+KDD22,ADS Track Papers,Information systems,Service Time Prediction for Delivery Tasks via Spatial Meta-Learning
+KDD22,ADS Track Papers,Applied computing,Reinforcement Learning in the Wild: Scalable RL Dispatching Algorithm Deployed in Ridehailing Marketplace
+KDD22,ADS Track Papers,Computing methodologies/Information systems,Semantic Aware Answer Sentence Selection Using Self-Learning Based Domain Adaptation
+KDD22,ADS Track Papers,Computing methodologies,Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detection in Global Long-Term Space
+KDD22,ADS Track Papers,Computing methodologies/Information systems,Generalized Deep Mixed Models
+KDD22,ADS Track Papers,Information systems,Recommendation in Offline Stores: A Gamification Approach for Learning the Spatiotemporal Representation of Indoor Shopping
+KDD22,ADS Track Papers,Applied computing,Septor: Seismic Depth Estimation Using Hierarchical Neural Networks
+KDD22,ADS Track Papers,Applied computing/Computing methodologies,Seq2Event: Learning the Language of Soccer Using Transformer-based Match Event Prediction
+KDD22,ADS Track Papers,Computing methodologies/Information systems,Friend Recommendations with Self-Rescaling Graph Neural Networks
+KDD22,ADS Track Papers,Computing methodologies,Counseling Summarization Using Mental Health Knowledge Guided Utterance Filtering
+KDD22,ADS Track Papers,Information systems,Type Linking for Query Understanding and Semantic Search
+KDD22,ADS Track Papers,Computing methodologies,Few-shot Learning for Trajectory-based Mobile Game Cheating Detection
+KDD22,ADS Track Papers,Applied computing/Computing methodologies,Optimizing Long-Term Efficiency and Fairness in Ride-Hailing via Joint Order Dispatching and Driver Repositioning
+KDD22,ADS Track Papers,Information systems,CognitionNet: A Collaborative Neural Network for Play Style Discovery in Online Skill Gaming Platform
+KDD22,ADS Track Papers,Applied computing,4SDrug: Symptom-based Set-to-set Small and Safe Drug Recommendation
+KDD22,ADS Track Papers,Information systems,What is the Most Effective Intervention to Increase Job Retention for this Disabled Worker?
+KDD22,ADS Track Papers,Mathematics of computing/Computing methodologies,Reinforcement Learning-based Placement of Charging Stations in Urban Road Networks
+KDD22,ADS Track Papers,Computing methodologies,A Graph Learning Based Framework for Billion-Scale Offline User Identification
+KDD22,ADS Track Papers,Information systems,Learning Supplementary NLP Features for CTR Prediction in Sponsored Search
+KDD22,ADS Track Papers,Information systems,ROI-Constrained Bidding via Curriculum-Guided Bayesian Reinforcement Learning
+KDD22,ADS Track Papers,Computer systems organization/Computing methodologies,NENYA: Cascade Reinforcement Learning for Cost-Aware Failure Mitigation at Microsoft 365
+KDD22,ADS Track Papers,Information systems,Learning to Discover Causes of Traffic Congestion with Limited Labeled Data
+KDD22,ADS Track Papers,Applied computing,RT-VeD: Real-Time VoI Detection on Edge Nodes with an Adaptive Model Selection Framework
+KDD22,ADS Track Papers,Information systems,Representative Routes Discovery from Massive Trajectories
+KDD22,ADS Track Papers,Information systems,CONFLUX: A Request-level Fusion Framework for Impression Allocation via Cascade Distillation
+KDD22,ADS Track Papers,Applied computing,Fed-LTD: Towards Cross-Platform Ride Hailing via Federated Learning to Dispatch
+KDD22,ADS Track Papers,Computing methodologies,CausalInt: Causal Inspired Intervention for Multi-Scenario Recommendation
+KDD22,ADS Track Papers,Information systems,Surrogate for Long-Term User Experience in Recommender Systems
+KDD22,ADS Track Papers,Computing methodologies,"FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning"
+KDD22,ADS Track Papers,Computing methodologies,"Interpretability, Then What? Editing Machine Learning Models to Reflect Human Knowledge and Values"
+KDD22,ADS Track Papers,Applied computing/Information systems,Graph2Route: A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction
+KDD22,ADS Track Papers,Applied computing,Graph Neural Networks for Multimodal Single-Cell Data Integration
+KDD22,ADS Track Papers,Security and privacy/Information systems,FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling
+KDD22,ADS Track Papers,Information systems,Interpretable Personalized Experimentation
+KDD22,ADS Track Papers,Applied computing/Computing methodologies,Learning Large-scale Subsurface Simulations with a Hybrid Graph Network Simulator
+KDD22,ADS Track Papers,Computing methodologies,A Framework for Multi-stage Bonus Allocation in Meal Delivery Platform
+KDD22,ADS Track Papers,Computing methodologies/Mathematics of computing,Multi Armed Bandit vs. A/B Tests in E-commerce - Confidence Interval and Hypothesis Test Power Perspectives
+KDD22,ADS Track Papers,General and reference/Information systems,Training Large-Scale News Recommenders with Pretrained Language Models in the Loop
+KDD22,ADS Track Papers,Information systems,Contrastive Cross-domain Recommendation in Matching
+KDD22,ADS Track Papers,Information systems,G2NET: A General Geography-Aware Representation Network for Hotel Search Ranking
+KDD22,ADS Track Papers,Computing methodologies,COSSUM: Towards Conversation-Oriented Structured Summarization for Automatic Medical Insurance Assessment
+KDD22,ADS Track Papers,Computing methodologies/Information systems,Mixture of Virtual-Kernel Experts for Multi-Objective User Profile Modeling
+KDD22,ADS Track Papers,Applied computing/Computing methodologies/Mathematics of computing,Perioperative Predictions with Interpretable Latent Representation
+KDD22,ADS Track Papers,Applied computing/Information systems,Multiwave COVID-19 Prediction from Social Awareness Using Web Search and Mobility Data
+KDD22,ADS Track Papers,Computing methodologies/Information systems,A Meta Reinforcement Learning Approach for Predictive Autoscaling in the Cloud
+KDD22,ADS Track Papers,Information systems,Scale Calibration of Deep Ranking Models
+KDD22,ADS Track Papers,Computing methodologies/Software and its engineering,CMMD: Cross-Metric Multi-Dimensional Root Cause Analysis
+KDD22,ADS Track Papers,Information systems,DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps
+KDD22,ADS Track Papers,Computing methodologies,TAG: Toward Accurate Social Media Content Tagging with a Concept Graph
+KDD22,ADS Track Papers,Applied computing/Information systems,CausalMTA: Eliminating the User Confounding Bias for Causal Multi-touch Attribution
+KDD22,ADS Track Papers,Information systems,Device-cloud Collaborative Recommendation via Meta Controller
+KDD22,ADS Track Papers,Information systems,ReprBERT: Distilling BERT to an Efficient Representation-Based Relevance Model for E-Commerce
+KDD22,ADS Track Papers,Computing methodologies/Information systems,Multilingual Taxonomic Web Page Classification for Contextual Targeting at Yahoo
+KDD22,ADS Track Papers,Computing methodologies/Applied computing,A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling
+KDD22,ADS Track Papers,Computing methodologies/Information systems,Embedding Compression with Hashing for Efficient Representation Learning in Large-Scale Graph
+KDD22,ADS Track Papers,Applied computing/Computing methodologies,Predicting Age-Related Macular Degeneration Progression with Contrastive Attention and Time-Aware LSTM
+KDD22,ADS Track Papers,Information systems,Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data
+KDD22,ADS Track Papers,Computing methodologies/Software and its engineering,XDAI: A Tuning-free Framework for Exploiting Pre-trained Language Models in Knowledge Grounded Dialogue Generation
+KDD22,ADS Track Papers,Computing methodologies/Information systems,CommerceMM: Large-Scale Commerce MultiModal Representation Learning with Omni Retrieval
+KDD22,ADS Track Papers,Computing methodologies,EGM: Enhanced Graph-based Model for Large-scale Video Advertisement Search
+KDD22,ADS Track Papers,Applied computing/Computing methodologies,Multi-task Envisioning Transformer-based Autoencoder for Corporate Credit Rating Migration Early Prediction
+KDD22,ADS Track Papers,Computing methodologies,AutoShard: Automated Embedding Table Sharding for Recommender Systems
+KDD22,ADS Track Papers,Mathematics of computing/Information systems,Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation
+KDD22,ADS Track Papers,Computing methodologies/Information systems,Data-Driven Oracle Bone Rejoining: A Dataset and Practical Self-Supervised Learning Scheme
+KDD22,ADS Track Papers,Information systems,Uni-Retriever: Towards Learning the Unified Embedding Based Retriever in Bing Sponsored Search
+KDD22,ADS Track Papers,Computer systems organization,Felicitas: Federated Learning in Distributed Cross Device Collaborative Frameworks
+KDD22,ADS Track Papers,Computing methodologies/Information systems,Multi-Task Fusion via Reinforcement Learning for Long-Term User Satisfaction in Recommender Systems
+KDD22,ADS Track Papers,Applied computing/Computing methodologies,Adaptive Multi-view Rule Discovery for Weakly-Supervised Compatible Products Prediction
+KDD22,ADS Track Papers,Computing methodologies,Sparx: Distributed Outlier Detection at Scale
+KDD22,ADS Track Papers,Computing methodologies/Theory of computation,CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences
+KDD22,ADS Track Papers,Applied computing/Computing methodologies/Information systems,Medical Symptom Detection in Intelligent Pre-Consultation Using Bi-directional Hard-Negative Noise Contrastive Estimation
+KDD22,ADS Track Papers,Mathematics of computing,Graph Attention Multi-Layer Perceptron
+KDD22,ADS Track Papers,Information systems,JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding
+KDD22,ADS Track Papers,Computing methodologies,Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Heterogeneous Graphs
+KDD22,ADS Track Papers,Information systems,DDR: Dialogue Based Doctor Recommendation for Online Medical Service
+KDD22,ADS Track Papers,Computing methodologies,Dynamic Graph Segmentation for Deep Graph Neural Networks
+KDD22,ADS Track Papers,Mathematics of computing/Computing methodologies,DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect Estimation
+KDD22,ADS Track Papers,Information systems,Combo-Fashion: Fashion Clothes Matching CTR Prediction with Item History
+KDD22,ADS Track Papers,Information systems,User-tag Profile Modeling in Recommendation System via Contrast Weighted Tag Masking
+KDD22,ADS Track Papers,Computing methodologies,Uncertainty Quantification of Sparse Travel Demand Prediction with Spatial-Temporal Graph Neural Networks
+KDD22,ADS Track Papers,Applied computing,RBG: Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning
+KDD22,Health Day Papers,Applied computing/Computing methodologies,Effective Social Network-Based Allocation of COVID-19 Vaccines
+KDD22,Health Day Papers,Applied computing/Computing methodologies,Reinforcement Learning Enhances the Experts: Large-scale COVID-19 Vaccine Allocation with Multi-factor Contact Network
+KDD22,Health Day Papers,Applied computing/Information systems,Scalable Online Disease Diagnosis via Multi-Model-Fused Actor-Critic Reinforcement Learning
+KDD22,Health Day Papers,Applied computing,User Engagement in Mobile Health Applications
+KDD22,Health Day Papers,Applied computing/Computing methodologies,Automatic Phenotyping by a Seed-guided Topic Model
+KDD22,Health Day Papers,Applied computing/Computing methodologies,MolSearch: Search-based Multi-objective Molecular Generation and Property Optimization
+KDD22,Health Day Papers,Applied computing/Information systems,Dynamic Network Anomaly Modeling of Cell-Phone Call Detail Records for Infectious Disease Surveillance
+KDD22,Health Day Papers,Applied computing/Computing methodologies,Data-Efficient Brain Connectome Analysis via Multi-Task Meta-Learning
+KDD22,Health Day Papers,Computing methodologies,Activity Trajectory Generation via Modeling Spatiotemporal Dynamics
+KDD22,Health Day Papers,Applied computing/Computing methodologies,Medical Dialogue Response Generation with Pivotal Information Recalling
