@@ -1,0 +1,223 @@
+Conference,Subfield,Paper
+CHI22,Software creation and management,Crystalline: Lowering the Cost for Developers to Collect and Organize Information for Decision Making
+CHI22,Software creation and management,Understanding How Programmers Can Use Annotations on Documentation
+CHI22,Software creation and management,How can Explainability Methods be Used to Support Bug Identification in Computer Vision Models?
+CHI22,Software organization and properties,"Much Realistic, Such Wow! A Systematic Literature Review of Realism in Digital Games"
+CHI22,Software organization and properties,Visual Delegate Generalization Frame – Evaluating Impact of Visual Effects and Elements on Player and User Experiences in Video Games and Interactive Virtual Environments
+CHI22,Software creation and management,A Conversational Approach for Modifying Service Mashups in IoT Environments
+CHI22,Software notations and tools,Discovering the Syntax and Strategies of Natural Language Programming with Generative Language Models
+CHI22,Software organization and properties/Software creation and management,Solving Separation-of-Concerns Problems in Collaborative Design of Human-AI Systems through Leaky Abstractions
+CHI22,Software organization and properties,Varv: Reprogrammable Interactive Software as a Declarative Data Structure
+CHI22,Software organization and properties,Enhanced Videogame Livestreaming by Reconstructing an Interactive 3D Game View for Spectators
+CHI22,Software creation and management,"A study of UX practitioners roles in designing real-world, enterprise ML systems"
+CHI22,Software creation and management,Guided Bug Crush: Assist Manual GUI Testing of Android Apps via Hint Moves
+CCS22,Software notations and tools,Power Contracts: Provably Complete Power Leakage Models for Processors
+CCS22,Software organization and properties,MetaEmu: An Architecture Agnostic Rehosting Framework for Automotive Firmware
+CCS22,Software organization and properties,VRust: Automated Vulnerability Detection for Solana Smart Contracts
+CCS22,Software creation and management,P-Verifier: Understanding and Mitigating Security Risks in Cloud-based IoT Access Policies
+CCS22,Software notations and tools,HyperDbg: Reinventing Hardware-Assisted Debugging
+CCS22,Software notations and tools,Zapper: Smart Contracts with Data and Identity Privacy
+CCS22,Software creation and management,Microwalk-CI: Practical Side-Channel Analysis for JavaScript Applications
+FSE22,Software organization and properties,Adaptive fairness improvement based on causality analysis
+FSE22,Software notations and tools,NatGen: generative pre-training by “naturalizing” source code
+FSE22,Software creation and management,Testing of autonomous driving systems: where are we and where should we go?
+FSE22,Software creation and management/Software organization and properties,Fuzzing deep-learning libraries via automated relational API inference
+FSE22,Software creation and management,SEDiff: scope-aware differential fuzzing to test internal function models in symbolic execution
+FSE22,Software creation and management,Perfect is the enemy of test oracle
+FSE22,Software creation and management,Scenario-based test reduction and prioritization for multi-module autonomous driving systems
+FSE22,Software creation and management,MOSAT: finding safety violations of autonomous driving systems using multi-objective genetic algorithm
+FSE22,Software creation and management,Are we building on the rock? on the importance of data preprocessing for code summarization
+FSE22,Software creation and management,What motivates software practitioners to contribute to inner source?
+FSE22,Software creation and management,A retrospective study of one decade of artifact evaluations
+FSE22,Software creation and management,Quantifying community evolution in developer social networks
+FSE22,Software notations and tools,Accurate method and variable tracking in commit history
+FSE22,Software notations and tools/Software creation and management,Classifying edits to variability in source code
+FSE22,Software notations and tools/Software creation and management,The evolution of type annotations in python: an empirical study
+FSE22,Software creation and management,"UTANGO: untangling commits with context-aware, graph-based, code change clustering learning model"
+FSE22,Software organization and properties,Static executes-before analysis for event driven programs
+FSE22,Software creation and management,Security code smells in apps: are we getting better?
+FSE22,Software creation and management,Large-scale analysis of non-termination bugs in real-world OSS projects
+FSE22,Software organization and properties,On-the-fly syntax highlighting using neural networks
+FSE22,Software notations and tools,Declarative smart contracts
+FSE22,Software notations and tools/Software creation and management,How to formulate specific how-to questions in software development?
+FSE22,Software creation and management,Pair programming conversations with agents vs. developers: challenges and opportunities for SE community
+FSE22,Software notations and tools,Toward interactive bug reporting for (android app) end-users
+FSE22,Software organization and properties,Understanding performance problems in deep learning systems
+FSE22,Software creation and management,No more fine-tuning? an experimental evaluation of prompt tuning in code intelligence
+FSE22,Software notations and tools,Cross-device record and replay for Android apps
+FSE22,Software creation and management,Online testing of RESTful APIs: promises and challenges
+FSE22,Software notations and tools,Avgust: automating usage-based test generation from videos of app executions
+FSE22,Software creation and management,Detecting non-crashing functional bugs in Android apps via deep-state differential analysis
+FSE22,Software creation and management,RoboFuzz: fuzzing robotic systems over robot operating system (ROS) for finding correctness bugs
+FSE22,Software notations and tools/Software organization and properties,AgileCtrl: a self-adaptive framework for configuration tuning
+FSE22,Software creation and management,Using nudges to accelerate code reviews at scale
+FSE22,Software creation and management,First come first served: the impact of file position on code review
+FSE22,Software creation and management,"Code, quality, and process metrics in graduated and retired ASFI projects"
+FSE22,Software organization and properties,AutoPruner: transformer-based call graph pruning
+FSE22,Software notations and tools,Lighting up supervised learning in user review-based code localization: dataset and benchmark
+FSE22,Software notations and tools,CORMS: a GitHub and Gerrit based hybrid code reviewer recommendation approach for modern code review
+FSE22,Software creation and management,Hierarchical Bayesian multi-kernel learning for integrated classification and summarization of app reviews
+FSE22,Software creation and management,Semi-supervised pre-processing for learning-based traceability framework on real-world software projects
+FSE22,Software notations and tools/Software creation and management,Input invariants
+FSE22,Software notations and tools/Software organization and properties,Modus: a Datalog dialect for building container images
+FSE22,Software creation and management,Multi-phase invariant synthesis
+FSE22,Software creation and management,Parasol: efficient parallel synthesis of large model spaces
+FSE22,Software creation and management,Neural termination analysis
+FSE22,Software notations and tools/Software creation and management,PaReco: patched clones and missed patches among the divergent variants of a software family
+FSE22,Software creation and management,Fault localization to detect co-change fixing locations
+FSE22,Software notations and tools,An exploratory study on the predominant programming paradigms in Python code
+FSE22,Software creation and management,The best of both worlds: integrating semantic features with expert features for defect prediction and localization
+FSE22,Software creation and management,Making Python code idiomatic by automatic refactoring non-idiomatic Python code with pythonic idioms
+FSE22,Software creation and management,How to better utilize code graphs in semantic code search?
+FSE22,Software creation and management,23 shades of self-admitted technical debt: an empirical study on machine learning software
+FSE22,Software notations and tools,DynaPyt: a dynamic analysis framework for Python
+FSE22,Software creation and management,Peahen: fast and precise static deadlock detection via context reduction
+FSE22,Software creation and management,Program merge conflict resolution via neural transformers
+FSE22,Software creation and management,DeJITLeak: eliminating JIT-induced timing side-channel leaks
+FSE22,Software notations and tools/Software organization and properties,Quantitative relational modelling with QAlloy
+FSE22,Software organization and properties/Software creation and management,PyTER: effective program repair for Python type errors
+FSE22,Software organization and properties,DeepDev-PERF: a deep learning-based approach for improving software performance
+FSE22,Software creation and management,"Less training, more repairing please: revisiting automated program repair via zero-shot learning"
+FSE22,Software notations and tools/Software creation and management,NL2Viz: natural language to visualization via constrained syntax-guided synthesis
+FSE22,Software creation and management,AccessiText: automated detection of text accessibility issues in Android apps
+FSE22,Software organization and properties/Software creation and management,Actionable and interpretable fault localization for recurring failures in online service systems
+FSE22,Software creation and management,AUGER: automatically generating review comments with pre-training models
+FSE22,Software notations and tools/Software creation and management,Automatically deriving JavaScript static analyzers from specifications using Meta-level static analysis
+FSE22,Software creation and management,Automating code review activities by large-scale pre-training
+FSE22,Software creation and management,Corporate dominance in open source ecosystems: a case study of OpenStack
+FSE22,Software notations and tools/Software creation and management/Software organization and properties,Detecting Simulink compiler bugs via controllable zombie blocks mutation
+FSE22,Software creation and management,Do bugs lead to unnaturalness of source code?
+FSE22,Software creation and management,MAAT: a novel ensemble approach to addressing fairness and performance bugs for machine learning software
+FSE22,Software notations and tools,NMTSloth: understanding and testing efficiency degradation of neural machine translation systems
+FSE22,Software creation and management,Putting them under microscope: a fine-grained approach for detecting redundant test cases in natural language
+FSE22,Software creation and management,RULER: discriminative and iterative adversarial training for deep neural network fairness
+FSE22,Software creation and management,SamplingCA: effective and efficient sampling-based pairwise testing for highly configurable software systems
+FSE22,Software creation and management,SPINE: a scalable log parser with feedback guidance
+FSE22,Software organization and properties,SymMC: approximate model enumeration and counting using symmetry information for Alloy specifications
+FSE22,Software organization and properties,TraceCRL: contrastive representation learning for microservice trace analysis
+FSE22,Software notations and tools,In war and peace: the impact of world politics on software ecosystems
+FSE22,Software creation and management,Discrepancies among pre-trained deep neural networks: a new threat to model zoo reliability
+FSE22,Software creation and management,Exploring the under-explored terrain of non-open source data for software engineering through the lens of federated learning
+FSE22,Software creation and management,Nalanda: a socio-technical graph platform for building software analytics tools at enterprise scale
+FSE22,Software organization and properties/Software creation and management,Uncertainty-aware transfer learning to evolve digital twins for industrial elevators
+FSE22,Software creation and management,All you need is logs: improving code completion by learning from anonymous IDE usage logs
+FSE22,Software creation and management,Testing of machine learning models with limited samples: an industrial vacuum pumping application
+FSE22,Software creation and management,Improving ML-based information retrieval software with user-driven functional testing and defect class analysis
+FSE22,Software creation and management,What improves developer productivity at google? code quality
+FSE22,Software creation and management,Understanding why we cannot model how long a code review will take: an industrial case study
+FSE22,Software creation and management,Leveraging test plan quality to improve code review efficacy
+FSE22,Software creation and management/Software organization and properties,Are elevator software robust against uncertainties? results and experiences from an industrial case study
+FSE22,Software creation and management/Software notations and tools,Sometimes you have to treat the symptoms: tackling model drift in an industrial clone-and-own software product line
+FSE22,Software organization and properties,Metadata-based retrieval for resolution recommendation in AIOps
+FSE22,Software creation and management,Workgraph: personal focus vs. interruption for engineers at Meta
+FSE22,Software notations and tools/Software creation and management,Understanding automated code review process and developer experience in industry
+FSE22,Software notations and tools/Software creation and management,Unite: an adapter for transforming analysis tools to web services via OSLC
+FSE22,Software notations and tools,Discovering feature flag interdependencies in Microsoft office
+FSE22,Software creation and management,An empirical study of deep transfer learning-based program repair for Kotlin projects
+FSE22,Software creation and management,An empirical investigation of missing data handling in cloud node failure prediction
+FSE22,Software creation and management,An empirical study of log analysis at Microsoft
+FSE22,Software notations and tools,AutoTSG: learning and synthesis for incident troubleshooting
+FSE22,Software creation and management,Exploring and evaluating personalized models for code generation
+FSE22,Software creation and management,FlakeRepro: automated and efficient reproduction of concurrency-related flaky tests
+FSE22,Software creation and management,Incorporating domain knowledge through task augmentation for front-end JavaScript code generation
+FSE22,Software notations and tools/Software creation and management,Industry experiences with large-scale refactoring
+FSE22,Software notations and tools/Software organization and properties,Industry practice of configuration auto-tuning for cloud applications and services
+FSE22,Software creation and management,Investigating and improving log parsing in practice
+FSE22,Software creation and management/Software organization and properties,Trace analysis based microservice architecture measurement
+FSE22,Software creation and management,Reflections on software failure analysis
+FSE22,Software organization and properties,"Language-agnostic dynamic analysis of multilingual code: promises, pitfalls, and prospects"
+FSE22,Software notations and tools,A study on identifying code author from real development
+FSE22,Software notations and tools,iTiger: an automatic issue title generation tool
+FSE22,Software notations and tools,CodeMatcher: a tool for large-scale code search based on query semantics matching
+FSE22,Software creation and management,Context-aware code recommendation in Intellij IDEA
+FSE22,Software notations and tools,Python-by-contract dataset
+FSE22,Software creation and management,CLIFuzzer: mining grammars for command-line invocations
+FSE22,Software creation and management,RecipeGen++: an automated trigger action programs generator
+FSE22,Software creation and management,TAPHSIR: towards AnaPHoric ambiguity detection and ReSolution in requirements
+FSE22,Software creation and management,COREQQA: a COmpliance REQuirements understanding using question answering tool
+FSE22,Software notations and tools/Software creation and management,SolSEE: a source-level symbolic execution engine for solidity
+FSE22,Software creation and management/Software organization and properties,MpBP: verifying robustness of neural networks with multi-path bound propagation
+FSE22,Software notations and tools,eGEN: an energy-saving modeling language and code generator for location-sensing of mobile apps
+FSE22,Software notations and tools/Software creation and management/Software organization and properties,SFLKit: a workbench for statistical fault localization
+FSE22,Software creation and management,WikiDoMiner: wikipedia domain-specific miner
+FSE22,Software creation and management,RegMiner: mining replicable regression dataset from code repositories
+FSE22,Software creation and management,FIM: fault injection and mutation for Simulink
+FSE22,Software organization and properties,JSIMutate: understanding performance results through mutations
+FSE22,Software creation and management,KVS: a tool for knowledge-driven vulnerability searching
+FSE22,Software creation and management,FastKLEE: faster symbolic execution via reducing redundant bound checking of type-safe pointers
+FSE22,Software notations and tools,Clang __usercall: towards native support for user defined calling conventions
+FSE22,Software creation and management,GFI-bot: automated good first issue recommendation on GitHub
+FSE22,Software creation and management,SemCluster: a semi-supervised clustering tool for crowdsourced test reports with deep image understanding
+FSE22,Software creation and management,TSA: a tool to detect and quantify network side-channels
+FSE22,Software organization and properties,Blackbox adversarial attacks and explanations for automatic speech recognition
+FSE22,Software organization and properties,This is your cue! assisting search behaviour with resource style properties
+FSE22,Software notations and tools/Software organization and properties,Infrastructure as code for dynamic deployments
+FSE22,Software creation and management,Automated capacity analysis of limitation-aware microservices architectures
+FSE22,Software creation and management,Change-aware mutation testing for evolving systems
+FSE22,Software creation and management/Software organization and properties,Effective and scalable fault injection using bug reports and generative language models
+FSE22,Software creation and management,Explaining and debugging pathological program behavior
+ISCA22,Software creation and management,Axiomatic hardware-software contracts for security
+ISCA22,Software notations and tools,CaSMap: agile mapper for reconfigurable spatial architectures by automatically clustering intermediate representations and scattering mapping process
+ISCA22,Software organization and properties,FFCCD: fence-free crash-consistent concurrent defragmentation for persistent memory
+ISCA22,Software notations and tools,A synthesis framework for stitching surface code with superconducting quantum devices
+ISCA22,Software notations and tools,2QAN: a quantum compiler for 2-local qubit hamiltonian simulation algorithms
+ISCA22,Software notations and tools,AMOS: enabling <u>a</u>utomatic <u>m</u>apping for tensor computations <u>o</u>n <u>s</u>patial accelerators with hardware abstraction
+ISCA22,Software organization and properties,Understanding data storage and ingestion for large-scale deep recommendation model training: industrial product
+MOD22,Software creation and management,DataPrism: Exposing Disconnect between Data and Systems
+MOD22,Software notations and tools,Spine: Scaling up Programming-by-Negative-Example for String Filtering and Transformation
+MOD22,Software organization and properties,Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory
+SAC22,Software organization and properties,Transpose-xen: virtualized mixed-criticality through dynamic allocation
+SAC22,Software organization and properties,"Domain name service trust delegation in cloud computing: exploitation, risks, and defense"
+SAC22,Software organization and properties,On enduring more data through enabling page rewrite capability on multi-level-cell flash memory
+SAC22,Software organization and properties,A general and configurable framework for blockchain-based marketplaces
+SAC22,Software organization and properties,Porting a benchmark with a classic workload to blockchain: TPC-C on hyperledger fabric
+SAC22,Software creation and management/Software organization and properties,Model checking of vulnerabilities in smart contracts: a solidity-to-CPN approach
+SAC22,Software organization and properties,Simulating execution time and power consumption of real-time tasks on embedded platforms
+SAC22,Software notations and tools,GraphSPARQL: a GraphQL interface for linked data
+SAC22,Software organization and properties,CEMDA: detecting android complex file events to infer the user's mental model
+SAC22,Software creation and management,Repairing misclassifications in neural networks using limited data
+SAC22,Software creation and management/Software organization and properties/Software notations and tools,A framework for OS portability: from formal models to low-level code
+SAC22,Software organization and properties,Enhanced configurable snapshot: snapshot-based fast booting on NAND flash with lifetime control
+SAC22,Software creation and management,DMAFV: testing device drivers against DMA faults
+SAC22,Software organization and properties,An efficient log-structured scheme for disk arrays
+SAC22,Software creation and management,Mitigation lost in translation: leveraging threat information to improve privacy solution selection
+SAC22,Software notations and tools,Constraint-logic object-oriented programming on the Java virtual machine
+SAC22,Software notations and tools,Condition-based synchronization in data-centric concurrency control
+SAC22,Software notations and tools,A survey on requirements notations in software engineering research
+SAC22,Software creation and management,Requirements engineering for autonomous vehicles: a systematic literature review
+SAC22,Software creation and management,Studying industry practices of accessibility requirements in agile development
+SAC22,Software creation and management,Elicitation of adaptive requirements using creativity triggers: a controlled experiment
+SAC22,Software creation and management,A Bayesian network-based model to understand the role of soft requirements in technology acceptance: the case of the NHS COVID-19 test and trace app in England and Wales
+SAC22,Software organization and properties,Software layer recovery through ego network analysis
+SAC22,Software creation and management,HYGAR: a hybrid genetic algorithm for software architecture recovery
+SAC22,Software organization and properties,Continuous evaluation of software architectures: an overview of the state of the art
+SAC22,Software organization and properties,FEAST: a framework for evaluating implementation architectures of self-adaptive IoT systems
+SAC22,Software creation and management/Software notations and tools,Evolution of a haskell repository and its use of monads: an exploratory study of stackage
+SAC22,Software creation and management/Software notations and tools,Are tags 'it?': analysis of the impact of tags on StackOverflow questions
+SAC22,Software creation and management/Software notations and tools,Constraint-logic object-oriented programming for test case generation
+SAC22,Software creation and management,How does the first buggy file work well for iterative IR-based bug localization?
+SAC22,Software creation and management/Software notations and tools,Fighting evil is not enough when refactoring metamodels: promoting the good also matters
+SAC22,Software creation and management,Investigating technological risks and mitigation strategies in software projects
+SAC22,Software creation and management,Feature assortment for deep learning-based bug localization with a program graph
+SAC22,Software creation and management,Design patterns mining using neural sub-graph matching
+SAC22,Software creation and management/Software notations and tools,RepCoder: an automated program repair framework for probability-based program synthesis
+SAC22,Software creation and management,Metrics to quantify software developer experience: a systematic mapping
+SAC22,Software organization and properties,Optimized flight safety event detection in the national general aviation flight information database
+SAC22,Software notations and tools,Learning to characterize performance regression introducing code changes
+SAC22,Software notations and tools,Towards automated library migrations with error prone and refaster
+SAC22,Software creation and management/Software notations and tools/Software organization and properties,Towards effective preservation of robust safety properties
+SAC22,Software notations and tools,Security risks of porting C programs to webassembly
+SAC22,Software organization and properties,Verifying opacity by abstract interpretation
+SAC22,Software organization and properties/Software creation and management,Leveraging hardware-dependent knowledge extraction with multiple program analysis techniques
+SAC22,Software organization and properties/Software creation and management,A lightweight approach for sound call graph approximation
+SAC22,Software creation and management/Software notations and tools,Could jamstack be the future of web applications architecture?: an empirical study
+KDD22,Software creation and management,A Generalized Backward Compatibility Metric
+KDD22,Software notations and tools,Greykite: Deploying Flexible Forecasting at Scale at LinkedIn
+KDD22,Software creation and management,Augmenting Log-based Anomaly Detection Models to Reduce False Anomalies with Human Feedback
+KDD22,Software organization and properties,Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition
+KDD22,Software creation and management,Rapid Regression Detection in Software Deployments through Sequential Testing
+KDD22,Software creation and management,Looper: An End-to-End ML Platform for Product Decisions
+KDD22,Software creation and management,Generating Examples from CLI Usage: Can Transformers Help?
+KDD22,Software notations and tools,Profiling Deep Learning Workloads at Scale using Amazon SageMaker
+KDD22,Software creation and management,CMMD: Cross-Metric Multi-Dimensional Root Cause Analysis
+KDD22,Software notations and tools,XDAI: A Tuning-free Framework for Exploiting Pre-trained Language Models in Knowledge Grounded Dialogue Generation
