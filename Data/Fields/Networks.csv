@@ -1,0 +1,54 @@
+Conference,Subfield,Paper
+CHI22,Network properties,Understanding the Digital Lives of Youth: Analyzing Media Shared within Safe Versus Unsafe Private Conversations on Instagram
+CHI22,Network properties,PITAS: Sensing and Actuating Embedded Robotic Sheet for Physical Information Communication
+CHI22,Network properties,Making New Worlds – Transformative Becomings with Soma Desig
+CHI22,Network properties,Mixing in Reverse Optical Flow to Mitigate Vection and Simulation Sickness in Virtual Reality
+CHI22,Network properties,"Who, What, Why and How? Towards the Monetary Incentive in Crowd Collaboration: A Case Study of Github’s Sponsor Mechanism"
+CHI22,Network properties,Permission vs. App Limiters: Profiling Smartphone Users to Understand Differing Strategies for Mobile Privacy Management
+CHI22,Network properties,What are you thinking?: Using CBT and Storytelling to Improve Mental Health Among College Students
+CHI22,Network properties,How AI-Based Training Affected the Performance of Professional Go Players
+CHI22,Network properties,Owning Mistakes Sincerely: Strategies for Mitigating AI Errors
+CHI22,Network properties,To Self-Persuade or be Persuaded: Examining Interventions for Users’ Privacy Setting Selection
+CCS22,Network types,CANflict: Exploiting Peripheral Conflicts for Data-Link Layer Attacks on Automotive Networks
+CCS22,Network properties,On the (In)Security of Secure ROS2
+CCS22,Network components,Location Heartbleeding: The Rise of Wi-Fi Spoofing Attack Via Geolocation API
+CCS22,Network properties,AI/ML for Network Security: The Emperor has no Clothes
+CCS22,Network components,A Scalable and Dynamic ACL System for In-Network Defense
+CCS22,Network properties,InviCloak: An End-to-End Approach to Privacy and Performance in Web Content Distribution
+CCS22,Network services,Ready Raider One: Exploring the Misuse of Cloud Gaming Services
+CCS22,Network protocols,"The Closer You Look, The More You Learn: A Grey-box Approach to Protocol State Machine Learning"
+CCS22,Network properties,Sigstore: Software Signing for Everybody
+CCS22,Network performance evaluation,Gringotts: Fast and Accurate Internal Denial-of-Wallet Detection for Serverless Computing
+CCS22,Network properties,NeVerMore: Exploiting RDMA Mistakes in NVMe-oF Storage Applications
+CCS22,Network algorithms,Protecting Critical Inter-Domain Communication through Flyover Reservations
+CCS22,Network architectures,Perils and Mitigation of Security Risks of Cooperation in Mobile-as-a-Gateway IoT
+ISCA22,Network algorithms/Network components/Network architectures,Themis: a network bandwidth-aware collective scheduling policy for distributed training of DL models
+ISCA22,Network components,HiveMind: a hardware-software system stack for serverless edge swarms
+MOD22,Network properties,MinMax Sampling: A Near-optimal Global Summary for Aggregation in the Wide Area
+MOD22,Network types,Optimizing Data-intensive Systems in Disaggregated Data Centers with TELEPORT
+MOD22,Network services,P4DB - The Case for In-Network OLTP
+MOD22,Network properties,Serverless Data Science - Are We There Yet? A Case Study of Model Serving
+MOD22,Network services,KafkaDirect: Zero-copy Data Access for Apache Kafka over RDMA Networks
+SAC22,Network algorithms/Network protocols,RANC: reward-all nakamoto consensus
+SAC22,Network types,Towards CBDC-based machine-to-machine payments in consumer IoT
+SAC22,Network algorithms/Network components,Pktpit: separating routing and packet transfer for fast and scalable software routers
+SAC22,Network services,OpenFlow rule placement in carrier networks for augmented reality applications
+SAC22,Network types,Predicting links in a social network based on recognised personalities
+SAC22,Network types/Network properties,On hybrid front-haul for 5G NR mmWave indoor coverage
+SAC22,Network services,A meta-policy approach for learning suitable caching replacement policies in information-centric networks
+SAC22,Network types/Network services/Network algorithms,Optimization of IoT slices in wifi enterprise networks
+STOC22,Network properties,Positive spectrahedra: invariance principles and pseudorandom generators
+STOC22,Network algorithms/Network architectures,Optimal oblivious reconfigurable networks
+ICMR22,Network properties,I2-Net: Intra- and Inter-scale Collaborative Learning Network for Abdominal Multi-organ Segmentation
+KDD22,Network properties,Efficient Orthogonal Multi-view Subspace Clustering
+KDD22,Network algorithms,Compressing Deep Graph Neural Networks via Adversarial Knowledge Distillation
+KDD22,Network properties,Core-periphery Partitioning and Quantum Annealing
+KDD22,Network architectures,Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep Neural Network
+KDD22,Network properties,Evaluating Knowledge Graph Accuracy Powered by Optimized Human-machine Collaboration
+KDD22,Network properties/Network types,Streaming Graph Neural Networks with Generative Replay
+KDD22,Network algorithms,Towards a Native Quantum Paradigm for Graph Representation Learning: A Sampling-based Recurrent Embedding Approach
+KDD22,Network algorithms,Improving Social Network Embedding via New Second-Order Continuous Graph Neural Networks
+KDD22,Network services,MT-FlowFormer: A Semi-Supervised Flow Transformer for Encrypted Traffic Classification
+KDD22,Network types,RCAD: Real-time Collaborative Anomaly Detection System for Mobile Broadband Networks
+KDD22,Network properties,A Logic Aware Neural Generation Method for Explainable Data-to-text
+KDD22,Network properties,Packet Representation Learning for Traffic Classification
