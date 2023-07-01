@@ -1,0 +1,35 @@
+Conference,Subfield,Paper
+CHI22,Cross-computing tools and techniques,How Much Do Platform Workers Value Reviews? An Experimental Method
+CHI22,Document types,A Systematic Review and Thematic Analysis of Community-Collaborative Approaches to Computing Research
+CHI22,Cross-computing tools and techniques,RMS: Removing Barriers to Analyze the Availability and Surge Pricing of Ridesharing Services
+CHI22,Cross-computing tools and techniques,“I See You!”: A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames
+CHI22,Document types,Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children
+CHI22,Cross-computing tools and techniques,Care Workers Making Use of Robots: Results of a Three-Month Study on Human-Robot Interaction within a Care Home
+CCS22,Cross-computing tools and techniques,Privacy Limitations of Interest-based Advertising on The Web: A Post-mortem Empirical Analysis of Google's FLoC
+CCS22,Document types,"Am I Private and If So, how Many?: Communicating Privacy Guarantees of Differential Privacy with Risk Communication Formats"
+CCS22,Cross-computing tools and techniques,Freely Given Consent?: Studying Consent Notice of Third-Party Tracking and Its Violations of GDPR in Android Apps
+FSE22,Cross-computing tools and techniques,Are we building on the rock? on the importance of data preprocessing for code summarization
+FSE22,Cross-computing tools and techniques,A retrospective study of one decade of artifact evaluations
+FSE22,Cross-computing tools and techniques,Quantifying community evolution in developer social networks
+FSE22,Cross-computing tools and techniques,The evolution of type annotations in python: an empirical study
+FSE22,Cross-computing tools and techniques,DynaPyt: a dynamic analysis framework for Python
+FSE22,Cross-computing tools and techniques,Actionable and interpretable fault localization for recurring failures in online service systems
+FSE22,Cross-computing tools and techniques,What improves developer productivity at google? code quality
+FSE22,Cross-computing tools and techniques,Understanding automated code review process and developer experience in industry
+FSE22,Document types,Paving the way for mature secondary research: the seven types of literature review
+FSE22,Cross-computing tools and techniques,SFLKit: a workbench for statistical fault localization
+FSE22,Cross-computing tools and techniques,JSIMutate: understanding performance results through mutations
+MOD22,Cross-computing tools and techniques,Through the Data Management Lens: Experimental Analysis and Evaluation of Fair Classification
+MOD22,Cross-computing tools and techniques,Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines
+MOD22,Document types,Graph Pattern Matching in GQL and SQL/PGQ
+SAC22,Cross-computing tools and techniques,"""Do you know existing accuracy metrics overrate time-series anomaly detections?"""
+SAC22,Document types,A survey on requirements notations in software engineering research
+SAC22,Cross-computing tools and techniques,FEAST: a framework for evaluating implementation architectures of self-adaptive IoT systems
+SAC22,Cross-computing tools and techniques,A longitudinal study of hacker behaviour
+SAC22,Cross-computing tools and techniques,Automating the measurement of heterogeneous chatbot designs
+SAC22,Cross-computing tools and techniques,On hybrid front-haul for 5G NR mmWave indoor coverage
+ICMR22,Document types,Self-Lifting: A Novel Framework for Unsupervised Voice-Face Association Learning
+KDD22,Cross-computing tools and techniques,Local Evaluation of Time Series Anomaly Detection Algorithms
+KDD22,Cross-computing tools and techniques,A/B Testing Intuition Busters: Common Misunderstandings in Online Controlled Experiments
+KDD22,Cross-computing tools and techniques,Profiling Deep Learning Workloads at Scale using Amazon SageMaker
+KDD22,Cross-computing tools and techniques,Training Large-Scale News Recommenders with Pretrained Language Models in the Loop
