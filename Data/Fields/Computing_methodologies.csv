@@ -1,0 +1,566 @@
+Conference,Subfield,Paper
+CHI22,Artificial intelligence,VocabEncounter: NMT-powered Vocabulary Learning by Presenting Computer-Generated Usages of Foreign Words into Users’ Daily Lives
+CHI22,Machine learning,Shared Interest: Measuring Human-AI Alignment to Identify Recurring Patterns in Model Behavior
+CHI22,Machine learning,“I Will Not Drink With You Today”: A Topic-Guided Thematic Analysis of Addiction Recovery on Reddit
+CHI22,Machine learning,Speeding up Inference with User Simulators through Policy Modulation
+CHI22,Artificial intelligence,Human-AI Collaboration via Conditional Delegation: A Case Study of Content Moderation
+CHI22,Computer graphics,Janus Screen: Screen with Switchable Projection Surfaces Using Wire Grid Polarizer
+CHI22,Artificial intelligence,Promptiverse: Scalable Generation of Scaffolding Prompts Through Human-AI Hybrid Knowledge Graph Annotation
+CHI22,Machine learning,You Complete Me: Human-AI Teams and Complementary Expertise
+CHI22,Artificial intelligence/Machine learning,Jury Learning: Integrating Dissenting Voices into Machine Learning Models
+CHI22,Artificial intelligence,Capable but Amoral? Comparing AI and Human Expert Collaboration in Ethical Decision Making
+CHI22,Artificial intelligence,Towards Relatable Explainable AI with the Perceptual Process
+CHI22,Artificial intelligence/Machine learning,Debiased-CAM to mitigate image perturbations with faithful visual explanations of machine learning
+CHI22,Artificial intelligence,How can Explainability Methods be Used to Support Bug Identification in Computer Vision Models?
+CHI22,Computer graphics,"AirRacket: Perceptual Design of Ungrounded, Directional Force Feedback to Improve Virtual Racket Sports Experiences"
+CHI22,Artificial intelligence,TaleBrush: Sketching Stories with Generative Pretrained Language Models
+CHI22,Artificial intelligence/Machine learning,Symphony: Composing Interactive Interfaces for Machine Learning
+CHI22,Artificial intelligence,Family Learning Talk in AI Literacy Learning Activities
+CHI22,Artificial intelligence,Adaptive Empathy Learning Support in Peer Review Scenarios
+CHI22,Artificial intelligence,At-Home Pupillometry using Smartphone Facial Identification Cameras
+CHI22,Computer graphics,FoolProofJoint: Reducing Assembly Errors of Laser Cut 3D Models by Means of Custom Joint Patterns
+CHI22,Artificial intelligence,Roman: Making Everyday Objects Robotically Manipulable with 3D-Printable Add-on Mechanisms
+CHI22,Artificial intelligence,Opportunities and Challenges of Automatic Speech Recognition Systems for Low-Resource Language Speakers
+CHI22,Artificial intelligence/Machine learning,Forgetting Practices in the Data Sciences
+CHI22,Artificial intelligence,HybridTrak: Adding Full-Body Tracking to VR Using an Off-the-Shelf Webcam
+CHI22,Artificial intelligence,AI beyond Deus ex Machina – Reimagining Intelligence in Future Cities with Urban Experts
+CHI22,Artificial intelligence,FlatMagic: Improving Flat Colorization through AI-driven Design for Digital Comic Professionals
+CHI22,Computer graphics,A Layered Authoring Tool for Stylized 3D animations
+CHI22,Machine learning,Design Guidelines for Prompt Engineering Text-to-Image Generative Models
+CHI22,Machine learning,AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts
+CHI22,Artificial intelligence,Discovering the Syntax and Strategies of Natural Language Programming with Generative Language Models
+CHI22,Artificial intelligence,CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities
+CHI22,Machine learning,Affective State Prediction from Smartphone Touch and Sensor Data in the Wild
+CHI22,Artificial intelligence/Machine learning,Neo: Generalizing Confusion Matrix Visualization to Hierarchical and Multi-Output Labels
+CHI22,Machine learning,Structure-aware Visualization Retrieval
+CHI22,Artificial intelligence,Simulating Human Imprecision in Temporal Statements of Intelligent Virtual Agents
+CHI22,Computer graphics,Digital Proxemics: Designing Social and Collaborative Interaction in Virtual Environments
+CHI22,Computer graphics,Haptic Fidelity Framework: Defining the Factors of Realistic Haptic Feedback for Virtual Reality
+CHI22,Artificial intelligence,A Virtual Counselor for Breast Cancer Genetic Counseling: Adaptive Pedagogy Leads to Greater Knowledge Gain
+CHI22,Artificial intelligence,Examining AI Methods for Micro-Coaching Dialogs
+CHI22,Machine learning,TapType: Ten-finger text entry on everyday surfaces via Bayesian inference
+CHI22,Computer graphics,Enhanced Videogame Livestreaming by Reconstructing an Interactive 3D Game View for Spectators
+CHI22,Machine learning,When Confidence Meets Accuracy: Exploring the Effects of Multiple Performance Indicators on Trust in Machine Learning Models
+CHI22,Computer graphics,ZenVR: Design Evaluation of a Virtual Reality Learning System for Meditation
+CHI22,Artificial intelligence,Understanding the impact of explanations on advice-taking: a user study for AI-based clinical Decision Support Systems
+CHI22,Computer graphics,GANSlider: How Users Control Generative Models for Images using Multiple Sliders with and without Feedforward Information
+CHI22,Machine learning,Model Positionality and Computational Reflexivity: Promoting Reflexivity in Data Science
+CCS22,Artificial intelligence/Machine learning,Membership Inference Attacks and Generalization: A Causal Perspective
+CCS22,Machine learning,Graph Unlearning
+CCS22,Machine learning,SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders
+CCS22,Machine learning,Perception-Aware Attack: Creating Adversarial Music via Reverse-Engineering Human Perception
+CCS22,Machine learning,"""Is your explanation stable?"": A Robustness Evaluation Framework for Feature Attribution"
+CCS22,Machine learning,SPECPATCH: Human-In-The-Loop Adversarial Audio Spectrogram Patch Attack on Speech Recognition
+CCS22,Machine learning,On the Privacy Risks of Cell-Based NAS Architectures
+CCS22,Machine learning,AI/ML for Network Security: The Emperor has no Clothes
+CCS22,Machine learning,Are Attribute Inference Attacks Just Imputation?
+CCS22,Machine learning,Understanding IoT Security from a Market-Scale Perspective
+CCS22,Machine learning,SymLM: Predicting Function Names in Stripped Binaries via Context-Sensitive Execution-Aware Code Embeddings
+CCS22,Machine learning,Phishing URL Detection: A Network-based Approach Robust to Evasion
+CCS22,Machine learning,LPGNet: Link Private Graph Networks for Node Classification
+CCS22,Machine learning,Auditing Membership Leakages of Multi-Exit Networks
+CCS22,Machine learning,When Evil Calls: Targeted Adversarial Voice over IP Network
+CCS22,Artificial intelligence,Order-Disorder: Imitation Adversarial Attacks for Black-box Neural Ranking Models
+CCS22,Artificial intelligence/Machine learning,Harnessing Perceptual Adversarial Patches for Crowd Counting
+CCS22,Machine learning,Membership Inference Attacks by Exploiting Loss Trajectory
+CCS22,Artificial intelligence/Machine learning,LoneNeuron: A Highly-Effective Feature-Domain Neural Trojan Using Invisible and Polymorphic Watermarks
+CCS22,Machine learning,Federated Boosted Decision Trees with Differential Privacy
+CCS22,Machine learning,Physical Hijacking Attacks against Object Trackers
+CCS22,Artificial intelligence,Cerberus: Exploring Federated Prediction of Security Events
+CCS22,Artificial intelligence/Machine learning,Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models
+CCS22,Machine learning,Finding MNEMON: Reviving Memories of Node Embeddings
+CCS22,Machine learning,Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets
+CCS22,Machine learning,DPIS: An Enhanced Mechanism for Differentially Private SGD with Importance Sampling
+CCS22,Machine learning,Enhanced Membership Inference Attacks against Machine Learning Models
+FSE22,Artificial intelligence,NatGen: generative pre-training by “naturalizing” source code
+FSE22,Machine learning,Perfect is the enemy of test oracle
+FSE22,Machine learning,On-the-fly syntax highlighting using neural networks
+FSE22,Artificial intelligence,Pair programming conversations with agents vs. developers: challenges and opportunities for SE community
+FSE22,Machine learning,API recommendation for machine learning libraries: how far are we?
+FSE22,Machine learning,AutoPruner: transformer-based call graph pruning
+FSE22,Artificial intelligence,Lighting up supervised learning in user review-based code localization: dataset and benchmark
+FSE22,Machine learning,Neural termination analysis
+FSE22,Machine learning,23 shades of self-admitted technical debt: an empirical study on machine learning software
+FSE22,Machine learning,NeuDep: neural binary memory dependence analysis
+FSE22,Artificial intelligence/Machine learning,Using graph neural networks for program termination
+FSE22,Artificial intelligence,DeepDev-PERF: a deep learning-based approach for improving software performance
+FSE22,Machine learning,AUGER: automatically generating review comments with pre-training models
+FSE22,Artificial intelligence,Diet code is healthy: simplifying programs for pre-trained models of code
+FSE22,Machine learning,MAAT: a novel ensemble approach to addressing fairness and performance bugs for machine learning software
+FSE22,Machine learning,NMTSloth: understanding and testing efficiency degradation of neural machine translation systems
+FSE22,Machine learning,RULER: discriminative and iterative adversarial training for deep neural network fairness
+FSE22,Machine learning,Discrepancies among pre-trained deep neural networks: a new threat to model zoo reliability
+FSE22,Artificial intelligence,Uncertainty-aware transfer learning to evolve digital twins for industrial elevators
+FSE22,Artificial intelligence,Incorporating domain knowledge through task augmentation for front-end JavaScript code generation
+FSE22,Artificial intelligence,A study on identifying code author from real development
+FSE22,Machine learning,MultIPAs: applying program transformations to introductory programming assignments for data augmentation
+FSE22,Artificial intelligence/Machine learning,TAPHSIR: towards AnaPHoric ambiguity detection and ReSolution in requirements
+FSE22,Artificial intelligence,COREQQA: a COmpliance REQuirements understanding using question answering tool
+FSE22,Artificial intelligence,WikiDoMiner: wikipedia domain-specific miner
+FSE22,Machine learning,VulCurator: a vulnerability-fixing commit detector
+FSE22,Machine learning,KVS: a tool for knowledge-driven vulnerability searching
+FSE22,Machine learning,MANDO-GURU: vulnerability detection for smart contract source code by heterogeneous graph embeddings
+ISCA22,Machine learning,There's always a bigger fish: a clarifying analysis of a machine-learning-assisted side-channel attack
+ISCA22,Machine learning,Sibyl: adaptive and extensible data placement in hybrid storage systems using online reinforcement learning
+ISCA22,Computer graphics/Modeling and simulation,GCoM: a detailed GPU core model for accurate analytical modeling of modern GPUs
+ISCA22,Artificial intelligence/Symbolic and algebraic manipulation,uBrain: a unary brain computer interface
+ISCA22,Machine learning,Anticipating and eliminating redundant computations in accelerated sparse training
+ISCA22,Machine learning,SNS's not a synthesizer: a deep-learning-based synthesis predictor
+ISCA22,Artificial intelligence/Machine learning,Training personalized recommendation systems from (GPU) scratch: look forward not backwards
+ISCA22,Artificial intelligence,Mokey: enabling narrow fixed-point inference for out-of-the-box floating-point transformer models
+ISCA22,Machine learning,Graphite: optimizing graph neural networks on CPUs through cooperative software-hardware techniques
+ISCA22,Artificial intelligence/Machine learning,SmartSAGE: training large-scale graph neural networks using in-storage processing architectures
+ISCA22,Machine learning,Crescent: taming memory irregularities for accelerating deep point cloud analytics
+ISCA22,Artificial intelligence/Machine learning,AI accelerator on IBM Telum processor: industrial product
+ISCA22,Machine learning,Understanding data storage and ingestion for large-scale deep recommendation model training: industrial product
+ISCA22,Modeling and simulation,Mixed-proxy extensions for the NVIDIA PTX memory consistency model: industrial product
+MOD22,Concurrent computing methodologies,Hybrid Deterministic and Nondeterministic Execution of Transactions in Actor Systems
+MOD22,Machine learning,Statistical Schema Learning with Occam's Razor
+MOD22,Artificial intelligence/Machine learning,"DB-BERT: A Database Tuning Tool that ""Reads the Manual"""
+MOD22,Artificial intelligence,PreQR: Pre-training Representation for SQL Understanding
+MOD22,Artificial intelligence,DataPrism: Exposing Disconnect between Data and Systems
+MOD22,Machine learning,Through the Data Management Lens: Experimental Analysis and Evaluation of Fair Classification
+MOD22,Artificial intelligence,Causal Feature Selection for Algorithmic Fairness
+MOD22,Machine learning,Complaint-Driven Training Data Debugging at Interactive Speeds
+MOD22,Artificial intelligence,Compact Walks: Taming Knowledge-Graph Embeddings with Domain- and Task-Specific Pathways
+MOD22,Distributed computing methodologies,HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training
+MOD22,Machine learning,Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets
+MOD22,Artificial intelligence,Spine: Scaling up Programming-by-Negative-Example for String Filtering and Transformation
+MOD22,Artificial intelligence,Zeus: Efficiently Localizing Actions in Videos using Reinforcement Learning
+MOD22,Artificial intelligence,FiGO: Fine-Grained Query Optimization in Video Analytics
+MOD22,Machine learning,End-to-end Optimization of Machine Learning Prediction Queries
+MOD22,Machine learning,Towards Dynamic and Safe Configuration Tuning for Cloud Databases
+MOD22,Distributed computing methodologies,LOCAT: Low-Overhead Online Configuration Auto-Tuning of Spark SQL Applications
+MOD22,Distributed computing methodologies,Confidence Bounded Replica Currency Estimation
+MOD22,Machine learning,Unsupervised Contextual Anomaly Detection for Database Systems
+MOD22,Parallel computing methodologies/Distributed computing methodologies,HYPERSONIC: A Hybrid Parallelization Approach for Scalable Complex Event Processing
+MOD22,Symbolic and algebraic manipulation,Gloria: Graph-based Sharing Optimizer for Event Trend Aggregation
+MOD22,Modeling and simulation,SIEVE: A Space-Efficient Algorithm for Viterbi Decoding
+MOD22,Machine learning,dCAM: Dimension-wise Class Activation Map for Explaining Multivariate Data Series Classification
+MOD22,Machine learning,CoLES: Contrastive Learning for Event Sequences with Self-Supervision
+MOD22,Machine learning,Learned Cardinality Estimation: An In-depth Study
+MOD22,Machine learning,In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle
+MOD22,Distributed computing methodologies,NeutronStar: Distributed GNN Training with Hybrid Dependency Management
+MOD22,Machine learning,BlindFL: Vertical Federated Machine Learning without Peeking into Your Data
+MOD22,Machine learning,The Price of Tailoring the Index to Your Data: Poisoning Attacks on Learned Index Structures
+MOD22,Machine learning,Budget-aware Index Tuning with Reinforcement Learning
+MOD22,Machine learning,SAM: Database Generation from Query Workloads with Supervised Autoregressive Models
+MOD22,Artificial intelligence,HypeR: Hypothetical Reasoning With What-If and How-To Queries Using a Probabilistic Causal Approach
+MOD22,Modeling and simulation,FILA: Online Auditing of Machine Learning Model Accuracy under Finite Labelling Budget
+MOD22,Machine learning,Sintel: A Machine Learning Framework to Extract Insights from Signals
+MOD22,Machine learning,Sommelier: Curating DNN Models for the Masses
+MOD22,Artificial intelligence,TASTI: Semantic Indexes for Machine Learning-based Queries over Unstructured Data
+MOD22,Machine learning,Materialization and Reuse Optimizations for Production Data Science Pipelines
+MOD22,Machine learning,Scalable and Effective Bipartite Network Embedding
+MOD22,Machine learning,Explaining Link Prediction Systems based on Knowledge Graph Embeddings
+SAC22,Artificial intelligence/Machine learning,The impact of different facial expression intensities on the performance of pre-trained emotion recognition models
+SAC22,Artificial intelligence,A better loss for visual-textual grounding
+SAC22,Artificial intelligence/Machine learning,Adversarial defense by restricting in-variance and co-variance of representations
+SAC22,Artificial intelligence/Machine learning,Time2Vec transformer: a time series approach for gas detection in seismic data
+SAC22,Machine learning,Automated video editing based on learned styles using LSTM-GAN
+SAC22,Machine learning,Residual size is not enough for anomaly detection: improving detection performance using residual similarity in multivariate time series
+SAC22,Modeling and simulation,CSP specification and verification of relay-based railway interlocking systems
+SAC22,Machine learning,RAM: exploiting restrained and approximate management for enabling neural network training on NVM-based systems
+SAC22,Machine learning,"Fast, lightweight IoT anomaly detection using feature pruning and PCA"
+SAC22,Distributed computing methodologies/Machine learning,ElastiQuant: elastic quantization strategy for communication efficient distributed machine learning in IoT
+SAC22,Artificial intelligence,FL-MAB: client selection and monetization for blockchain-based federated learning
+SAC22,Machine learning,A graph-based blocking approach for entity matching using pre-trained contextual embedding models
+SAC22,Machine learning,"""Do you know existing accuracy metrics overrate time-series anomaly detections?"""
+SAC22,Machine learning,EiFFFeL: enforcing fairness in forests by flipping leaves
+SAC22,Machine learning,Optimizing ADWIN for steady streams
+SAC22,Machine learning,Learning on streaming graphs with experience replay
+SAC22,Machine learning,Detecting return-oriented programming on firmware-only embedded devices using hardware performance counters
+SAC22,Machine learning,Towards privacy aware deep learning for embedded systems
+SAC22,Artificial intelligence,Place embedding across cities in location-based social networks
+SAC22,Artificial intelligence/Machine learning,SAGA-Net: efficient pointcloud completion with shape-assisted graph attention neural network
+SAC22,Machine learning,Compact graph neural network models for node classification
+SAC22,Artificial intelligence/Machine learning,A fast unsupervised assignment of ICD codes with clinical notes through explanations
+SAC22,Modeling and simulation,Improving ligand transport trajectory within flexible receptor in CaverDock
+SAC22,Machine learning,Disentangling temporal and amplitude variations in ECG synthesis using anchored GANs
+SAC22,Artificial intelligence/Machine learning,DAM-AL: dilated attention mechanism with attention loss for 3D infant brain image segmentation
+SAC22,Artificial intelligence/Machine learning,Collaborative is better than adversarial: generative cooperative networks for topic clustering
+SAC22,Machine learning,Aspect based sentiment analysis in music: a case study with spotify
+SAC22,Artificial intelligence,Towards fast fiducial marker with full 6 DOF pose estimation
+SAC22,Artificial intelligence/Machine learning,Semi-supervised learning for image alignment in teach and repeat navigation
+SAC22,Artificial intelligence/Machine learning,Learning state-variable relationships for improving POMCP performance
+SAC22,Artificial intelligence,Learning adaptive control in dynamic environments using reproducing kernel priors with bayesian policy gradients
+SAC22,Machine learning,Bootstrapped learning for car detection in planar lidars
+SAC22,Artificial intelligence/Machine learning,Relational learning with hierarchical attention encoder and recoding validator for few-shot knowledge graph completion
+SAC22,Artificial intelligence/Machine learning,Attention-based clinical note summarization
+SAC22,Artificial intelligence,Linguistic characterization of answer passages for fact-seeking question answering
+SAC22,Artificial intelligence/Machine learning,Iterative adversarial removal of gender bias in pretrained word embeddings
+SAC22,Artificial intelligence,Using distributional thesaurus to enhance transformer-based contextualized representations for low resource languages
+SAC22,Artificial intelligence,Practical and efficient out-of-domain detection with adversarial learning
+SAC22,Artificial intelligence/Machine learning,Leveraging multimodal content for podcast summarization
+SAC22,Artificial intelligence,Belief selection through argumentation
+SAC22,Artificial intelligence,Topological semantics for default conditional logic: preliminary report
+SAC22,Artificial intelligence,Computing generalizations of temporal εL concepts with next and global
+SAC22,Machine learning,Enhanced strawberry image classification using multi-task deep neural learning
+SAC22,Machine learning,Representation learning via consistent assignment of views to clusters
+SAC22,Machine learning,Leveraging n-gram neural embeddings to improve deep learning DGA detection
+SAC22,Machine learning,Automatic disease vector mosquitoes identification via hierarchical data stream classification
+SAC22,Machine learning,A comparison of spatio-temporal prediction methods: a parking availability case study
+SAC22,Artificial intelligence/Machine learning,Repairing misclassifications in neural networks using limited data
+SAC22,Machine learning,Visual context embeddings for zero-shot recognition
+SAC22,Machine learning,Correlation-based regularization for fast and energy-efficient spiking neural networks
+SAC22,Machine learning,A new reference-based algorithm based on non-euclidean geometry for multi-stakeholder media planning
+SAC22,Machine learning,A motion-based approach for real-time detection of pornographic content in videos
+SAC22,Artificial intelligence/Machine learning,Run-of-mine stockyard recovery scheduling and optimisation for multiple reclaimers
+SAC22,Artificial intelligence,IA-BERT: context-aware sarcasm detection by incorporating incongruity attention layer for feature extraction
+SAC22,Artificial intelligence/Machine learning,A classification and review of tools for developing and interacting with machine learning systems
+SAC22,Machine learning,CAIBAL: cluster-attribute interdependency based automatic labeler
+SAC22,Machine learning,Cross-silo federated learning based decision trees
+SAC22,Parallel computing methodologies,cuPSO: GPU parallelization for particle swarm optimization algorithms
+SAC22,Concurrent computing methodologies,Condition-based synchronization in data-centric concurrency control
+SAC22,Machine learning,GAN-based matrix factorization for recommender systems
+SAC22,Machine learning,IPreMom: a continual learning-based image rating framework for infant precious moments capturing
+SAC22,Machine learning,A federated machine learning approach to detect international revenue share fraud on the 5G edge
+SAC22,Artificial intelligence,Fighting evil is not enough when refactoring metamodels: promoting the good also matters
+SAC22,Machine learning,POSLAN: disentangling chat with positional and language encoded post embeddings
+SAC22,Artificial intelligence/Machine learning,Knowledge graph enhanced multi-task learning between reviews and ratings for movie recommendation
+SAC22,Artificial intelligence,A reinforcement learning-based path planning for collaborative UAVs
+ICMR22,Artificial intelligence,TriReID: Towards Multi-Modal Person Re-Identification via Descriptive Fusion Model
+ICMR22,Artificial intelligence,Temporal-Consistent Visual Clue Attentive Network for Video-Based Person Re-Identification
+ICMR22,Artificial intelligence,TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval
+ICMR22,Artificial intelligence,Constructing Phrase-level Semantic Labels to Form Multi-Grained Supervision for Image-Text Retrieval
+ICMR22,Artificial intelligence,Relevance-based Margin for Contrastively-trained Video Retrieval Models
+ICMR22,Artificial intelligence/Machine learning,Dual-Level Decoupled Transformer for Video Captioning
+ICMR22,Machine learning,Nearest Neighbor Search with Compact Codes: A Decoder Perspective
+ICMR22,Artificial intelligence/Machine learning,Teaching a New Dog Old Tricks: Contrastive Random Walks in Videos with Unsupervised Priors
+ICMR22,Machine learning,FedNKD: A Dependable Federated Learning Using Fine-tuned Random Noise and Knowledge Distillation
+ICMR22,Artificial intelligence,Weakly Supervised Fine-grained Recognition based on Combined Learning for Small Data and Coarse Label
+ICMR22,Artificial intelligence,Ingredient-enriched Recipe Generation from Cooking Videos
+ICMR22,Artificial intelligence/Machine learning,Disentangled Representations and Hierarchical Refinement of Multi-Granularity Features for Text-to-Image Synthesis
+ICMR22,Artificial intelligence,Style-woven Attention Network for Zero-shot Ink Wash Painting Style Transfer
+ICMR22,Artificial intelligence,Automatic Visual Recognition of Unexploded Ordnances Using Supervised Deep Learning
+ICMR22,Artificial intelligence,Generating Topological Structure of Floorplans from Room Attributes
+ICMR22,Artificial intelligence/Machine learning,MultiCLU: Multi-stage Context Learning and Utilization for Storefront Accessibility Detection and Evaluation
+ICMR22,Computer graphics,UF-VTON: Toward User-Friendly Virtual Try-On Network
+ICMR22,Artificial intelligence,Learning Sample Importance for Cross-Scenario Video Temporal Grounding
+ICMR22,Artificial intelligence,Efficient Linear Attention for Fast and Accurate Keypoint Matching
+ICMR22,Artificial intelligence,Video2Subtitle: Matching Weakly-Synchronized Sequences via Dynamic Temporal Alignment
+ICMR22,Artificial intelligence,Reproducibility Companion Paper: Human Object Interaction Detection via Multi-level Conditioned Network
+ICMR22,Artificial intelligence,Phrase-level Prediction for Video Temporal Localization
+ICMR22,Artificial intelligence/Machine learning,Improving Image Captioning via Enhancing Dual-Side Context Awareness
+ICMR22,Artificial intelligence,Improve Image Captioning by Modeling Dynamic Scene Graph Extension
+ICMR22,Artificial intelligence/Machine learning,Summarizing Videos using Concentrated Attention and Considering the Uniqueness and Diversity of the Video Frames
+ICMR22,Machine learning,Unsupervised Contrastive Masking for Visual Haze Classification
+ICMR22,Machine learning,MuLER: Multiplet-Loss for Emotion Recognition
+ICMR22,Artificial intelligence,STAFNet: Swin Transformer Based Anchor-Free Network for Detection of Forward-looking Sonar Imagery
+ICMR22,Artificial intelligence/Machine learning,DiGAN: Directional Generative Adversarial Network for Object Transfiguration
+ICMR22,Machine learning,GIO: A Timbre-informed Approach for Pitch Tracking in Highly Noisy Environments
+ICMR22,Artificial intelligence/Machine learning,Source-free Temporal Attentive Domain Adaptation for Video Action Recognition
+ICMR22,Artificial intelligence,Review of Deep Learning Models for Spine Segmentation
+ICMR22,Artificial intelligence,3D-Augmented Contrastive Knowledge Distillation for Image-based Object Pose Estimation
+ICMR22,Artificial intelligence,Selective Hypergraph Convolutional Networks for Skeleton-based Action Recognition
+ICMR22,Artificial intelligence,Self-Lifting: A Novel Framework for Unsupervised Voice-Face Association Learning
+ICMR22,Artificial intelligence,Local Slot Attention for Vision and Language Navigation
+ICMR22,Artificial intelligence,Cross-Pixel Dependency with Boundary-Feature Transformation for Weakly Supervised Semantic Segmentation
+ICMR22,Machine learning,Mobile Emotion Recognition via Multiple Physiological Signals using Convolution-augmented Transformer
+ICMR22,Artificial intelligence,VAC-Net: Visual Attention Consistency Network for Person Re-identification
+ICMR22,Machine learning,MFGAN: A Lightweight Fast Multi-task Multi-scale Feature-fusion Model based on GAN
+ICMR22,Artificial intelligence/Machine learning,Adaptive Temporal Grouping for Black-box Adversarial Attacks on Videos
+ICMR22,Artificial intelligence,Parallelism Network with Partial-aware and Cross-correlated Transformer for Vehicle Re-identification
+ICMR22,Artificial intelligence,Extracting Precedence Relations between Video Lectures in MOOCs
+ICMR22,Artificial intelligence,M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection
+ICMR22,Artificial intelligence,Blindfold Attention: Novel Mask Strategy for Facial Expression Recognition
+ICMR22,Artificial intelligence/Machine learning,Lesion Localization in OCT by Semi-Supervised Object Detection
+ICMR22,Artificial intelligence,Weakly Supervised Pediatric Bone Age Assessment Using Ultrasonic Images via Automatic Anatomical RoI Detection
+ICMR22,Artificial intelligence,SA-NAS-BFNR: Spatiotemporal Attention Neural Architecture Search for Task-based Brain Functional Network Representation
+ICMR22,Artificial intelligence/Machine learning,Weakly-supervised Cerebrovascular Segmentation Network with Shape Prior and Model Indicator
+KDD22,Machine learning,GBPNet: Universal Geometric Representation Learning on Protein Structures
+KDD22,Machine learning,Saliency-Regularized Deep Multi-Task Learning
+KDD22,Machine learning,Submodular Feature Selection for Partial Label Learning
+KDD22,Machine learning,Practical Lossless Federated Singular Vector Decomposition over Billion-Scale Data
+KDD22,Machine learning,Avoiding Biases due to Similarity Assumptions in Node Embeddings
+KDD22,Artificial intelligence,Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction
+KDD22,Machine learning,Multi-Variate Time Series Forecasting on Variable Subsets
+KDD22,Artificial intelligence/Machine learning,FedMSplit: Correlation-Adaptive Federated Multi-Task Learning across Multimodal Split Networks
+KDD22,Machine learning,Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting
+KDD22,Artificial intelligence,RLogic: Recursive Logical Rule Learning from Knowledge Graphs
+KDD22,Artificial intelligence,Sufficient Vision Transformer
+KDD22,Machine learning,HyperAid: Denoising in Hyperbolic Spaces for Tree-fitting and Hierarchical Clustering
+KDD22,Machine learning,TARNet: Task-Aware Reconstruction for Time-Series Transformer
+KDD22,Machine learning,Collaboration Equilibrium in Federated Learning
+KDD22,Artificial intelligence,A Generalized Doubly Robust Learning Framework for Debiasing Post-Click Conversion Rate Prediction
+KDD22,Machine learning,Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers
+KDD22,Artificial intelligence,Framing Algorithmic Recourse for Anomaly Detection
+KDD22,Machine learning,Robust Event Forecasting with Spatiotemporal Confounder Learning
+KDD22,Machine learning,On Structural Explanation of Bias in Graph Neural Networks
+KDD22,Machine learning,FreeKD: Free-direction Knowledge Distillation for Graph Neural Networks
+KDD22,Machine learning,Meta-Learned Metrics over Multi-Evolution Temporal Graphs
+KDD22,Artificial intelligence,SIPF: Sampling Method for Inverse Protein Folding
+KDD22,Artificial intelligence,Antibody Complementarity Determining Regions (CDRs) design using Constrained Energy Model
+KDD22,Machine learning,Optimal Interpretable Clustering Using Oblique Decision Trees
+KDD22,Machine learning,Finding Meta Winning Ticket to Train Your MAML
+KDD22,Artificial intelligence,ClusterEA: Scalable Entity Alignment with Stochastic Training and Normalized Mini-batch Similarities
+KDD22,Artificial intelligence/Machine learning,RES: A Robust Framework for Guiding Visual Explanation
+KDD22,Artificial intelligence,Disentangled Ontology Embedding for Zero-shot Learning
+KDD22,Machine learning,PARSRec: Explainable Personalized Attention-fused Recurrent Sequential Recommendation Using Session Partial Actions
+KDD22,Machine learning,Robust Inverse Framework using Knowledge-guided Self-Supervised Learning: An application to Hydrology
+KDD22,Machine learning,BLISS: A Billion scale Index using Iterative Re-partitioning
+KDD22,Machine learning/Distributed computing methodologies,Connecting Low-Loss Subspace for Personalized Federated Learning
+KDD22,Machine learning,Continuous-Time and Multi-Level Graph Representation Learning for Origin-Destination Demand Prediction
+KDD22,Machine learning,Streaming Hierarchical Clustering Based on Point-Set Kernel
+KDD22,Machine learning,Compressing Deep Graph Neural Networks via Adversarial Knowledge Distillation
+KDD22,Machine learning,Partial Label Learning with Semantic Label Representations
+KDD22,Machine learning,Quantifying and Reducing Registration Uncertainty of Spatial Vector Labels on Earth Imagery
+KDD22,Machine learning,AdaAX: Explaining Recurrent Neural Networks by Learning Automata with Adaptive States
+KDD22,Machine learning,Information systems/Computing methodologies
+KDD22,Artificial intelligence,Few-Shot Fine-Grained Entity Typing with Automatic Label Interpretation and Instance Generation
+KDD22,Artificial intelligence,LinE: Logical Query Reasoning over Hierarchical Knowledge Graphs
+KDD22,Machine learning,Local Evaluation of Time Series Anomaly Detection Algorithms
+KDD22,Machine learning,Low-rank Nonnegative Tensor Decomposition in Hyperbolic Space
+KDD22,Artificial intelligence/Machine learning,Global Self-Attention as a Replacement for Graph Convolution
+KDD22,Machine learning,Flexible Modeling and Multitask Learning using Differentiable Tree Ensembles
+KDD22,Artificial intelligence,Dual-Geometric Space Embedding Model for Two-View Knowledge Graphs
+KDD22,Machine learning,Detecting Cash-out Users via Dense Subgraphs
+KDD22,Machine learning,Feature Overcorrelation in Deep Graph Neural Networks: A New Perspective
+KDD22,Machine learning,Condensing Graphs via One-Step Gradient Matching
+KDD22,Machine learning,Selective Cross-City Transfer Learning for Traffic Prediction via Source City Region Re-Weighting
+KDD22,Artificial intelligence,SOS: Score-based Oversampling for Tabular Data
+KDD22,Machine learning,CoRGi: Content-Rich Graph Neural Networks with Attention
+KDD22,Artificial intelligence,Learned Token Pruning for Transformers
+KDD22,Artificial intelligence,ExMeshCNN: An Explainable Convolutional Neural Network Architecture for 3D Shape Analysis
+KDD22,Machine learning,In Defense of Core-set: A Density-aware Core-set Selection for Active Learning
+KDD22,Artificial intelligence/Machine learning,FlowGEN: A Generative Model for Flow Graphs
+KDD22,Machine learning,Variational Inference for Training Graph Neural Networks in Low-Data Regime through Joint Structure-Label Estimation
+KDD22,Machine learning,Modeling Network-level Traffic Flow Transitions on Sparse Data
+KDD22,Machine learning,The DipEncoder: Enforcing Multimodality in Autoencoders
+KDD22,Machine learning,KPGT: Knowledge-Guided Pre-training of Graph Transformer for Molecular Property Prediction
+KDD22,Machine learning,Domain Adaptation in Physical Systems via Graph Kernel
+KDD22,Distributed computing methodologies,Sampling-based Estimation of the Number of Distinct Values in Distributed Environment
+KDD22,Artificial intelligence,HierCDF: A Bayesian Network-based Hierarchical Cognitive Diagnosis Framework
+KDD22,Machine learning,Communication-Efficient Robust Federated Learning with Noisy Labels
+KDD22,Machine learning,PAC-Wrap: Semi-Supervised PAC Anomaly Detection
+KDD22,Artificial intelligence/Machine learning,TransBO: Hyperparameter Optimization via Two-Phase Transfer Learning
+KDD22,Artificial intelligence/Machine learning,Transfer Learning based Search Space Design for Hyperparameter Tuning
+KDD22,Artificial intelligence,Sparse Conditional Hidden Markov Model for Weakly Supervised Named Entity Recognition
+KDD22,Machine learning,Graph Structural Attack by Perturbing Spectral Distance
+KDD22,Machine learning,Deep Representations for Time-varying Brain Datasets
+KDD22,Artificial intelligence,Semantic Enhanced Text-to-SQL Parsing via Iteratively Learning Schema Linking Graph
+KDD22,Artificial intelligence/Machine learning,MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting
+KDD22,Artificial intelligence,Graph-in-Graph Network for Automatic Gene Ontology Description Generation
+KDD22,Machine learning,Graph Rationalization with Environment-based Augmentations
+KDD22,Artificial intelligence,Label-enhanced Prototypical Network with Contrastive Learning for Multi-label Few-shot Aspect Category Detection
+KDD22,Machine learning,Fair Representation Learning: An Alternative to Mutual Information
+KDD22,Artificial intelligence,Joint Knowledge Graph Completion and Question Answering
+KDD22,Machine learning,RL2: A Call for Simultaneous Representation Learning and Rule Learning for Graph Streams
+KDD22,Artificial intelligence/Machine learning,Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries
+KDD22,Machine learning,UD-GNN: Uncertainty-aware Debiased Training on Semi-Homophilous Graphs
+KDD22,Machine learning,Practical Counterfactual Policy Learning for Top-K Recommendations
+KDD22,Machine learning,Matrix Profile XXIV: Scaling Time Series Anomaly Detection to Trillions of Datapoints and Ultra-fast Arriving Data Streams
+KDD22,Machine learning,S2RL: Do We Really Need to Perceive All States in Deep Multi-Agent Reinforcement Learning?
+KDD22,Machine learning,Learning Differential Operators for Interpretable Time Series Modeling
+KDD22,Machine learning,Non-stationary Time-aware Kernelized Attention for Temporal Event Prediction
+KDD22,Artificial intelligence,Learning Models of Individual Behavior in Chess
+KDD22,Machine learning,Nonlinearity Encoding for Extrapolation of Neural Networks
+KDD22,Machine learning,Learning Fair Representation via Distributional Contrastive Disentanglement
+KDD22,Machine learning,Predicting Opinion Dynamics via Sociologically-Informed Neural Networks
+KDD22,Machine learning,MetaV: A Meta-Verifier Approach to Task-Agnostic Model Fingerprinting
+KDD22,Symbolic and algebraic manipulation,Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep Neural Network
+KDD22,Machine learning,Bilateral Dependency Optimization: Defending Against Model-inversion Attacks
+KDD22,Machine learning,Rep2Vec: Repository Embedding via Heterogeneous Graph Adversarial Contrastive Learning
+KDD22,Machine learning,External Knowledge Infusion for Tabular Pre-training Models with Dual-adapters
+KDD22,Machine learning,Importance Prioritized Policy Distillation
+KDD22,Machine learning,p-Meta: Towards On-device Deep Model Adaptation
+KDD22,Machine learning,Fair and Interpretable Models for Survival Analysis
+KDD22,Machine learning,Graph-Flashback Network for Next Location Recommendation
+KDD22,Machine learning,SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs
+KDD22,Machine learning,DICE: Domain-attack Invariant Causal Learning for Improved Data Privacy Protection and Adversarial Robustness
+KDD22,Artificial intelligence/Machine learning,Variational Flow Graphical Model
+KDD22,Machine learning,Semi-supervised Drifted Stream Learning with Short Lookback
+KDD22,Machine learning,Fair Ranking as Fair Division: Impact-Based Individual Fairness in Ranking
+KDD22,Machine learning,A Generalized Backward Compatibility Metric
+KDD22,Machine learning,Balancing Bias and Variance for Active Weakly Supervised Learning
+KDD22,Machine learning,"On Missing Labels, Long-tails and Propensities in Extreme Multi-label Classification"
+KDD22,Machine learning,Active Model Adaptation Under Unknown Shift
+KDD22,Machine learning,Deep Learning for Prognosis Using Task-fMRI: A Novel Architecture and Training Scheme
+KDD22,Machine learning,Pairwise Adversarial Training for Unsupervised Class-imbalanced Domain Adaptation
+KDD22,Machine learning,State Dependent Parallel Neural Hawkes Process for Limit Order Book Event Stream Prediction and Simulation
+KDD22,Artificial intelligence,Robust and Informative Text Augmentation (RITA) via Constrained Worst-Case Transformations for Low-Resource Named Entity Recognition
+KDD22,Machine learning,GUIDE: Group Equality Informed Individual Fairness in Graph Neural Networks
+KDD22,Machine learning,Learning on Graphs with Out-of-Distribution Nodes
+KDD22,Machine learning,Towards an Optimal Asymmetric Graph Structure for Robust Semi-supervised Node Classification
+KDD22,Artificial intelligence/Machine learning,ERNet: Unsupervised Collective Extraction and Registration in Neuroimaging Data
+KDD22,Machine learning,Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems
+KDD22,Machine learning,Causal Attention for Interpretable and Generalizable Graph Classification
+KDD22,Machine learning,GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks
+KDD22,Machine learning,pureGAM: Learning an Inherently Pure Additive Model
+KDD22,Machine learning,Learning Optimal Priors for Task-Invariant Representations in Variational Autoencoders
+KDD22,Artificial intelligence,Improving Data-driven Heterogeneous Treatment Effect Estimation Under Structure Uncertainty
+KDD22,Artificial intelligence,Dense Feature Tracking of Atmospheric Winds with Deep Optical Flow
+KDD22,Machine learning,Group-wise Reinforcement Feature Generation for Optimal and Explainable Representation Space Reconstruction
+KDD22,Artificial intelligence/Machine learning,Toward Learning Robust and Invariant Representations with Alignment Regularization and Data Augmentation
+KDD22,Artificial intelligence/Machine learning,Estimating Individualized Causal Effect with Confounded Instruments
+KDD22,Machine learning,Streaming Graph Neural Networks with Generative Replay
+KDD22,Artificial intelligence,Proton: Probing Schema Linking Information from Pre-trained Language Models for Text-to-SQL Parsing
+KDD22,Machine learning,Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer
+KDD22,Machine learning,Task-Adaptive Few-shot Node Classification
+KDD22,Machine learning,Partial Label Learning with Discrimination Augmentation
+KDD22,Machine learning,Graph Neural Networks with Node-wise Architecture
+KDD22,Artificial intelligence/Machine learning,An Embedded Feature Selection Framework for Control
+KDD22,Artificial intelligence,SagDRE: Sequence-Aware Graph-Based Document-Level Relation Extraction with Adaptive Margin Loss
+KDD22,Machine learning,Disentangled Dynamic Heterogeneous Graph Learning for Opioid Overdose Prediction
+KDD22,Machine learning,Beyond Point Prediction: Capturing Zero-Inflated & Heavy-Tailed Spatiotemporal Data with Deep Extreme Mixture Models
+KDD22,Machine learning,Multi-fidelity Hierarchical Neural Processes
+KDD22,Machine learning,Domain Adaptation with Dynamic Open-Set Targets
+KDD22,Machine learning,Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction
+KDD22,Machine learning,CLARE: A Semi-supervised Community Detection Algorithm
+KDD22,Machine learning,Geometric Policy Iteration for Markov Decision Processes
+KDD22,Modeling and simulation,Non-stationary A/B Tests
+KDD22,Machine learning,Robust Tensor Graph Convolutional Networks via T-SVD based Graph Augmentation
+KDD22,Machine learning,Sample-Efficient Kernel Mean Estimator with Marginalized Corrupted Data
+KDD22,Machine learning,End-to-End Semi-Supervised Ordinal Regression AUC Maximization with Convolutional Kernel Networks
+KDD22,Machine learning,Towards a Native Quantum Paradigm for Graph Representation Learning: A Sampling-based Recurrent Embedding Approach
+KDD22,Machine learning,On-Device Learning for Model Personalization with Large-Scale Cloud-Coordinated Domain Adaption
+KDD22,Machine learning,Enhancing Machine Learning Approaches for Graph Optimization Problems with Diversifying Graph Augmentation
+KDD22,Artificial intelligence/Machine learning,Causal Discovery on Non-Euclidean Data
+KDD22,Artificial intelligence,Toward Real-life Dialogue State Tracking Involving Negative Feedback Utterances
+KDD22,Artificial intelligence/Machine learning,Learning Task-relevant Representations for Generalization via Characteristic Functions of Reward Sequence Distributions
+KDD22,Machine learning,Reinforcement Subgraph Reasoning for Fake News Detection
+KDD22,Machine learning,Learning Classifiers under Delayed Feedback with a Time Window Assumption
+KDD22,Machine learning,Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting
+KDD22,Artificial intelligence,LeapAttack: Hard-Label Adversarial Attack on Text via Gradient-Based Optimization
+KDD22,Machine learning,Deconfounding Actor-Critic Network with Policy Adaptation for Dynamic Treatment Regimes
+KDD22,Machine learning,Nimble GNN Embedding with Tensor-Train Decomposition
+KDD22,Machine learning,Accurate Node Feature Estimation with Structured Variational Graph Autoencoder
+KDD22,Machine learning,Adaptive Model Pooling for Online Deep Anomaly Detection from a Complex Evolving Data Stream
+KDD22,Machine learning,ROLAND: Graph Learning Framework for Dynamic Graphs
+KDD22,Machine learning,Availability Attacks Create Shortcuts
+KDD22,Machine learning,Multiplex Heterogeneous Graph Convolutional Network
+KDD22,Artificial intelligence,MDP2 Forest: A Constrained Continuous Multi-dimensional Policy Optimization Approach for Short-video Recommendation
+KDD22,Machine learning,Dual Bidirectional Graph Convolutional Networks for Zero-shot Node Classification
+KDD22,Machine learning,Variational Graph Author Topic Modeling
+KDD22,Modeling and simulation/Machine learning,Physics-infused Machine Learning for Crowd Simulation
+KDD22,Machine learning,Few-shot Heterogeneous Graph Learning via Cross-domain Knowledge Transfer
+KDD22,Machine learning,M-Mix: Generating Hard Negatives via Multi-sample Mixing for Contrastive Learning
+KDD22,Artificial intelligence,MetroGAN: Simulating Urban Morphology with Generative Adversarial Network
+KDD22,Machine learning,Model Degradation Hinders Deep Graph Neural Networks
+KDD22,Machine learning,Counteracting User Attention Bias in Music Streaming Recommendation via Reward Modification
+KDD22,Machine learning,Improving Social Network Embedding via New Second-Order Continuous Graph Neural Networks
+KDD22,Artificial intelligence,Unsupervised Key Event Detection from Massive Text Corpora
+KDD22,Artificial intelligence,FLDetector: Defending Federated Learning Against Model Poisoning Attacks via Detecting Malicious Clients
+KDD22,Machine learning,Adaptive Learning for Weakly Labeled Streams
+KDD22,Artificial intelligence/Machine learning,Adaptive Fairness-Aware Online Meta-Learning for Changing Environments
+KDD22,Machine learning,Contrastive Learning with Complex Heterogeneity
+KDD22,Machine learning,KRATOS: Context-Aware Cell Type Classification and Interpretation using Joint Dimensionality Reduction and Clustering
+KDD22,Machine learning,Unified 2D and 3D Pre-Training of Molecular Representations
+KDD22,Machine learning,How does Heterophily Impact the Robustness of Graph Neural Networks?: Theoretical Connections and Practical Implications
+KDD22,Machine learning,A Process-Aware Decision Support System for Business Processes
+KDD22,Machine learning,RCAD: Real-time Collaborative Anomaly Detection System for Mobile Broadband Networks
+KDD22,Machine learning,Generalizable Floorplanner through Corner Block List Representation and Hypergraph Embedding
+KDD22,Machine learning,ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest
+KDD22,Machine learning,Company-as-Tribe: Company Financial Risk Assessment on Tribe-Style Graph with Hierarchical Graph Neural Networks
+KDD22,Artificial intelligence,Personalized Chit-Chat Generation for Recommendation Using External Chat Corpora
+KDD22,Machine learning,AntiBenford Subgraphs: Unsupervised Anomaly Detection in Financial Networks
+KDD22,Machine learning,Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival
+KDD22,Artificial intelligence/Machine learning,ILASR: Privacy-Preserving Incremental Learning for Automatic Speech Recognition at Production Scale
+KDD22,Artificial intelligence,Ask to Know More: Generating Counterfactual Explanations for Fake Claims
+KDD22,Machine learning,TwHIN: Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation
+KDD22,Artificial intelligence,SAMCNet: Towards a Spatially Explainable AI Approach for Classifying MxIF Oncology Data
+KDD22,Machine learning,Large-Scale Acoustic Automobile Fault Detection: Diagnosing Engines Through Sound
+KDD22,Artificial intelligence,Precise Mobility Intervention for Epidemic Control Using Unobservable Information via Deep Reinforcement Learning
+KDD22,Artificial intelligence/Machine learning,Alexa Teacher Model: Pretraining and Distilling Multi-Billion-Parameter Encoders for Natural Language Understanding Systems
+KDD22,Artificial intelligence,DP-GAT: A Framework for Image-based Disease Progression Prediction
+KDD22,Machine learning,Graph Meta-Reinforcement Learning for Transferable Autonomous Mobility-on-Demand
+KDD22,Machine learning,Applying Deep Learning Based Probabilistic Forecasting to Food Preparation Time for On-Demand Delivery Service
+KDD22,Machine learning,Collaborative Intelligence Orchestration: Inconsistency-Based Fusion of Semi-Supervised Learning and Active Learning
+KDD22,Artificial intelligence/Machine learning,Automatic Controllable Product Copywriting for E-Commerce
+KDD22,Artificial intelligence/Machine learning,Real-Time Rideshare Driver Supply Values Using Online Reinforcement Learning
+KDD22,Machine learning,Learning Sparse Latent Graph Representations for Anomaly Detection in Multivariate Time Series
+KDD22,Artificial intelligence,Three-Stage Root Cause Analysis for Logistics Time Efficiency via Explainable Machine Learning
+KDD22,Machine learning,Unsupervised Learning Style Classification for Learning Path Generation in Online Education Platforms
+KDD22,Machine learning,Greykite: Deploying Flexible Forecasting at Scale at LinkedIn
+KDD22,Artificial intelligence,DuIVA: An Intelligent Voice Assistant for Hands-free and Eyes-free Voice Interaction with the Baidu Maps App
+KDD22,Artificial intelligence/Machine learning,A Fully Differentiable Set Autoencoder
+KDD22,Machine learning,T-Cell Receptor-Peptide Interaction Prediction with Physical Model Augmented Pseudo-Labeling
+KDD22,Machine learning/Distributed computing methodologies,Analyzing Online Transaction Networks with Network Motifs
+KDD22,Machine learning,Predicting Bearings Degradation Stages for Predictive Maintenance in the Pharmaceutical Industry
+KDD22,Machine learning,Vexation-Aware Active Learning for On-Menu Restaurant Dish Availability
+KDD22,Artificial intelligence,"COBART: Controlled, Optimized, Bidirectional and Auto-Regressive Transformer for Ad Headline Generation"
+KDD22,Artificial intelligence/Machine learning,Preventing Catastrophic Forgetting in Continual Learning of New Natural Language Tasks
+KDD22,Artificial intelligence,Self-Supervised Augmentation and Generation for Multi-lingual Text Advertisements at Bing
+KDD22,Artificial intelligence/Machine learning,A New Generation of Perspective API: Efficient Multilingual Character-level Transformers
+KDD22,Machine learning,Design Domain Specific Neural Network via Symbolic Testing
+KDD22,Artificial intelligence,Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition
+KDD22,Machine learning,Arbitrary Distribution Modeling with Censorship in Real-Time Bidding Advertising
+KDD22,Machine learning,Towards Learning Disentangled Representations for Time Series
+KDD22,Artificial intelligence,TaxoTrans: Taxonomy-Guided Entity Translation
+KDD22,Artificial intelligence,Duplex Conversation: Towards Human-like Interaction in Spoken Dialogue Systems
+KDD22,Artificial intelligence/Machine learning,HiPAL: A Deep Framework for Physician Burnout Prediction Using Activity Logs in Electronic Health Records
+KDD22,Artificial intelligence/Distributed computing methodologies,No One Left Behind: Inclusive Federated Learning over Heterogeneous Devices
+KDD22,Artificial intelligence/Machine learning,OAG-BERT: Towards a Unified Backbone Language Model for Academic Knowledge Services
+KDD22,Machine learning,Multi-task Hierarchical Classification for Disk Failure Prediction in Online Service Systems
+KDD22,Machine learning,An Online Multi-task Learning Framework for Google Feed Ads Auction Models
+KDD22,Artificial intelligence,BE3R: BERT based Early-Exit Using Expert Routing
+KDD22,Machine learning,Looper: An End-to-End ML Platform for Product Decisions
+KDD22,Artificial intelligence/Machine learning,Proactively Reducing the Hate Intensity of Online Posts via Hate Speech Normalization
+KDD22,Artificial intelligence,Packet Representation Learning for Traffic Classification
+KDD22,Artificial intelligence,Packet Representation Learning for Traffic Classification
+KDD22,Artificial intelligence,Towards Reliable Detection of Dielectric Hotspots in Thermal Images of the Underground Distribution Network
+KDD22,Artificial intelligence/Machine learning,Generating Examples from CLI Usage: Can Transformers Help?
+KDD22,Artificial intelligence,ASPIRE: Air Shipping Recommendation for E-commerce Products via Causal Inference Framework
+KDD22,Machine learning,DNA-Stabilized Silver Nanocluster Design via Regularized Variational Autoencoders
+KDD22,Artificial intelligence,GradMask: Gradient-Guided Token Masking for Textual Adversarial Example Detection
+KDD22,Machine learning,Solar: Science of Entity Loss Attribution
+KDD22,Machine learning,Counterfactual Phenotyping with Censored Time-to-Events
+KDD22,Machine learning,Crowdsourcing with Contextual Uncertainty
+KDD22,Machine learning,Amazon SageMaker Model Monitor: A System for Real-Time Insights into Deployed Machine Learning Models
+KDD22,Machine learning,Human-in-the-Loop Large-Scale Predictive Maintenance of Workstations
+KDD22,Machine learning/Modeling and simulation,GraphWorld: Fake Graphs Bring Real Insights for GNNs
+KDD22,Artificial intelligence,Temporal Multimodal Multivariate Learning
+KDD22,Artificial intelligence,Downscaling Earth System Models with Deep Learning
+KDD22,Artificial intelligence/Machine learning,DocLayNet: A Large Human-Annotated Dataset for Document-Layout Segmentation
+KDD22,Machine learning,Multi-objective Optimization of Notifications Using Offline Reinforcement Learning
+KDD22,Machine learning,What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?
+KDD22,Machine learning,Characterizing Covid Waves via Spatio-Temporal Decomposition
+KDD22,Machine learning,ChemicalX: A Deep Learning Library for Drug Pair Scoring
+KDD22,Artificial intelligence,Semantic Aware Answer Sentence Selection Using Self-Learning Based Domain Adaptation
+KDD22,Machine learning,Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detection in Global Long-Term Space
+KDD22,Machine learning,Generalized Deep Mixed Models
+KDD22,Machine learning/Modeling and simulation,Seq2Event: Learning the Language of Soccer Using Transformer-based Match Event Prediction
+KDD22,Machine learning,Friend Recommendations with Self-Rescaling Graph Neural Networks
+KDD22,Artificial intelligence,Counseling Summarization Using Mental Health Knowledge Guided Utterance Filtering
+KDD22,Machine learning,Few-shot Learning for Trajectory-based Mobile Game Cheating Detection
+KDD22,Machine learning,Optimizing Long-Term Efficiency and Fairness in Ride-Hailing via Joint Order Dispatching and Driver Repositioning
+KDD22,Machine learning,Reinforcement Learning-based Placement of Charging Stations in Urban Road Networks
+KDD22,Machine learning,A Graph Learning Based Framework for Billion-Scale Offline User Identification
+KDD22,Machine learning,NENYA: Cascade Reinforcement Learning for Cost-Aware Failure Mitigation at Microsoft 365
+KDD22,Machine learning,CausalInt: Causal Inspired Intervention for Multi-Scenario Recommendation
+KDD22,Machine learning,"FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning"
+KDD22,Machine learning,"Interpretability, Then What? Editing Machine Learning Models to Reflect Human Knowledge and Values"
+KDD22,Machine learning/Modeling and simulation,Learning Large-scale Subsurface Simulations with a Hybrid Graph Network Simulator
+KDD22,Symbolic and algebraic manipulation,A Framework for Multi-stage Bonus Allocation in Meal Delivery Platform
+KDD22,Machine learning,Multi Armed Bandit vs. A/B Tests in E-commerce - Confidence Interval and Hypothesis Test Power Perspectives
+KDD22,Machine learning,Mixture of Virtual-Kernel Experts for Multi-Objective User Profile Modeling
+KDD22,Machine learning,Perioperative Predictions with Interpretable Latent Representation
+KDD22,Machine learning,A Meta Reinforcement Learning Approach for Predictive Autoscaling in the Cloud
+KDD22,Machine learning,CMMD: Cross-Metric Multi-Dimensional Root Cause Analysis
+KDD22,Artificial intelligence,TAG: Toward Accurate Social Media Content Tagging with a Concept Graph
+KDD22,Machine learning,Multilingual Taxonomic Web Page Classification for Contextual Targeting at Yahoo
+KDD22,Machine learning,A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling
+KDD22,Machine learning,Embedding Compression with Hashing for Efficient Representation Learning in Large-Scale Graph
+KDD22,Machine learning,Predicting Age-Related Macular Degeneration Progression with Contrastive Attention and Time-Aware LSTM
+KDD22,Artificial intelligence,XDAI: A Tuning-free Framework for Exploiting Pre-trained Language Models in Knowledge Grounded Dialogue Generation
+KDD22,Artificial intelligence,CommerceMM: Large-Scale Commerce MultiModal Representation Learning with Omni Retrieval
+KDD22,Artificial intelligence,EGM: Enhanced Graph-based Model for Large-scale Video Advertisement Search
+KDD22,Machine learning,Multi-task Envisioning Transformer-based Autoencoder for Corporate Credit Rating Migration Early Prediction
+KDD22,Machine learning,AutoShard: Automated Embedding Table Sharding for Recommender Systems
+KDD22,Artificial intelligence/Machine learning,Data-Driven Oracle Bone Rejoining: A Dataset and Practical Self-Supervised Learning Scheme
+KDD22,Machine learning,Multi-Task Fusion via Reinforcement Learning for Long-Term User Satisfaction in Recommender Systems
+KDD22,Machine learning,Adaptive Multi-view Rule Discovery for Weakly-Supervised Compatible Products Prediction
+KDD22,Distributed computing methodologies/Machine learning,Sparx: Distributed Outlier Detection at Scale
+KDD22,Machine learning,CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences
+KDD22,Artificial intelligence,Medical Symptom Detection in Intelligent Pre-Consultation Using Bi-directional Hard-Negative Noise Contrastive Estimation
+KDD22,Distributed computing methodologies/Machine learning,Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Heterogeneous Graphs
+KDD22,Machine learning,Dynamic Graph Segmentation for Deep Graph Neural Networks
+KDD22,Artificial intelligence,DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect Estimation
+KDD22,Machine learning,Uncertainty Quantification of Sparse Travel Demand Prediction with Spatial-Temporal Graph Neural Networks
+KDD22,Modeling and simulation,Effective Social Network-Based Allocation of COVID-19 Vaccines
+KDD22,Machine learning,Reinforcement Learning Enhances the Experts: Large-scale COVID-19 Vaccine Allocation with Multi-factor Contact Network
+KDD22,Machine learning,Automatic Phenotyping by a Seed-guided Topic Model
+KDD22,Machine learning,MolSearch: Search-based Multi-objective Molecular Generation and Property Optimization
+KDD22,Machine learning,Data-Efficient Brain Connectome Analysis via Multi-Task Meta-Learning
+KDD22,Modeling and simulation,Activity Trajectory Generation via Modeling Spatiotemporal Dynamics
+KDD22,Artificial intelligence,Medical Dialogue Response Generation with Pivotal Information Recalling
