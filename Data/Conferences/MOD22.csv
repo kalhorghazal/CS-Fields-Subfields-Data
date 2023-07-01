@@ -1,0 +1,165 @@
+Conference,Track,Index,Paper
+MOD22,Transaction Processing,Information systems,"Ad Hoc Transactions in Web Applications: The Good, the Bad, and the Ugly"
+MOD22,Transaction Processing,Information systems,"Plor: General Transactions with Predictable, Low Tail Latency"
+MOD22,Transaction Processing,Information systems,Skeena: Efficient and Consistent Cross-Engine Transactions
+MOD22,Transaction Processing,Information systems,Diva: Making MVCC Systems HTAP-Friendly
+MOD22,Transaction Processing,Computing methodologies/Information systems,Hybrid Deterministic and Nondeterministic Execution of Transactions in Actor Systems
+MOD22,Query Processing and Optimization 1,Information systems,Optimizing Recursive Queries with Progam Synthesis
+MOD22,Query Processing and Optimization 1,Theory of computation/Information systems,WeTune: Automatic Discovery and Verification of Query Rewrite Rules
+MOD22,Query Processing and Optimization 1,Theory of computation/Information systems,Conjunctive Queries with Comparisons
+MOD22,Query Processing and Optimization 1,Information systems,Efficient Massively Parallel Join Optimization for Large Queries
+MOD22,Query Processing and Optimization 1,Theory of computation/Information systems,Efficient Incrementialization of Correlated Nested Aggregate Queries using Relative Partial Aggregate Indexes (RPAI)
+MOD22,ML for Data Management 1,Information systems,Serenade - Low-Latency Session-Based Recommendation in e-Commerce at Scale
+MOD22,ML for Data Management 1,Information systems,Neural Subgraph Counting with Wasserstein Estimator
+MOD22,ML for Data Management 1,Computing methodologies/Information systems,Statistical Schema Learning with Occam's Razor
+MOD22,ML for Data Management 1,Computing methodologies/Information systems,"DB-BERT: A Database Tuning Tool that ""Reads the Manual"""
+MOD22,ML for Data Management 1,Computing methodologies/Information systems,PreQR: Pre-training Representation for SQL Understanding
+MOD22,Responsible Data Management and Fairness,Computing methodologies/Information systems/Software and its engineering,DataPrism: Exposing Disconnect between Data and Systems
+MOD22,Responsible Data Management and Fairness,Computing methodologies/Information systems/General and reference,Through the Data Management Lens: Experimental Analysis and Evaluation of Fair Classification
+MOD22,Responsible Data Management and Fairness,Information systems,Interpretable Data-Based Explanations for Fairness Debugging
+MOD22,Responsible Data Management and Fairness,Information systems,Rank Aggregation with Proportionate Fairness
+MOD22,Responsible Data Management and Fairness,Computing methodologies/Theory of computation,Causal Feature Selection for Algorithmic Fairness
+MOD22,Streaming and Sensor Networks 1,Information systems,TSUBASA: Climate Network Construction on Historical and Real-Time Data
+MOD22,Streaming and Sensor Networks 1,Information systems,DenForest: Enabling Fast Deletion in Incremental Density-Based Clustering over Sliding Windows
+MOD22,Streaming and Sensor Networks 1,Theory of computation/Information systems,AutoMon: Automatic Distributed Monitoring for Arbitrary Multivariate Functions
+MOD22,Streaming and Sensor Networks 1,Mathematics of computing/Theory of computation,GraphZeppelin: Storage-Friendly Sketching for Connected Components on Dynamic Graph Streams
+MOD22,Streaming and Sensor Networks 1,Information systems,DLACEP: A Deep-Learning Based Framework for Approximate Complex Event Processing
+MOD22,Data Cleaning and Integration,Theory of computation,Understanding Queries by Conditional Instances
+MOD22,Data Cleaning and Integration,Computing methodologies/Information systems,Complaint-Driven Training Data Debugging at Interactive Speeds
+MOD22,Data Cleaning and Integration,Information systems,Parallel Rule Discovery from Large Datasets by Sampling
+MOD22,Data Cleaning and Integration,Human-centered computing/Information systems/Theory of computation/Mathematics of computing,Reptile: Aggregation-level Explanations for Hierarchical Data
+MOD22,Data Cleaning and Integration,Information systems,Hierarchical Entity Resolution using an Oracle
+MOD22,Data Cleaning and Integration,Information systems,Entity Resolution with Hierarchical Graph Attention Networks
+MOD22,Data Cleaning and Integration,Information systems,Domain Adaptation for Deep Entity Resolution
+MOD22,Data Management for ML 1,Information systems/Computing methodologies/Applied computing,Compact Walks: Taming Knowledge-Graph Embeddings with Domain- and Task-Specific Pathways
+MOD22,Data Management for ML 1,Computing methodologies/Information systems,HET-GMP: A Graph-based System Approach to Scaling Large Embedding Model Training
+MOD22,Data Management for ML 1,Computer systems organization/Information systems,NuPS: A Parameter Server for Machine Learning with Non-Uniform Parameter Access
+MOD22,Data Management for ML 1,Information systems,Finding Label and Model Errors in Perception Data With Learned Observation Assertions
+MOD22,Data Management for ML 1,Computing methodologies/Information systems,Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets
+MOD22,Data Management for ML 1,Computing methodologies/Software and its engineering,Spine: Scaling up Programming-by-Negative-Example for String Filtering and Transformation
+MOD22,Data Management for ML 1,Information systems,One Size Does Not Fit All: A Bandit-Based Sampler Combination Framework with Theoretical Guarantees
+MOD22,Query Processing and Data Management for ML,Computing methodologies/Information systems,Zeus: Efficiently Localizing Actions in Videos using Reinforcement Learning
+MOD22,Query Processing and Data Management for ML,Computing methodologies/Information systems,FiGO: Fine-Grained Query Optimization in Video Analytics
+MOD22,Query Processing and Data Management for ML,Information systems,Redundancy Elimination in Distributed Matrix Computation
+MOD22,Query Processing and Data Management for ML,Computing methodologies/Information systems,End-to-end Optimization of Machine Learning Prediction Queries
+MOD22,Query Processing and Data Management for ML,Theory of computation/Information systems,EVA: A Symbolic Approach to Accelerating Exploratory Video Analytics with Materialized Views
+MOD22,Database Monitoring and Tuning,Information systems,Tastes Great! Less Filling! High Performance and Accurate Training Data Collection for Self-Driving Database Management Systems
+MOD22,Database Monitoring and Tuning,Computing methodologies/Information systems,Towards Dynamic and Safe Configuration Tuning for Cloud Databases
+MOD22,Database Monitoring and Tuning,Computer systems organization,HUNTER: An Online Cloud Database Hybrid Tuning System for Personalized Requirements
+MOD22,Database Monitoring and Tuning,Computer systems organization/Information systems,ISUM: Efficiently Compressing Large and Complex Workloads for Scalable Index Tuning
+MOD22,Database Monitoring and Tuning,Computing methodologies/Information systems,LOCAT: Low-Overhead Online Configuration Auto-Tuning of Spark SQL Applications
+MOD22,Distributed and Parallel Databases,Information systems,"ScaleStore: A Fast and Cost-Efficient Storage Engine using DRAM, NVMe, and RDMA"
+MOD22,Distributed and Parallel Databases,Information systems,Proteus: Autonomous Adaptive Storage for Mixed Workloads
+MOD22,Distributed and Parallel Databases,Information systems,Natto: Providing Distributed Transaction Prioritization for High-Contention Workloads
+MOD22,Distributed and Parallel Databases,Computing methodologies,Confidence Bounded Replica Currency Estimation
+MOD22,Distributed and Parallel Databases,Networks/Theory of computation,MinMax Sampling: A Near-optimal Global Summary for Aggregation in the Wide Area
+MOD22,"Database Security, Privacy and Control",Information systems/Theory of computation/Security and privacy,R2T: Instance-optimal Truncation for Differentially Private Query Evaluation with Foreign Keys
+MOD22,"Database Security, Privacy and Control",Security and privacy,Network Shuffling: Privacy Amplification via Random Walks
+MOD22,"Database Security, Privacy and Control",Computing methodologies/Information systems,Unsupervised Contextual Anomaly Detection for Database Systems
+MOD22,"Database Security, Privacy and Control",Security and privacy,Towards Practical Oblivious Join
+MOD22,"Database Security, Privacy and Control",Security and privacy,IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy
+MOD22,Graph Data Management and Mining,Mathematics of computing/Theory of computation,A Convex-Programming Approach for Efficient Directed Densest Subgraph Discovery
+MOD22,Graph Data Management and Mining,Mathematics of computing,Efficient Algorithms for Maximal k-Biplex Enumeration
+MOD22,Graph Data Management and Mining,Mathematics of computing,Hunting Temporal Bumps in Graphs with Dynamic Vertex Properties
+MOD22,Graph Data Management and Mining,Information systems,DMCS : Density Modularity based Community Search
+MOD22,Graph Data Management and Mining,Mathematics of computing,On Scalable Computation of Graph Eccentricities
+MOD22,ML for Data Management and Query Processing,Information systems,HAP: An Efficient Hamming Space Index Based on Augmented Pigeonhole Principle
+MOD22,ML for Data Management and Query Processing,Information systems/Theory of computation,Balsa: Learning a Query Optimizer Without Expert Demonstrations
+MOD22,ML for Data Management and Query Processing,Information systems,LearnedSQLGen: Constraint-aware SQL Generation using Reinforcement Learning
+MOD22,ML for Data Management and Query Processing,Information systems/Theory of computation,Selectivity Functions of Range Queries are Learnable
+MOD22,ML for Data Management and Query Processing,Information systems,Lightweight and Accurate Cardinality Estimation by Neural Network Gaussian Process
+MOD22,Modern Hardware and In-memory DBMS,Information systems,X-SSD: A Storage System with Native Support for Database Logging and Replication
+MOD22,Modern Hardware and In-memory DBMS,Information systems,GaccO - A GPU-accelerated OLTP DBMS
+MOD22,Modern Hardware and In-memory DBMS,Information systems,Triton Join: Efficiently Scaling to a Large Join State on GPUs with Fast Interconnects
+MOD22,Modern Hardware and In-memory DBMS,Software and its engineering/Information systems,Sherman: A Write-Optimized Distributed B+Tree Index on Disaggregated Memory
+MOD22,Modern Hardware and In-memory DBMS,Computer systems organization/Information systems/Hardware,Halo: A Hybrid PMem-DRAM Persistent Hash Index with Fast Recovery
+MOD22,Streaming and Sensor Networks 2,Security and privacy,LDP-IDS: Local Differential Privacy for Infinite Data Streams
+MOD22,Streaming and Sensor Networks 2,Information systems,Rethinking Stateful Stream Processing with RDMA
+MOD22,Streaming and Sensor Networks 2,Computing methodologies/Information systems,HYPERSONIC: A Hybrid Parallelization Approach for Scalable Complex Event Processing
+MOD22,Streaming and Sensor Networks 2,Information systems,Approximate Range Thresholding
+MOD22,Streaming and Sensor Networks 2,Computing methodologies/Information systems,Gloria: Graph-based Sharing Optimizer for Event Trend Aggregation
+MOD22,Knowledge Discovery and Data Mining,Theory of computation/Computing methodologies,SIEVE: A Space-Efficient Algorithm for Viterbi Decoding
+MOD22,Knowledge Discovery and Data Mining,Information systems,TxtAlign: Efficient Near-Duplicate Text Alignment Search via Bottom-k Sketches for Plagiarism Detection
+MOD22,Knowledge Discovery and Data Mining,Information systems/Theory of computation,Classifier Construction Under Budget Constraints
+MOD22,Knowledge Discovery and Data Mining,Computing methodologies/Information systems,dCAM: Dimension-wise Class Activation Map for Explaining Multivariate Data Series Classification
+MOD22,Knowledge Discovery and Data Mining,Computing methodologies/Information systems/Applied computing,CoLES: Contrastive Learning for Event Sequences with Self-Supervision
+MOD22,Query Processing and Optimization 2,Mathematics of computing/Information systems,Anchored Densest Subgraph
+MOD22,Query Processing and Optimization 2,Computing methodologies/Information systems,Learned Cardinality Estimation: An In-depth Study
+MOD22,Query Processing and Optimization 2,Information systems,LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems
+MOD22,Query Processing and Optimization 2,Theory of computation/Information systems,Efficient Evaluation of Arbitrarily-Framed Holistic SQL Aggregates and Window Functions
+MOD22,Query Processing and Optimization 2,Information systems,HINT: A Hierarchical Index for Intervals in Main Memory
+MOD22,Data Management for ML 2,Information systems,Camel: Managing Data for Efficient Stream Learning
+MOD22,Data Management for ML 2,Computing methodologies/Information systems,In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle
+MOD22,Data Management for ML 2,Computing methodologies/Information systems,NeutronStar: Distributed GNN Training with Hybrid Dependency Management
+MOD22,Data Management for ML 2,Computing methodologies/Security and privacy,BlindFL: Vertical Federated Machine Learning without Peeking into Your Data
+MOD22,Data Management for ML 2,Computing methodologies/Security and privacy/Information systems,The Price of Tailoring the Index to Your Data: Poisoning Attacks on Learned Index Structures
+MOD22,Databases for Emerging Hardware,Information systems/Networks,Optimizing Data-intensive Systems in Disaggregated Data Centers with TELEPORT
+MOD22,Databases for Emerging Hardware,Information systems,TCUDB: Accelerating Database with Tensor Processors
+MOD22,Databases for Emerging Hardware,Information systems/Networks,P4DB - The Case for In-Network OLTP
+MOD22,Databases for Emerging Hardware,Computer systems organization/Theory of computation,Tile-based Lightweight Integer Compression in GPU
+MOD22,Databases for Emerging Hardware,Information systems,Avoiding Read Stalls on Flash Storage
+MOD22,Database Security and Distributed Data Management,Information systems,TimeUnion: An Efficient Architecture with Unified Data Model for Timeseries Management Systems on Hybrid Cloud Storage
+MOD22,Database Security and Distributed Data Management,Information systems,Optimizing Parallel Recursive Datalog Evaluation on Multicore Machines
+MOD22,Database Security and Distributed Data Management,Information systems,Parallel Query Processing: To Separate Communication from Computation
+MOD22,Database Security and Distributed Data Management,Security and privacy,Secure and Policy-Compliant Query Processing on Heterogeneous Computational Storage Architectures
+MOD22,Database Security and Distributed Data Management,Security and privacy/Theory of computation,Litmus: Towards a Practical Database Management System with Verifiable ACID Properties and Transaction Correctness
+MOD22,ML for Data Management 2,Information systems,Annotating Columns with Pre-trained Language Models
+MOD22,ML for Data Management 2,Information systems,Leva: Boosting Machine Learning Performance with Relational Embedding Data Augmentation
+MOD22,ML for Data Management 2,Information systems,Cooperative Route Planning Framework for Multiple Distributed Assets in Maritime Applications
+MOD22,ML for Data Management 2,Computer systems organization/Information systems/Computing methodologies,Budget-aware Index Tuning with Reinforcement Learning
+MOD22,ML for Data Management 2,Computing methodologies/Information systems/Theory of computation,SAM: Database Generation from Query Workloads with Supervised Autoregressive Models
+MOD22,Provenance and Uncertainty,Information systems,Efficient Answering of Historical What-if Queries
+MOD22,Provenance and Uncertainty,Information systems,Computing the Shapley Value of Facts in Query Answering
+MOD22,Provenance and Uncertainty,Information systems,JEDI: These aren't the JSON documents you're looking for?
+MOD22,Provenance and Uncertainty,Computing methodologies/Theory of computation,HypeR: Hypothetical Reasoning With What-If and How-To Queries Using a Probabilistic Causal Approach
+MOD22,Provenance and Uncertainty,Mathematics of computing/Theory of computation,Adaptive Threshold Sampling
+MOD22,Storage and Indexing,Information systems,Adaptive Hybrid Indexes
+MOD22,Storage and Indexing,Information systems,Entropy-Learned Hashing: Constant Time Hashing with Controllable Uniformity
+MOD22,Storage and Indexing,Information systems/Theory of computation,CompressDB: Enabling Efficient Compressed Data Direct Processing for Various Databases
+MOD22,Storage and Indexing,Information systems/Theory of computation,Proteus: A Self-Designing Range Filter
+MOD22,Storage and Indexing,Information systems,Scalable Time Series Compound Infrastructure
+MOD22,Potpourri,Human-centered computing/Information systems,PI2: End-to-end Interactive Visualization Interface Generation from Queries
+MOD22,Potpourri,Information systems,A Hierarchical Contraction Scheme for Querying Big Graphs
+MOD22,Potpourri,Information systems,Representative Query Results by Voting
+MOD22,Potpourri,Information systems,Protecting Data Markets from Strategic Buyers
+MOD22,Potpourri,Applied computing/Information systems,Automated Category Tree Construction in E-Commerce
+MOD22,Benchmarking and Performance Evaluation,Computing methodologies/Information systems,FILA: Online Auditing of Machine Learning Model Accuracy under Finite Labelling Budget
+MOD22,Benchmarking and Performance Evaluation,Information systems,Evaluating Multi-GPU Sorting with Modern Interconnects
+MOD22,Benchmarking and Performance Evaluation,Information systems,How Good is My HTAP System?
+MOD22,Benchmarking and Performance Evaluation,General and reference/Hardware/Information systems,Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines
+MOD22,Benchmarking and Performance Evaluation,Information systems,Juggler: Autonomous Cost Optimization and Performance Prediction of Big Data Applications
+MOD22,Benchmarking and Performance Evaluation,Computing methodologies/Information systems,Sintel: A Machine Learning Framework to Extract Insights from Signals
+MOD22,Benchmarking and Performance Evaluation,Computer systems organization/Networks,Serverless Data Science - Are We There Yet? A Case Study of Model Serving
+MOD22,Data Management for ML 3,Computing methodologies/Information systems,Sommelier: Curating DNN Models for the Masses
+MOD22,Data Management for ML 3,Information systems,Video-zilla: An Indexing Layer for Large-Scale Video Analytics
+MOD22,Data Management for ML 3,Information systems/Theory of computation,Warper: Efficiently Adapting Learned Cardinality Estimators to Data and Workload Drifts
+MOD22,Data Management for ML 3,Computing methodologies/Information systems,TASTI: Semantic Indexes for Machine Learning-based Queries over Unstructured Data
+MOD22,Data Management for ML 3,Information systems/Mathematics of computing,Givens QR Decomposition over Relational Databases
+MOD22,Data Management for ML 3,Computing methodologies/Information systems,Materialization and Reuse Optimizations for Production Data Science Pipelines
+MOD22,Graph Data Management and Social Networks,Computing methodologies/Mathematics of computing,Scalable and Effective Bipartite Network Embedding
+MOD22,Graph Data Management and Social Networks,Theory of computation,Relative Subboundedness of Contraction Hierarchy and Hierarchical 2-Hop Index in Dynamic Road Networks
+MOD22,Graph Data Management and Social Networks,Mathematics of computing,One Set to Cover All Maximal Cliques Approximately
+MOD22,Graph Data Management and Social Networks,Theory of computation,BatchHL: Answering Distance Queries on Batch-Dynamic Networks at Scale
+MOD22,Graph Data Management and Social Networks,Theory of computation,Fast Maximal Clique Enumeration on Uncertain Graphs: A Pivot-based Approach
+MOD22,Graph Data Management and Social Networks,Theory of computation,Efficient Personalized PageRank Computation: A Spanning Forests Sampling Based Approach
+MOD22,Graph Data Management and Social Networks,Computing methodologies/Information systems,Explaining Link Prediction Systems based on Knowledge Graph Embeddings
+MOD22,"Spatial, Temporal, and Multimedia Databases",Information systems/Theory of computation,Computing Complex Temporal Join Queries Efficiently
+MOD22,"Spatial, Temporal, and Multimedia Databases",Information systems,OTIF: Efficient Tracker Pre-processing over Large Video Datasets
+MOD22,"Spatial, Temporal, and Multimedia Databases",Information systems,Controlled Intentional Degradation in Analytical Video Systems
+MOD22,"Spatial, Temporal, and Multimedia Databases",Information systems/Theory of computation/Human-centered computing,SLAM: Efficient Sweep Line Algorithms for Kernel Density Visualization
+MOD22,"Spatial, Temporal, and Multimedia Databases",Theory of computation,Faster and Better Solution to Embed Lp Metrics by Tree Metrics
+MOD22,"Spatial, Temporal, and Multimedia Databases",Information systems,T-LevelIndex: Towards Efficient Query Processing in Continuous Preference Space
+MOD22,Industrial Track Papers,Information systems,Scaling Equi-Joins
+MOD22,Industrial Track Papers,Information systems,HiEngine: How to Architect a Cloud-Native Memory-Optimized Database Engine
+MOD22,Industrial Track Papers,Information systems/Networks/Computer systems organization,KafkaDirect: Zero-copy Data Access for Apache Kafka over RDMA Networks
+MOD22,Industrial Track Papers,Information systems,Amazon Redshift Re-invented
+MOD22,Industrial Track Papers,Security and privacy,LedgerView: Access-Control Views on Hyperledger Fabric
+MOD22,Industrial Track Papers,Information systems,Remus: Efficient Live Migration for Distributed Databases with Snapshot Isolation
+MOD22,Industrial Track Papers,General and reference/Information systems,Graph Pattern Matching in GQL and SQL/PGQ
+MOD22,Industrial Track Papers,Computer systems organization/Information systems,Saga: A Platform for Continuous Construction and Serving of Knowledge at Scale
+MOD22,Industrial Track Papers,Information systems,Intelligent Automated Workload Analysis for Database Replatforming
+MOD22,Industrial Track Papers,Information systems,ESDB: Processing Extremely Skewed Workloads in Real-time
+MOD22,Industrial Track Papers,Information systems,Deploying a Steered Query Optimizer in Production at Microsoft
+MOD22,Industrial Track Papers,Information systems,Enabling the Next Generation of Multi-Region Applications with CockroachDB
+MOD22,Industrial Track Papers,Information systems,Photon: A Fast Query Engine for Lakehouse Systems
+MOD22,Industrial Track Papers,Information systems,Cloud-Native Transactions and Analytics in SingleStore
