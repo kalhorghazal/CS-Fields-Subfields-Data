@@ -1,0 +1,323 @@
+Conference,Subfield,Paper
+CHI22,Human and societal aspects of security and privacy,Understanding Privacy Switching Behaviour on Twitter
+CHI22,Human and societal aspects of security and privacy,“A Reasonable Thing to Ask For”: Towards a Unified Voice in Privacy Collective Action
+CHI22,Human and societal aspects of security and privacy,“It Basically Started Using Me:” An Observational Study of Password Manager Usage
+CHI22,Human and societal aspects of security and privacy,Automating Contextual Privacy Policies: Design and Evaluation of a Production Tool for Digital Consumer Privacy Awareness
+CHI22,Human and societal aspects of security and privacy,Obfuscation Remedies Harms Arising from Content Flagging of Photos
+CHI22,Human and societal aspects of security and privacy,Public Views on Digital COVID-19 Certificates: a Mixed Methods User Study
+CHI22,Human and societal aspects of security and privacy,"Many Islands, Many Problems: An Empirical Examination of Online Safety Behaviors in the Caribbean"
+CHI22,Human and societal aspects of security and privacy,Human-GDPR Interaction: Practical Experiences of Accessing Personal Data
+CHI22,Human and societal aspects of security and privacy,“It’s common and a part of being a content creator”: Understanding How Creators Experience and Cope with Hate and Harassment Online
+CHI22,Human and societal aspects of security and privacy,A Large-Scale Measurement of Cybercrime Against Individuals
+CHI22,Human and societal aspects of security and privacy,Care Infrastructures for Digital Security in Intimate Partner Violence
+CHI22,Human and societal aspects of security and privacy,How to get away with cyberattacks: An argumentative approach to cyberattacks’ legitimization by common users
+CHI22,Human and societal aspects of security and privacy,Still Creepy After All These Years:The Normalization of Affective Discomfort in App Use
+CHI22,Human and societal aspects of security and privacy,Debiased-CAM to mitigate image perturbations with faithful visual explanations of machine learning
+CHI22,Human and societal aspects of security and privacy,Drawing Out the Everyday Hyper-[In]Securities of Digital Identity
+CHI22,Human and societal aspects of security and privacy,”Your Eyes Tell You Have Used This Password Before”: Identifying Password Reuse from Gaze and Keystroke Dynamics
+CHI22,Human and societal aspects of security and privacy,“It would probably turn into a social faux-pas”: Users’ and Bystanders’ Preferences of Privacy Awareness Mechanisms in Smart Homes
+CHI22,Human and societal aspects of security and privacy,Privacy Design Strategies for Home Energy Management Systems (HEMS)
+CHI22,Human and societal aspects of security and privacy,Users’ Expectations About and Use of Smartphone Privacy and Security Settings
+CHI22,Human and societal aspects of security and privacy,Exploring Bystanders’ Privacy Concerns with Smart Homes in Jordan
+CHI22,Human and societal aspects of security and privacy,"Hey Alexa, Who Am I Talking to?: Analyzing Users’ Perception and Awareness Regarding Third-party Alexa Skills"
+CHI22,Human and societal aspects of security and privacy,Users Can Deduce Sensitive Locations Protected by Privacy Zones on Fitness Tracking Apps
+CHI22,Human and societal aspects of security and privacy,Barriers to Online Dementia Information and Mitigation
+CHI22,Human and societal aspects of security and privacy,Trauma-Informed Computing: Towards Safer Technology Experiences for All
+CHI22,Human and societal aspects of security and privacy,Understanding Challenges for Developers to Create Accurate Privacy Nutrition Labels
+CHI22,Human and societal aspects of security and privacy,How Ready is Your Ready? Assessing the Usability of Incident Response Playbook Frameworks
+CHI22,Software and application security/Human and societal aspects of security and privacy,Recruiting Participants With Programming Skills: A Comparison of Four Crowdsourcing Platforms and a CS Student Mailing List
+CHI22,Human and societal aspects of security and privacy,Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem
+CHI22,Human and societal aspects of security and privacy,"Privacy, Surveillance, and Power in the Gig Economy"
+CHI22,Human and societal aspects of security and privacy,“I’m Surprised So Much Is Connected”
+CHI22,Human and societal aspects of security and privacy,"“Okay, whatever”: An Evaluation of Cookie Consent Interfaces"
+CHI22,Human and societal aspects of security and privacy,"Field Evidence of the Effects of Privacy, Data Transparency, and Pro-social Appeals on COVID-19 App Attractiveness"
+CCS22,Cryptography,Updatable Public Key Encryption from DCR: Efficient Constructions With Stronger Security
+CCS22,Software and application security,Helping or Hindering?: How Browser Extensions Undermine Security
+CCS22,Cryptography,"Practical, Round-Optimal Lattice-Based Blind Signatures"
+CCS22,Network security,Blacktooth: Breaking through the Defense of Bluetooth in Silence
+CCS22,Formal methods and theory of security/Network security,Server-Aided Continuous Group Key Agreement
+CCS22,Formal methods and theory of security,Enforcing Fine-grained Constant-time Policies
+CCS22,Network security/Cryptography,Post Quantum Noise
+CCS22,Cryptography,Laconic Private Set-Intersection From Pairings
+CCS22,Cryptography,Efficient Secure Three-Party Sorting with Applications to Data Analysis and Heavy Hitters
+CCS22,Cryptography,Chaghri - A FHE-friendly Block Cipher
+CCS22,Systems security,Thora: Atomic and Privacy-Preserving Multi-Channel Updates
+CCS22,Systems security,Sleepy Channels: Bi-directional Payment Channels without Watchtowers
+CCS22,Cryptography,On the Adaptive Security of the Threshold BLS Signature Scheme
+CCS22,Cryptography,Secret-Shared Joins with Multiplicity from Aggregation Trees
+CCS22,Cryptography,META-BTS: Bootstrapping Precision Beyond the Limit
+CCS22,Cryptography,i-TiRE: Incremental Timed-Release Encryption or How to use Timed-Release Encryption on Blockchains?
+CCS22,Software and application security,Membership Inference Attacks and Generalization: A Causal Perspective
+CCS22,Formal methods and theory of security,Tidy: Symbolic Verification of Timed Cryptographic Protocols
+CCS22,Security in hardware,A Wolf in Sheep's Clothing: Spreading Deadly Pathogens Under the Disguise of Popular Music
+CCS22,Cryptography,Feta: Efficient Threshold Designated-Verifier Zero-Knowledge Proofs
+CCS22,Security services,"Distributed, Private, Sparse Histograms in the Two-Server Model"
+CCS22,Cryptography,Threshold Cryptography as a Service (in the Multiserver and YOSO Models)
+CCS22,Human and societal aspects of security and privacy,Privacy Limitations of Interest-based Advertising on The Web: A Post-mortem Empirical Analysis of Google's FLoC
+CCS22,Systems security,JIT-Picking: Differential Fuzzing of JavaScript Engines
+CCS22,Formal methods and theory of security/Network security/Security services/Software and application security,A Symbolic Analysis of Privacy for TLS 1.3 with Encrypted Client Hello
+CCS22,Security in hardware/Formal methods and theory of security,Power Contracts: Provably Complete Power Leakage Models for Processors
+CCS22,Formal methods and theory of security/Network security/Security services/Software and application security,Themis: An On-Site Voting System with Systematic Cast-as-intended Verification and Partial Accountability
+CCS22,Cryptography/Systems security,Victory by KO: Attacking OpenPGP Using Key Overwriting
+CCS22,Human and societal aspects of security and privacy,Do Opt-Outs Really Opt Me Out?
+CCS22,Security services,Vizard: A Metadata-hiding Data Analytic System with End-to-End Policy Controls
+CCS22,Cryptography,Succinct Zero-Knowledge Batch Proofs for Set Accumulators
+CCS22,Cryptography,Widespread Underestimation of Sensitivity in Differentially Private Libraries and How to Fix It
+CCS22,Systems security,SFuzz: Slice-based Fuzzing for Real-Time Operating Systems
+CCS22,Cryptography,PSI from Ring-OLE
+CCS22,Security in hardware,HammerScope: Observing DRAM Power Consumption Using Rowhammer
+CCS22,Cryptography,SortingHat: Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering
+CCS22,Cryptography/Systems security,The Generals' Scuttlebutt: Byzantine-Resilient Gossip Protocols
+CCS22,Cryptography,Sharp: Short Relaxed Range Proofs
+CCS22,Security services/Database and storage security,QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems
+CCS22,Systems security/Software and application security,VRust: Automated Vulnerability Detection for Solana Smart Contracts
+CCS22,Cryptography,Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
+CCS22,Software and application security,Understanding Security Issues in the NFT Ecosystem
+CCS22,Security services,STAR: Secret Sharing for Private Threshold Aggregation Reporting
+CCS22,Security in hardware,CANflict: Exploiting Peripheral Conflicts for Data-Link Layer Attacks on Automotive Networks
+CCS22,Cryptography,Two-Client Inner-Product Functional Encryption with an Application to Money-Laundering Detection
+CCS22,Security services,"FenceSitter: Black-box, Content-Agnostic, and Synchronization-Free Enrollment-Phase Attacks on Speaker Recognition Systems"
+CCS22,Systems security,StrongBox: A GPU TEE on Arm Endpoints
+CCS22,Software and application security,Understanding Real-world Threats to Deep Learning Models in Android Apps
+CCS22,Software and application security/Human and societal aspects of security and privacy,A Run a Day Won't Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks
+CCS22,Security in hardware,Second-Order Low-Randomness d + 1 Hardware Sharing of the AES
+CCS22,Cryptography,Improving Line-Point Zero Knowledge: Two Multiplications for the Price of One
+CCS22,Cryptography,Shorter Signatures Based on Tailor-Made Minimalist Symmetric-Key Crypto
+CCS22,Security in hardware/Cryptography,Leakage and Tamper Resilient Permutation-Based Cryptography
+CCS22,Security services/Intrusion$anomaly detection and malware mitigation,Exposing the Rat in the Tunnel: Using Traffic Analysis for Tor-based Malware Detection
+CCS22,Software and application security,Watch Out for Race Condition Attacks When Using Android External Storage
+CCS22,Software and application security,Perception-Aware Attack: Creating Adversarial Music via Reverse-Engineering Human Perception
+CCS22,Software and application security,Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications
+CCS22,Security services/Systems security,Poirot: Probabilistically Recommending Protections for the Android Framework
+CCS22,Cryptography,TurboPack: Honest Majority MPC with Constant Online Communication
+CCS22,Systems security/Formal methods and theory of security,Automatic Detection of Speculative Execution Combinations
+CCS22,Cryptography,When Frodo Flips: End-to-End Key Recovery on FrodoKEM via Rowhammer
+CCS22,Security services,NFGen: Automatic Non-linear Function Evaluation Code Generator for General-purpose MPC Platforms
+CCS22,Database and storage security,Shifted Inverse: A General Mechanism for Monotonic Functions under User Differential Privacy
+CCS22,Security in hardware,CINI MINIS: Domain Isolation for Fault and Combined Security
+CCS22,Cryptography,Adversarial Correctness and Privacy for Probabilistic Data Structures
+CCS22,Software and application security,LibAFL: A Framework to Build Modular and Reusable Fuzzers
+CCS22,Cryptography,Efficient Zero-Knowledge Proofs on Signed Data with Applications to Verifiable Computation on Data Streams
+CCS22,Systems security,Minotaur: Multi-Resource Blockchain Consensus
+CCS22,Cryptography,Squirrel: Efficient Synchronized Multi-Signatures from Lattices
+CCS22,Database and storage security/Human and societal aspects of security and privacy,"Am I Private and If So, how Many?: Communicating Privacy Guarantees of Differential Privacy with Risk Communication Formats"
+CCS22,Human and societal aspects of security and privacy,Understanding the How and the Why: Exploring Secure Development Practices through a Course Competition
+CCS22,Cryptography,Secure Auctions in the Presence of Rational Adversaries
+CCS22,Systems security,Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency
+CCS22,Cryptography,Succinct Zero Knowledge for Floating Point Computations
+CCS22,Systems security/Cryptography,Practical Settlement Bounds for Proof-of-Work Blockchains
+CCS22,Systems security,Hecate: Lifting and Shifting On-Premises Workloads to an Untrusted Cloud
+CCS22,Systems security/Software and application security,C2C: Fine-grained Configuration-driven System Call Filtering
+CCS22,Cryptography,Foundations of Coin Mixing Services
+CCS22,Security in hardware,ATTRITION: Attacking Static Hardware Trojan Detection Techniques Using Reinforcement Learning
+CCS22,Intrusion$anomaly detection and malware mitigation,Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration
+CCS22,Software and application security,DangZero: Efficient Use-After-Free Detection via Direct Page Table Access
+CCS22,Cryptography,Reinforced Concrete: A Fast Hash Function for Verifiable Computation
+CCS22,Cryptography,Proof-of-Possession for KEM Certificates using Verifiable Generation
+CCS22,Network security/Software and application security,Location Heartbleeding: The Rise of Wi-Fi Spoofing Attack Via Geolocation API
+CCS22,Cryptography,"How to Hide MetaData in MLS-Like Secure Group Messaging: Simple, Modular, and Post-Quantum"
+CCS22,Network security,Behind the Scenes of RPKI
+CCS22,Human and societal aspects of security and privacy/Cryptography,Kryvos: Publicly Tally-Hiding Verifiable E-Voting
+CCS22,Human and societal aspects of security and privacy,Selective MPC: Distributed Computation of Differentially Private Key-Value Statistics
+CCS22,Security in hardware,SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities
+CCS22,Security in hardware,Microarchitectural Leakage Templates and Their Application to Cache-Based Side Channels
+CCS22,Security services/Software and application security,Differentially Private Triangle and 4-Cycle Counting in the Shuffle Model
+CCS22,Security in hardware,On the Success Rate of Side-Channel Attacks on Masked Implementations: Information-Theoretical Bounds and Their Practical Usage
+CCS22,Security services/Software and application security,DISTINCT: Identity Theft using In-Browser Communications in Dual-Window Single Sign-On
+CCS22,Security services,Are Attribute Inference Attacks Just Imputation?
+CCS22,Formal methods and theory of security/Cryptography/Security in hardware,Cache Refinement Type for Side-Channel Detection of Cryptographic Software
+CCS22,Software and application security,Evocatio: Conjuring Bug Capabilities from a Single PoC
+CCS22,Software and application security,Understanding IoT Security from a Market-Scale Perspective
+CCS22,Software and application security,SymLM: Predicting Function Names in Stripped Binaries via Context-Sensitive Execution-Aware Code Embeddings
+CCS22,Security services,P-Verifier: Understanding and Mitigating Security Risks in Cloud-based IoT Access Policies
+CCS22,Security services,Private and Reliable Neural Network Inference
+CCS22,Security services,A Scalable and Dynamic ACL System for In-Network Defense
+CCS22,Software and application security,TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities
+CCS22,Systems security/Software and application security,HyperDbg: Reinventing Hardware-Assisted Debugging
+CCS22,Formal methods and theory of security/Cryptography/Systems security,"PEReDi: Privacy-Enhanced, Regulated and Distributed Central Bank Digital Currencies"
+CCS22,Software and application security,DriveFuzz: Discovering Autonomous Driving Bugs through Driving Quality-Guided Fuzzing
+CCS22,Intrusion$anomaly detection and malware mitigation,Phishing URL Detection: A Network-based Approach Robust to Evasion
+CCS22,Cryptography,NTRU-v-um: Secure Fully Homomorphic Encryption from NTRU with Small Modulus
+CCS22,Security in hardware,Low-Latency Hardware Private Circuits
+CCS22,Security services/Database and storage security,LPGNet: Link Private Graph Networks for Node Classification
+CCS22,Cryptography/Database and storage security/Human and societal aspects of security and privacy,Leakage Inversion: Towards Quantifying Privacy in Searchable Encryption
+CCS22,Cryptography,PentaGOD: Stepping beyond Traditional GOD with Five Parties
+CCS22,Formal methods and theory of security/Network security,"Hammurabi: A Framework for Pluggable, Logic-Based X.509 Certificate Validation Policies"
+CCS22,Formal methods and theory of security/Systems security,Cerberus: A Formal Approach to Secure and Efficient Enclave Memory Sharing
+CCS22,Software and application security,Collect Responsibly But Deliver Arbitrarily?: A Study on Cross-User Privacy Leakage in Mobile Apps
+CCS22,Software and application security,PACMem: Enforcing Spatial and Temporal Memory Safety via ARM Pointer Authentication
+CCS22,Human and societal aspects of security and privacy,Overo: Sharing Private Audio Recordings
+CCS22,Cryptography,InviCloak: An End-to-End Approach to Privacy and Performance in Web Content Distribution
+CCS22,Software and application security/Systems security,DirtyCred: Escalating Privilege in Linux Kernel
+CCS22,Security in hardware,Frequency Throttling Side-Channel Attack
+CCS22,Network security/Software and application security/Systems security,Ready Raider One: Exploring the Misuse of Cloud Gaming Services
+CCS22,Software and application security,When Evil Calls: Targeted Adversarial Voice over IP Network
+CCS22,Software and application security,Order-Disorder: Imitation Adversarial Attacks for Black-box Neural Ranking Models
+CCS22,Cryptography,Matproofs: Maintainable Matrix Commitment with Efficient Aggregation
+CCS22,Software and application security,Acquirer: A Hybrid Approach to Detecting Algorithmic Complexity Vulnerabilities
+CCS22,Systems security,"Empirical Analysis of EIP-1559: Transaction Fees, Waiting Times, and Consensus Security"
+CCS22,Systems security,Detecting Missing-Permission-Check Vulnerabilities in Distributed Cloud Systems
+CCS22,Systems security,Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT
+CCS22,Software and application security,TChecker: Precise Static Inter-Procedural Analysis for Detecting Taint-Style Vulnerabilities in PHP Applications
+CCS22,Security services,Frequency Estimation in the Shuffle Model with Almost a Single Message
+CCS22,Security services/Database and storage security/Human and societal aspects of security and privacy,Feature Inference Attack on Shapley Values
+CCS22,Security services,Federated Boosted Decision Trees with Differential Privacy
+CCS22,Network security/Software and application security/Systems security,"The Closer You Look, The More You Learn: A Grey-box Approach to Protocol State Machine Learning"
+CCS22,Security in hardware,Securing Reset Operations in NISQ Quantum Computers
+CCS22,Systems security,Constant Latency in Sleepy Consensus
+CCS22,Systems security,Physical Hijacking Attacks against Object Trackers
+CCS22,Cryptography,"The Multi-User Security of Triple Encryption, Revisited: Exact Security, Strengthening, and Application to TDES"
+CCS22,Security services,Cerberus: Exploring Federated Prediction of Security Events
+CCS22,Cryptography/Human and societal aspects of security and privacy/Security services,Sigstore: Software Signing for Everybody
+CCS22,Human and societal aspects of security and privacy,Freely Given Consent?: Studying Consent Notice of Third-Party Tracking and Its Violations of GDPR in Android Apps
+CCS22,Security in hardware,NARRATOR: Secure and Practical State Continuity for Trusted Execution in the Cloud
+CCS22,Software and application security,Cart-ology: Intercepting Targeted Advertising via Ad Network Identity Entanglement
+CCS22,Formal methods and theory of security/Systems security,Discovering IoT Physical Channel Vulnerabilities
+CCS22,Software and application security/Security services/Systems security,Eluding Secure Aggregation in Federated Learning via Model Inconsistency
+CCS22,Software and application security,Hidden in Plain Sight: Exploring Encrypted Channels in Android Apps
+CCS22,Systems security/Software and application security/Formal methods and theory of security/Security services,Cerberus: Query-driven Scalable Vulnerability Detection in OAuth Service Provider Implementations
+CCS22,Security in hardware,TickTock: Detecting Microphone Status in Laptops Leveraging Electromagnetic Leakage of Clock Signals
+CCS22,Cryptography,FABEO: Fast Attribute-Based Encryption with Optimal Security
+CCS22,Cryptography,Blazing Fast PSI from Improved OKVS and Subfield VOLE
+CCS22,Database and storage security/Cryptography,Strengthening Order Preserving Encryption with Differential Privacy
+CCS22,Security services/Cryptography,EIFFeL: Ensuring Integrity for Federated Learning
+CCS22,Software and application security,Fast Fully Oblivious Compaction and Shuffling
+CCS22,Security services/Systems security/Network security,FeIDo: Recoverable FIDO2 Tokens Using Electronic IDs
+CCS22,Software and application security,MC2: Rigorous and Efficient Directed Greybox Fuzzing
+CCS22,Network security,Gringotts: Fast and Accurate Internal Denial-of-Wallet Detection for Serverless Computing
+CCS22,Human and societal aspects of security and privacy,Why So Toxic?: Measuring and Triggering Toxic Behavior in Open-Domain Chatbots
+CCS22,Systems security,Escaping the Confines of Time: Continuous Browser Extension Fingerprinting Through Ephemeral Modifications
+CCS22,Systems security,Bullshark: DAG BFT Protocols Made Practical
+CCS22,Cryptography,"Batching, Aggregation, and Zero-Knowledge Proofs in Bilinear Accumulators"
+CCS22,Cryptography/Security services,Zapper: Smart Contracts with Data and Identity Privacy
+CCS22,Network security,Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam
+CCS22,Systems security,NeVerMore: Exploiting RDMA Mistakes in NVMe-oF Storage Applications
+CCS22,Software and application security,Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets
+CCS22,Cryptography,VeRSA: Verifiable Registries with Efficient Client Audits from RSA Authenticated Dictionaries
+CCS22,Database and storage security/Security services,L-SRR: Local Differential Privacy for Location-Based Services with Staircase Randomized Response
+CCS22,Database and storage security,Practical Volume-Hiding Encrypted Multi-Maps with Optimal Overhead and Beyond
+CCS22,Formal methods and theory of security/Systems security,ENGRAFT: Enclave-guarded Raft on Byzantine Faulty Nodes
+CCS22,Network security,Don't Kick Over the Beehive: Attacks and Security Analysis on Zigbee
+CCS22,Software and application security,Group Property Inference Attacks Against Graph Neural Networks
+CCS22,Database and storage security,DPIS: An Enhanced Mechanism for Differentially Private SGD with Importance Sampling
+CCS22,Software and application security/Cryptography,Microwalk-CI: Practical Side-Channel Analysis for JavaScript Applications
+CCS22,Network security/Human and societal aspects of security and privacy/Security services,EchoHand: High Accuracy and Presentation Attack Resistant Hand Authentication on Commodity Mobile Devices
+CCS22,Systems security,Platypus: A Central Bank Digital Currency with Unlinkable Transactions and Privacy-Preserving Regulation
+CCS22,Network security,Protecting Critical Inter-Domain Communication through Flyover Reservations
+CCS22,Software and application security,Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-platform Ecosystem
+CCS22,Software and application security,CETIS: Retrofitting Intel CET for Generic and Efficient Intra-process Memory Isolation
+CCS22,Software and application security,zkBridge: Trustless Cross-chain Bridges Made Practical
+CCS22,Cryptography,Automatic Detection of Fake Key Attacks in Secure Messaging
+CCS22,Network security,WINK: Wireless Inference of Numerical Keystrokes via Zero-Training Spatiotemporal Analysis
+CCS22,Network security,An Extensive Study of Residential Proxies in China
+CCS22,Network security/Systems security,Detecting and Measuring Misconfigured Manifests in Android Apps
+CCS22,Network security/Software and application security/Security services,"Cross Miniapp Request Forgery: Root Causes, Attacks, and Vulnerability Detection"
+CCS22,Human and societal aspects of security and privacy,HeatDeCam: Detecting Hidden Spy Cameras via Thermal Emissions
+CCS22,Cryptography,Caulk: Lookup Arguments in Sublinear Time
+CCS22,Systems security,PalanTír: Optimizing Attack Provenance with Hardware-enhanced System Observability
+CCS22,Systems security,PACE: Fully Parallelizable BFT from Reproposable Byzantine Agreement
+CCS22,Intrusion$anomaly detection and malware mitigation,"I'm SPARTACUS, No, I'm SPARTACUS: Proactively Protecting Users from Phishing by Intentionally Triggering Cloaking Behavior"
+CCS22,Network security,When Good Becomes Evil: Tracking Bluetooth Low Energy Devices via Allowlist-based Side Channel and Its Countermeasure
+CCS22,Cryptography,VOProof: Efficient zkSNARKs from Vector Oracle Compilers
+CCS22,Human and societal aspects of security and privacy/Software and application security,Characterizing and Detecting Non-Consensual Photo Sharing on Social Networks
+CCS22,Human and societal aspects of security and privacy/Security services,Ibex: Privacy-preserving Ad Conversion Tracking and Bidding
+CCS22,Systems security,Uncovering Intent based Leak of Sensitive Data in Android Framework
+CCS22,Software and application security/Systems security,Non-Distinguishable Inconsistencies as a Deterministic Oracle for Detecting Security Bugs
+CCS22,Software and application security,What Your Firmware Tells You Is Not How You Should Emulate It: A Specification-Guided Approach for Firmware Emulation
+CCS22,Security in hardware/Software and application security,Perils and Mitigation of Security Risks of Cooperation in Mobile-as-a-Gateway IoT
+FSE22,Software and application security,SEDiff: scope-aware differential fuzzing to test internal function models in symbolic execution
+FSE22,Software and application security,Security code smells in apps: are we getting better?
+FSE22,Formal methods and theory of security,Parasol: efficient parallel synthesis of large model spaces
+FSE22,Software and application security,"An empirical study of blockchain system vulnerabilities: modules, types, and patterns"
+FSE22,Software and application security,NeuDep: neural binary memory dependence analysis
+FSE22,Systems security,Cross-language Android permission specification
+FSE22,Software and application security,Software security during modern code review: the developer’s perspective
+FSE22,Software and application security,Automated unearthing of dangerous issue reports
+FSE22,Software and application security,On the vulnerability proneness of multilingual code
+FSE22,Systems security,Tracking patches for open source software vulnerabilities
+FSE22,Formal methods and theory of security,DeJITLeak: eliminating JIT-induced timing side-channel leaks
+FSE22,Software and application security,Demystifying the underground ecosystem of account registration bots
+FSE22,Software and application security,Generating realistic vulnerabilities via neural code editing: an empirical study
+FSE22,Software and application security/Systems security,Minerva: browser API fuzzing with dynamic mod-ref analysis
+FSE22,Software and application security,You see what I want you to see: poisoning vulnerabilities in neural code search
+FSE22,Human and societal aspects of security and privacy,In war and peace: the impact of world politics on software ecosystems
+FSE22,Software and application security,Input splitting for cloud-based static application security testing platforms
+FSE22,Software and application security,What did you pack in my app? a systematic analysis of commercial Android packers
+FSE22,Software and application security,Group-based corpus scheduling for parallel fuzzing
+FSE22,Intrusion$anomaly detection and malware mitigation,A study on identifying code author from real development
+FSE22,Software and application security,PolyFax: a toolkit for characterizing multi-language software
+FSE22,Systems security,VulCurator: a vulnerability-fixing commit detector
+FSE22,Software and application security,MANDO-GURU: vulnerability detection for smart contract source code by heterogeneous graph embeddings
+FSE22,Software and application security/Network security,TSA: a tool to detect and quantify network side-channels
+FSE22,Software and application security,Blackbox adversarial attacks and explanations for automatic speech recognition
+ISCA22,Systems security,Securing GPU via region-based bounds checking
+ISCA22,Formal methods and theory of security/Security in hardware,Axiomatic hardware-software contracts for security
+ISCA22,Security in hardware/Security services,PPMLAC: high performance chipset architecture for secure multi-party computation
+ISCA22,Database and storage security,INSPIRE: in-storage private information retrieval via protocol and architecture co-design
+ISCA22,Security in hardware,SoftVN: efficient memory protection via software-provided version numbers
+ISCA22,Cryptography,CraterLake: a hardware accelerator for efficient unbounded computation on encrypted data
+ISCA22,Security in hardware,There's always a bigger fish: a clarifying analysis of a machine-learning-assisted side-channel attack
+ISCA22,Security in hardware/Systems security,MOESI-prime: preventing coherence-induced hammering in commodity workloads
+ISCA22,Security in hardware,PACMAN: attacking ARM pointer authentication with speculative execution
+ISCA22,Security in hardware,MGX: near-zero overhead memory protection for data-intensive accelerators
+ISCA22,Intrusion$anomaly detection and malware mitigation/Network security,Fidas: fortifying the cloud via comprehensive FPGA-based offloading for intrusion detection: industrial product
+MOD22,Database and storage security,R2T: Instance-optimal Truncation for Differentially Private Query Evaluation with Foreign Keys
+MOD22,Database and storage security/Human and societal aspects of security and privacy,Network Shuffling: Privacy Amplification via Random Walks
+MOD22,Database and storage security,Towards Practical Oblivious Join
+MOD22,Database and storage security,IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy
+MOD22,Security services,LDP-IDS: Local Differential Privacy for Infinite Data Streams
+MOD22,Security services,BlindFL: Vertical Federated Machine Learning without Peeking into Your Data
+MOD22,Cryptography,The Price of Tailoring the Index to Your Data: Poisoning Attacks on Learned Index Structures
+MOD22,Database and storage security/Systems security,Secure and Policy-Compliant Query Processing on Heterogeneous Computational Storage Architectures
+MOD22,Database and storage security,Litmus: Towards a Practical Database Management System with Verifiable ACID Properties and Transaction Correctness
+MOD22,Security services,LedgerView: Access-Control Views on Hyperledger Fabric
+SAC22,Systems security,"Domain name service trust delegation in cloud computing: exploitation, risks, and defense"
+SAC22,Network security,Security interoperability in heterogeneous IoT platforms: threat model of the interoperable OAuth 2.0 framework
+SAC22,Intrusion$anomaly detection and malware mitigation/Security in hardware/Systems security,"Fast, lightweight IoT anomaly detection using feature pruning and PCA"
+SAC22,Security in hardware,Software-defined hardware-assisted isolation for trusted next-generation IoT systems
+SAC22,Security services,PICO: privacy-preserving access control in IoT scenarios through incomplete information
+SAC22,Security services,SureSpace: orchestrating beacons and witnesses to certify device location
+SAC22,Human and societal aspects of security and privacy,Ontology-based user privacy management in smart grid
+SAC22,Security services/Systems security/Database and storage security,Trac2Chain: trackability and traceability of graph data in blockchain with linkage privacy
+SAC22,Security services,FL-MAB: client selection and monetization for blockchain-based federated learning
+SAC22,Formal methods and theory of security,Model checking of vulnerabilities in smart contracts: a solidity-to-CPN approach
+SAC22,Intrusion$anomaly detection and malware mitigation,Detecting return-oriented programming on firmware-only embedded devices using hardware performance counters
+SAC22,Human and societal aspects of security and privacy,Iterative adversarial removal of gender bias in pretrained word embeddings
+SAC22,Intrusion$anomaly detection and malware mitigation,Leveraging n-gram neural embeddings to improve deep learning DGA detection
+SAC22,Security services,PTD: privacy-preserving human face processing framework using tensor decomposition
+SAC22,Security services,Cross-silo federated learning based decision trees
+SAC22,Systems security,DMAFV: testing device drivers against DMA faults
+SAC22,Systems security,R&R tool for Android applications hiding malicious features
+SAC22,Human and societal aspects of security and privacy/Systems security,Can blockchains and data privacy laws be reconciled?: a fundamental study of how privacy-aware blockchains are feasible
+SAC22,Human and societal aspects of security and privacy,Ensuring privacy in the application of the Brazilian general data protection law (LGPD)
+SAC22,Systems security/Software and application security,Mitigation lost in translation: leveraging threat information to improve privacy solution selection
+SAC22,Systems security/Software and application security,A longitudinal study of hacker behaviour
+SAC22,Software and application security,How do developers deal with security issue reports on GitHub?
+SAC22,Systems security/Software and application security/Security services,CHORS: hardening high-assurance security systems with trusted computing
+SAC22,Software and application security,Generative adversarial networks for subdomain enumeration
+SAC22,Security services,The dawn of a text-dependent society: deepfakes as a threat to speech verification systems
+SAC22,Intrusion$anomaly detection and malware mitigation/Security in hardware/Systems security/Network security,Strategic selection of data sources for cyber attack detection in enterprise networks: a survey and approach
+SAC22,Cryptography/Network security,MARSHAL: messaging with asynchronous ratchets and signatures for faster HeALing
+SAC22,Intrusion$anomaly detection and malware mitigation,ANUBIS: a provenance graph-based framework for advanced persistent threat detection
+SAC22,Systems security/Software and application security,Hardening the security analysis of browser extensions
+SAC22,Security in hardware,Effective TLB thrashing: unveiling the true short reach of modern TLB designs
+SAC22,Software and application security,An architecture for data integrity in untrustworthy social networks
+SAC22,Human and societal aspects of security and privacy/Intrusion$anomaly detection and malware mitigation,User awareness and defenses against sockpuppet friend invitations in Facebook
+SAC22,Formal methods and theory of security,Verifying opacity by abstract interpretation
+SAC22,Security services,UAV-VANET authentication for real-time highway surveillance
+STOC22,Cryptography,On the complexity of two-party differential privacy
+KDD22,Security services,Practical Lossless Federated Singular Vector Decomposition over Billion-Scale Data
+KDD22,Software and application security,Knowledge-enhanced Black-box Attacks for Recommendations
+KDD22,Database and storage security,Scalable Differentially Private Clustering via Hierarchically Separated Trees
+KDD22,Software and application security,Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN
+KDD22,Intrusion$anomaly detection and malware mitigation,PAC-Wrap: Semi-Supervised PAC Anomaly Detection
+KDD22,Security services,FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy
+KDD22,Software and application security,MetaV: A Meta-Verifier Approach to Task-Agnostic Model Fingerprinting
+KDD22,Security services,Releasing Private Data for Numerical Queries
+KDD22,Human and societal aspects of security and privacy,Synthesising Audio Adversarial Examples for Automatic Speech Recognition
+KDD22,Database and storage security,A Model-Agnostic Approach to Differentially Private Topic Mining
+KDD22,Human and societal aspects of security and privacy,Availability Attacks Create Shortcuts
+KDD22,Intrusion$anomaly detection and malware mitigation,FLDetector: Defending Federated Learning Against Model Poisoning Attacks via Detecting Malicious Clients
+KDD22,Security services,ILASR: Privacy-Preserving Incremental Learning for Automatic Speech Recognition at Production Scale
+KDD22,Systems security,EdgeWatch: Collaborative Investigation of Data Integrity at the Edge based on Blockchain
+KDD22,Security services/Software and application security,FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling
