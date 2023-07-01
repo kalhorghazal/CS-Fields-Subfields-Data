@@ -1,0 +1,128 @@
+Conference,Subfield,Paper
+CHI22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,Understanding the Digital Lives of Youth: Analyzing Media Shared within Safe Versus Unsafe Private Conversations on Instagram
+CHI22,Embedded and cyber-physical systems,FAR: End-to-End Vibrotactile Distributed System Designed to Facilitate Affect Regulation in Children Diagnosed with Autism Spectrum Disorder Through Slow Breathing
+CHI22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,PITAS: Sensing and Actuating Embedded Robotic Sheet for Physical Information Communication
+CHI22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,Making New Worlds – Transformative Becomings with Soma Desig
+CHI22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,Mixing in Reverse Optical Flow to Mitigate Vection and Simulation Sickness in Virtual Reality
+CHI22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,"Who, What, Why and How? Towards the Monetary Incentive in Crowd Collaboration: A Case Study of Github’s Sponsor Mechanism"
+CHI22,Embedded and cyber-physical systems,Print-A-Sketch: A Handheld Printer for Physical Sketching of Circuits and Sensors on Everyday Surfaces
+CHI22,Embedded and cyber-physical systems,Roman: Making Everyday Objects Robotically Manipulable with 3D-Printable Add-on Mechanisms
+CHI22,Embedded and cyber-physical systems,Get To The Point! Problem-Based Curated Data Views To Augment Care For Critically Ill Patients
+CHI22,Embedded and cyber-physical systems,Permission vs. App Limiters: Profiling Smartphone Users to Understand Differing Strategies for Mobile Privacy Management
+CHI22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,What are you thinking?: Using CBT and Storytelling to Improve Mental Health Among College Students
+CHI22,Embedded and cyber-physical systems,Above and Beyond: A Scoping Review of Domains and Applications for Human-Drone Interaction
+CHI22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,How AI-Based Training Affected the Performance of Professional Go Players
+CHI22,Embedded and cyber-physical systems,Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces
+CHI22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,Owning Mistakes Sincerely: Strategies for Mitigating AI Errors
+CHI22,Embedded and cyber-physical systems,Machine-Mediated Teaming: Mixture of Human and Machine in Physical Gaming Experience
+CHI22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,To Self-Persuade or be Persuaded: Examining Interventions for Users’ Privacy Setting Selection
+CCS22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,On the (In)Security of Secure ROS2
+CCS22,Dependable and fault-tolerant systems and networks,Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency
+CCS22,Embedded and cyber-physical systems,DriveFuzz: Discovering Autonomous Driving Bugs through Driving Quality-Guided Fuzzing
+CCS22,Dependable and fault-tolerant systems and networks,Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT
+CCS22,Embedded and cyber-physical systems,Discovering IoT Physical Channel Vulnerabilities
+FSE22,Embedded and cyber-physical systems,RoboFuzz: fuzzing robotic systems over robot operating system (ROS) for finding correctness bugs
+FSE22,Architectures,AgileCtrl: a self-adaptive framework for configuration tuning
+FSE22,Architectures,"Less training, more repairing please: revisiting automated program repair via zero-shot learning"
+FSE22,Embedded and cyber-physical systems,Are elevator software robust against uncertainties? results and experiences from an industrial case study
+FSE22,Architectures,An empirical investigation of missing data handling in cloud node failure prediction
+ISCA22,Embedded and cyber-physical systems,NvMR: non-volatile memory renaming for intermittent computing
+ISCA22,Architectures,Free atomics: hardware atomic operations without fences
+ISCA22,Dependable and fault-tolerant systems and networks,täkō: a polymorphic cache hierarchy for general-purpose optimization of data movement
+ISCA22,Architectures,EQC: ensembled quantum computing for variational quantum algorithms
+ISCA22,Architectures,Axiomatic hardware-software contracts for security
+ISCA22,Architectures,TDGraph: a topology-driven accelerator for high-performance streaming graph processing
+ISCA22,Architectures,DIMMining: pruning-efficient and parallel graph mining on near-memory-computing
+ISCA22,Architectures,SoftVN: efficient memory protection via software-provided version numbers
+ISCA22,Architectures,CraterLake: a hardware accelerator for efficient unbounded computation on encrypted data
+ISCA22,Architectures,PS-ORAM: efficient crash consistency support for oblivious RAM on NVM
+ISCA22,Architectures,Gearbox: a case for supporting accumulation dispatching and hybrid partitioning in PIM-based accelerators
+ISCA22,Architectures,To PIM or not for emerging general purpose processing in DDR memory systems
+ISCA22,Architectures,MeNDA: a near-memory multi-way merge solution for sparse transposition and dataflows
+ISCA22,Architectures,CaSMap: agile mapper for reconfigurable spatial architectures by automatically clustering intermediate representations and scattering mapping process
+ISCA22,Dependable and fault-tolerant systems and networks/Architectures,ASAP: architecture support for asynchronous persistence
+ISCA22,Architectures,A synthesis framework for stitching surface code with superconducting quantum devices
+ISCA22,Architectures,XQsim: modeling cross-technology control processors for 10+K qubit quantum computers
+ISCA22,Architectures,Geyser: a compilation framework for quantum computing with neutral atoms
+ISCA22,Architectures,X-cache: a modular architecture for domain-specific caches
+ISCA22,Architectures,Register file prefetching
+ISCA22,Architectures,A scalable architecture for reprioritizing ordered parallelism
+ISCA22,Dependable and fault-tolerant systems and networks,Managing reliability skew in DNA storage
+ISCA22,Architectures,Increasing ising machine capacity with multi-chip architectures
+ISCA22,Architectures/Real-time systems,Cascading structured pruning: enabling high data reuse for sparse DNN accelerators
+ISCA22,Architectures,Anticipating and eliminating redundant computations in accelerated sparse training
+ISCA22,Architectures,A software-defined tensor streaming multiprocessor for large-scale machine learning
+ISCA22,Architectures,RACOD: algorithm/hardware co-design for mobile robot path planning
+ISCA22,Architectures/Real-time systems,EyeCoD: eye tracking system acceleration via flatcam-based algorithm & accelerator co-design
+ISCA22,Architectures,Accelerating database analytic query workloads using an associative processor
+ISCA22,Architectures,SeGraM: a universal hardware accelerator for genomic sequence-to-graph and sequence-to-sequence mapping
+ISCA22,Dependable and fault-tolerant systems and networks,Hydra: enabling low-overhead mitigation of row-hammer at ultra-low thresholds via hybrid tracking
+ISCA22,Architectures,BTS: an accelerator for bootstrappable fully homomorphic encryption
+ISCA22,Architectures,MGX: near-zero overhead memory protection for data-intensive accelerators
+ISCA22,Architectures,Thermometer: profile-guided btb replacement for data center applications
+ISCA22,Architectures/Dependable and fault-tolerant systems and networks,Lukewarm serverless functions: characterization and optimization
+ISCA22,Architectures,Dynamic global adaptive routing in high-radix networks
+ISCA22,Architectures,ACT: designing sustainable computer systems with an architectural carbon modeling tool
+ISCA22,Embedded and cyber-physical systems/Architectures,HiveMind: a hardware-software system stack for serverless edge swarms
+ISCA22,Architectures,Tiny but mighty: designing and realizing scalable latency tolerance for manycore SoCs
+ISCA22,Architectures,Training personalized recommendation systems from (GPU) scratch: look forward not backwards
+ISCA22,Architectures,AMOS: enabling <u>a</u>utomatic <u>m</u>apping for tensor computations <u>o</u>n <u>s</u>patial accelerators with hardware abstraction
+ISCA22,Architectures,Mokey: enabling narrow fixed-point inference for out-of-the-box floating-point transformer models
+ISCA22,Architectures,Graphite: optimizing graph neural networks on CPUs through cooperative software-hardware techniques
+ISCA22,Architectures,SmartSAGE: training large-scale graph neural networks using in-storage processing architectures
+ISCA22,Architectures,Hyperscale FPGA-as-a-service architecture for large-scale distributed graph neural network
+ISCA22,Embedded and cyber-physical systems/Architectures,Crescent: taming memory irregularities for accelerating deep point cloud analytics
+ISCA22,Architectures,The Mozart reuse exposed dataflow processor for AI and beyond: industrial product
+ISCA22,Architectures/Dependable and fault-tolerant systems and networks,AI accelerator on IBM Telum processor: industrial product
+ISCA22,Architectures,Fidas: fortifying the cloud via comprehensive FPGA-based offloading for intrusion detection: industrial product
+ISCA22,Architectures,Mixed-proxy extensions for the NVIDIA PTX memory consistency model: industrial product
+MOD22,Architectures,NuPS: A Parameter Server for Machine Learning with Non-Uniform Parameter Access
+MOD22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,HUNTER: An Online Cloud Database Hybrid Tuning System for Personalized Requirements
+MOD22,Architectures,ISUM: Efficiently Compressing Large and Complex Workloads for Scalable Index Tuning
+MOD22,Architectures,Halo: A Hybrid PMem-DRAM Persistent Hash Index with Fast Recovery
+MOD22,Architectures,Tile-based Lightweight Integer Compression in GPU
+MOD22,Architectures,Budget-aware Index Tuning with Reinforcement Learning
+MOD22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,Serverless Data Science - Are We There Yet? A Case Study of Model Serving
+MOD22,Architectures,KafkaDirect: Zero-copy Data Access for Apache Kafka over RDMA Networks
+MOD22,Architectures,Saga: A Platform for Continuous Construction and Serving of Knowledge at Scale
+SAC22,Architectures,"Domain name service trust delegation in cloud computing: exploitation, risks, and defense"
+SAC22,Architectures,RAM: exploiting restrained and approximate management for enabling neural network training on NVM-based systems
+SAC22,Embedded and cyber-physical systems,Software-defined hardware-assisted isolation for trusted next-generation IoT systems
+SAC22,Embedded and cyber-physical systems,PICO: privacy-preserving access control in IoT scenarios through incomplete information
+SAC22,Architectures/Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,Redundant dataflow applications on clustered manycore architectures
+SAC22,Dependable and fault-tolerant systems and networks,An event-driven strategy for reactive replica balancing on apache hadoop distributed file system
+SAC22,Architectures,Porting a benchmark with a classic workload to blockchain: TPC-C on hyperledger fabric
+SAC22,Architectures,FL-MAB: client selection and monetization for blockchain-based federated learning
+SAC22,Dependable and fault-tolerant systems and networks,Toward replicated and asynchronous data streams for edge-cloud applications
+SAC22,Architectures,K-core decomposition on super large graphs with limited resources
+SAC22,Real-time systems,Improving CRPD analysis for EDF scheduling: trading speed for precision
+SAC22,Real-time systems/Embedded and cyber-physical systems,Simulating execution time and power consumption of real-time tasks on embedded platforms
+SAC22,Real-time systems/Embedded and cyber-physical systems,CETAS: a cluster based energy and temperature efficient real-time scheduler for heterogeneous platforms
+SAC22,Embedded and cyber-physical systems,Detecting return-oriented programming on firmware-only embedded devices using hardware performance counters
+SAC22,Embedded and cyber-physical systems,Towards privacy aware deep learning for embedded systems
+SAC22,Embedded and cyber-physical systems,Learning adaptive control in dynamic environments using reproducing kernel priors with bayesian policy gradients
+SAC22,Dependable and fault-tolerant systems and networks,Dual hybridization method for the classification of ultrasound breast tumors
+SAC22,Architectures,Adjusting inference time for power efficiency in neuromorphic architectures
+SAC22,Embedded and cyber-physical systems,A framework for OS portability: from formal models to low-level code
+SAC22,Dependable and fault-tolerant systems and networks,DMAFV: testing device drivers against DMA faults
+SAC22,Architectures,cuPSO: GPU parallelization for particle swarm optimization algorithms
+SAC22,Real-time systems,Synchronous semantics of multi-mode multi-periodic systems
+SAC22,Architectures,A federated machine learning approach to detect international revenue share fraud on the 5G edge
+SAC22,Architectures/Embedded and cyber-physical systems,FEAST: a framework for evaluating implementation architectures of self-adaptive IoT systems
+SAC22,Dependable and fault-tolerant systems and networks,Effective TLB thrashing: unveiling the true short reach of modern TLB designs
+SAC22,Embedded and cyber-physical systems,A reinforcement learning-based path planning for collaborative UAVs
+STOC22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,Positive spectrahedra: invariance principles and pseudorandom generators
+ICMR22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,I2-Net: Intra- and Inter-scale Collaborative Learning Network for Abdominal Multi-organ Segmentation
+KDD22,Embedded and cyber-physical systems,Efficient Orthogonal Multi-view Subspace Clustering
+KDD22,Embedded and cyber-physical systems,Spatio-Temporal Trajectory Similarity Learning in Road Networks
+KDD22,Architectures,Learned Token Pruning for Transformers
+KDD22,Architectures,FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy
+KDD22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,Evaluating Knowledge Graph Accuracy Powered by Optimized Human-machine Collaboration
+KDD22,Embedded and cyber-physical systems,Intrinsic-Motivated Sensor Management: Exploring with Physical Surprise
+KDD22,Architectures,Design Domain Specific Neural Network via Symbolic Testing
+KDD22,Dependable and fault-tolerant systems and networks/Embedded and cyber-physical systems,A Logic Aware Neural Generation Method for Explainable Data-to-text
+KDD22,Architectures,Lion: A GPU-Accelerated Online Serving System for Web-Scale Recommendation at Baidu
+KDD22,Dependable and fault-tolerant systems and networks,Multi-task Hierarchical Classification for Disk Failure Prediction in Online Service Systems
+KDD22,Architectures,Graph Neural Network Training and Data Tiering
+KDD22,Architectures,NENYA: Cascade Reinforcement Learning for Cost-Aware Failure Mitigation at Microsoft 365
+KDD22,Dependable and fault-tolerant systems and networks/Architectures,Felicitas: Federated Learning in Distributed Cross Device Collaborative Frameworks
