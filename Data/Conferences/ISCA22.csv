@@ -1,0 +1,68 @@
+Conference,Index,Paper
+ISCA22,Computer systems organization,NvMR: non-volatile memory renaming for intermittent computing
+ISCA22,Computer systems organization/Theory of computation,Free atomics: hardware atomic operations without fences
+ISCA22,Security and privacy,Securing GPU via region-based bounds checking
+ISCA22,Computer systems organization,täkō: a polymorphic cache hierarchy for general-purpose optimization of data movement
+ISCA22,Computer systems organization,EQC: ensembled quantum computing for variational quantum algorithms
+ISCA22,Security and privacy/Software and its engineering/Computer systems organization,Axiomatic hardware-software contracts for security
+ISCA22,Hardware/Security and privacy,PPMLAC: high performance chipset architecture for secure multi-party computation
+ISCA22,Hardware/Security and privacy,INSPIRE: in-storage private information retrieval via protocol and architecture co-design
+ISCA22,Computer systems organization,TDGraph: a topology-driven accelerator for high-performance streaming graph processing
+ISCA22,Computer systems organization/Hardware,DIMMining: pruning-efficient and parallel graph mining on near-memory-computing
+ISCA22,Hardware,NDMiner: accelerating graph pattern mining using near data processing
+ISCA22,Computer systems organization/Security and privacy,SoftVN: efficient memory protection via software-provided version numbers
+ISCA22,Computer systems organization/Security and privacy,CraterLake: a hardware accelerator for efficient unbounded computation on encrypted data
+ISCA22,Computer systems organization,PS-ORAM: efficient crash consistency support for oblivious RAM on NVM
+ISCA22,Computing methodologies/Security and privacy,There's always a bigger fish: a clarifying analysis of a machine-learning-assisted side-channel attack
+ISCA22,Computer systems organization,Gearbox: a case for supporting accumulation dispatching and hybrid partitioning in PIM-based accelerators
+ISCA22,Computer systems organization/Hardware,To PIM or not for emerging general purpose processing in DDR memory systems
+ISCA22,Computer systems organization/Hardware,MeNDA: a near-memory multi-way merge solution for sparse transposition and dataflows
+ISCA22,Computer systems organization/Software and its engineering,CaSMap: agile mapper for reconfigurable spatial architectures by automatically clustering intermediate representations and scattering mapping process
+ISCA22,Hardware/Software and its engineering,FFCCD: fence-free crash-consistent concurrent defragmentation for persistent memory
+ISCA22,Computer systems organization/Hardware,ASAP: architecture support for asynchronous persistence
+ISCA22,Hardware/Computing methodologies,Sibyl: adaptive and extensible data placement in hybrid storage systems using online reinforcement learning
+ISCA22,Computer systems organization/Software and its engineering,A synthesis framework for stitching surface code with superconducting quantum devices
+ISCA22,Hardware/Software and its engineering,2QAN: a quantum compiler for 2-local qubit hamiltonian simulation algorithms
+ISCA22,Computer systems organization/Hardware,XQsim: modeling cross-technology control processors for 10+K qubit quantum computers
+ISCA22,Computer systems organization,Geyser: a compilation framework for quantum computing with neutral atoms
+ISCA22,Computer systems organization/Hardware,X-cache: a modular architecture for domain-specific caches
+ISCA22,Computer systems organization,Register file prefetching
+ISCA22,Computing methodologies,GCoM: a detailed GPU core model for accurate analytical modeling of modern GPUs
+ISCA22,Computer systems organization,A scalable architecture for reprioritizing ordered parallelism
+ISCA22,Hardware/Computing methodologies,uBrain: a unary brain computer interface
+ISCA22,Computer systems organization/Hardware/Information systems,Managing reliability skew in DNA storage
+ISCA22,Computer systems organization,Increasing ising machine capacity with multi-chip architectures
+ISCA22,Computer systems organization,Cascading structured pruning: enabling high data reuse for sparse DNN accelerators
+ISCA22,Computer systems organization/Computing methodologies,Anticipating and eliminating redundant computations in accelerated sparse training
+ISCA22,Computer systems organization,A software-defined tensor streaming multiprocessor for large-scale machine learning
+ISCA22,Networks,Themis: a network bandwidth-aware collective scheduling policy for distributed training of DL models
+ISCA22,Computer systems organization/Hardware,RACOD: algorithm/hardware co-design for mobile robot path planning
+ISCA22,Computer systems organization/Hardware,EyeCoD: eye tracking system acceleration via flatcam-based algorithm & accelerator co-design
+ISCA22,Computer systems organization/Information systems,Accelerating database analytic query workloads using an associative processor
+ISCA22,Applied computing/Computer systems organization/Hardware,SeGraM: a universal hardware accelerator for genomic sequence-to-graph and sequence-to-sequence mapping
+ISCA22,Security and privacy,MOESI-prime: preventing coherence-induced hammering in commodity workloads
+ISCA22,Security and privacy,PACMAN: attacking ARM pointer authentication with speculative execution
+ISCA22,Computer systems organization,Hydra: enabling low-overhead mitigation of row-hammer at ultra-low thresholds via hybrid tracking
+ISCA22,Computer systems organization/Security and privacy,BTS: an accelerator for bootstrappable fully homomorphic encryption
+ISCA22,Computer systems organization/Security and privacy,MGX: near-zero overhead memory protection for data-intensive accelerators
+ISCA22,Computer systems organization,Thermometer: profile-guided btb replacement for data center applications
+ISCA22,Computer systems organization/Information systems,Lukewarm serverless functions: characterization and optimization
+ISCA22,Computer systems organization,Dynamic global adaptive routing in high-radix networks
+ISCA22,Computer systems organization/Hardware,ACT: designing sustainable computer systems with an architectural carbon modeling tool
+ISCA22,Computer systems organization/Hardware/Networks,HiveMind: a hardware-software system stack for serverless edge swarms
+ISCA22,Computer systems organization,Tiny but mighty: designing and realizing scalable latency tolerance for manycore SoCs
+ISCA22,Hardware,"FlexiCores: low footprint, high yield, field reprogrammable flexible microprocessors"
+ISCA22,Computing methodologies/Hardware,SNS's not a synthesizer: a deep-learning-based synthesis predictor
+ISCA22,Computing methodologies/Computer systems organization,Training personalized recommendation systems from (GPU) scratch: look forward not backwards
+ISCA22,Computer systems organization/Software and its engineering/Hardware,AMOS: enabling <u>a</u>utomatic <u>m</u>apping for tensor computations <u>o</u>n <u>s</u>patial accelerators with hardware abstraction
+ISCA22,Computing methodologies/Computer systems organization,Mokey: enabling narrow fixed-point inference for out-of-the-box floating-point transformer models
+ISCA22,Hardware,Accelerating attention through gradient-based learned runtime pruning
+ISCA22,Computing methodologies/Computer systems organization,Graphite: optimizing graph neural networks on CPUs through cooperative software-hardware techniques
+ISCA22,Computing methodologies/Hardware/Computer systems organization,SmartSAGE: training large-scale graph neural networks using in-storage processing architectures
+ISCA22,Computer systems organization,Hyperscale FPGA-as-a-service architecture for large-scale distributed graph neural network
+ISCA22,Computer systems organization/Computing methodologies,Crescent: taming memory irregularities for accelerating deep point cloud analytics
+ISCA22,Computer systems organization/Hardware,The Mozart reuse exposed dataflow processor for AI and beyond: industrial product
+ISCA22,Applied computing/Computer systems organization/Hardware/Computing methodologies,AI accelerator on IBM Telum processor: industrial product
+ISCA22,Computer systems organization/Hardware/Security and privacy,Fidas: fortifying the cloud via comprehensive FPGA-based offloading for intrusion detection: industrial product
+ISCA22,Computing methodologies/Information systems/Software and its engineering,Understanding data storage and ingestion for large-scale deep recommendation model training: industrial product
+ISCA22,Computer systems organization/Computing methodologies/Theory of computation,Mixed-proxy extensions for the NVIDIA PTX memory consistency model: industrial product
