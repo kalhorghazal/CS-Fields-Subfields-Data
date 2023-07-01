@@ -1,0 +1,69 @@
+Conference,Track,Index,Paper
+ICMR22,Reidentification,Information systems,Multiple Biological Granularities Network for Person Re-Identification
+ICMR22,Reidentification,Information systems/Computing methodologies,TriReID: Towards Multi-Modal Person Re-Identification via Descriptive Fusion Model
+ICMR22,Reidentification,Computing methodologies,Temporal-Consistent Visual Clue Attentive Network for Video-Based Person Re-Identification
+ICMR22,Reidentification,Information systems,Pluggable Weakly-Supervised Cross-View Learning for Accurate Vehicle Re-Identification
+ICMR22,Recommendations,Information systems,An Effective Two-way Metapath Encoder over Heterogeneous Information Network for Recommendation
+ICMR22,Recommendations,Information systems,Multi-Modal Contrastive Pre-training for Recommendation
+ICMR22,Recommendations,Information systems,Flexible Order Aware Sequential Recommendation
+ICMR22,Recommendations,Information systems,Sequential Intention-aware Recommender based on User Interaction Graph
+ICMR22,Visual+Text Retrieval,Information systems/Computing methodologies,TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval
+ICMR22,Visual+Text Retrieval,Computing methodologies,Constructing Phrase-level Semantic Labels to Form Multi-Grained Supervision for Image-Text Retrieval
+ICMR22,Visual+Text Retrieval,Information systems/Computing methodologies,Relevance-based Margin for Contrastively-trained Video Retrieval Models
+ICMR22,Visual+Text Retrieval,Information systems,CLIP4Hashing: Unsupervised Deep Hashing for Cross-Modal Video-Text Retrieval
+ICMR22,Best Paper Candidates,Computing methodologies,Dual-Level Decoupled Transformer for Video Captioning
+ICMR22,Best Paper Candidates,Information systems,Cross-Modal Retrieval between Event-Dense Text and Image
+ICMR22,Best Paper Candidates,Information systems,Learning Hierarchical Semantic Correspondences for Cross-Modal Image-Text Retrieval
+ICMR22,Deep Learning - Methodological Advancements,Information systems/Computing methodologies,Nearest Neighbor Search with Compact Codes: A Decoder Perspective
+ICMR22,Deep Learning - Methodological Advancements,Computing methodologies,Teaching a New Dog Old Tricks: Contrastive Random Walks in Videos with Unsupervised Priors
+ICMR22,Deep Learning - Methodological Advancements,Computing methodologies,FedNKD: A Dependable Federated Learning Using Fine-tuned Random Noise and Knowledge Distillation
+ICMR22,Deep Learning - Methodological Advancements,Computing methodologies,Weakly Supervised Fine-grained Recognition based on Combined Learning for Small Data and Coarse Label
+ICMR22,Visual+Text Retrieval,Computing methodologies,Ingredient-enriched Recipe Generation from Cooking Videos
+ICMR22,Visual+Text Retrieval,Information systems,Cross-lingual Adaptation for Recipe Retrieval with Mixup
+ICMR22,Visual+Text Retrieval,Computing methodologies,Disentangled Representations and Hierarchical Refinement of Multi-Granularity Features for Text-to-Image Synthesis
+ICMR22,Visual+Text Retrieval,Computing methodologies,Style-woven Attention Network for Zero-shot Ink Wash Painting Style Transfer
+ICMR22,Applications,Computing methodologies,Automatic Visual Recognition of Unexploded Ordnances Using Supervised Deep Learning
+ICMR22,Applications,Computing methodologies,Generating Topological Structure of Floorplans from Room Attributes
+ICMR22,Applications,Computing methodologies,MultiCLU: Multi-stage Context Learning and Utilization for Storefront Accessibility Detection and Evaluation
+ICMR22,Applications,Computing methodologies,UF-VTON: Toward User-Friendly Virtual Try-On Network
+ICMR22,Synchronized MM,Computing methodologies,Learning Sample Importance for Cross-Scenario Video Temporal Grounding
+ICMR22,Synchronized MM,Computing methodologies,Efficient Linear Attention for Fast and Accurate Keypoint Matching
+ICMR22,Synchronized MM,Computing methodologies,Video2Subtitle: Matching Weakly-Synchronized Sequences via Dynamic Temporal Alignment
+ICMR22,Synchronized MM,Information systems,Dual-Channel Localization Networks for Moment Retrieval with Natural Language
+ICMR22,Reproducibility Paper,Computing methodologies,Reproducibility Companion Paper: Human Object Interaction Detection via Multi-level Conditioned Network
+ICMR22,Alignment and Localization,Computing methodologies,Phrase-level Prediction for Video Temporal Localization
+ICMR22,Alignment and Localization,Information systems,Joint Modality Synergy and Spatio-temporal Cue Purification for Moment Localization
+ICMR22,Captioning and Summarization,Computing methodologies,Improving Image Captioning via Enhancing Dual-Side Context Awareness
+ICMR22,Captioning and Summarization,Computing methodologies,Improve Image Captioning by Modeling Dynamic Scene Graph Extension
+ICMR22,Captioning and Summarization,Computing methodologies,Summarizing Videos using Concentrated Attention and Considering the Uniqueness and Diversity of the Video Frames
+ICMR22,Applications,Information systems,Fashion Image Search via Anchor-Free Detector
+ICMR22,Applications,Computing methodologies,Unsupervised Contrastive Masking for Visual Haze Classification
+ICMR22,Applications,Computing methodologies,MuLER: Multiplet-Loss for Emotion Recognition
+ICMR22,Applications,Computing methodologies,STAFNet: Swin Transformer Based Anchor-Free Network for Detection of Forward-looking Sonar Imagery
+ICMR22,Robust MM,Computing methodologies/Security and privacy/Applied computing,Camouflaged Poisoning Attack on Graph Neural Networks
+ICMR22,Robust MM,Information systems,Accelerated Sign Hunter: A Sign-based Black-box Attack via Branch-Prune Strategy and Stabilized Hierarchical Search
+ICMR22,Robust MM,Computing methodologies,DiGAN: Directional Generative Adversarial Network for Object Transfiguration
+ICMR22,Robust MM,Information systems/Computing methodologies,GIO: A Timbre-informed Approach for Pitch Tracking in Highly Noisy Environments
+ICMR22,"Action, Pose and Body",Computing methodologies,Source-free Temporal Attentive Domain Adaptation for Video Action Recognition
+ICMR22,"Action, Pose and Body",Computing methodologies,Review of Deep Learning Models for Spine Segmentation
+ICMR22,"Action, Pose and Body",Computing methodologies,3D-Augmented Contrastive Knowledge Distillation for Image-based Object Pose Estimation
+ICMR22,"Action, Pose and Body",Computing methodologies,Selective Hypergraph Convolutional Networks for Skeleton-based Action Recognition
+ICMR22,Multifarious Multimedia,Information systems/Computing methodologies/General and reference,Self-Lifting: A Novel Framework for Unsupervised Voice-Face Association Learning
+ICMR22,Multifarious Multimedia,Information systems,Revisiting Performance Measures for Cross-Modal Hashing
+ICMR22,Multifarious Multimedia,Computing methodologies,Local Slot Attention for Vision and Language Navigation
+ICMR22,Multifarious Multimedia,Computing methodologies,Cross-Pixel Dependency with Boundary-Feature Transformation for Weakly Supervised Semantic Segmentation
+ICMR22,Multifarious Multimedia,Human-centered computing/Computing methodologies,Mobile Emotion Recognition via Multiple Physiological Signals using Convolution-augmented Transformer
+ICMR22,Adversarial Learning for Multimedia Understanding and Retrieval,Computing methodologies,VAC-Net: Visual Attention Consistency Network for Person Re-identification
+ICMR22,Adversarial Learning for Multimedia Understanding and Retrieval,Computing methodologies,MFGAN: A Lightweight Fast Multi-task Multi-scale Feature-fusion Model based on GAN
+ICMR22,Adversarial Learning for Multimedia Understanding and Retrieval,Computing methodologies/Theory of computation,Adaptive Temporal Grouping for Black-box Adversarial Attacks on Videos
+ICMR22,"Transformer-based Multimedia Understanding: Model Design, Learning, Distillation",Computing methodologies,Parallelism Network with Partial-aware and Cross-correlated Transformer for Vehicle Re-identification
+ICMR22,"Transformer-based Multimedia Understanding: Model Design, Learning, Distillation",Applied computing/Information systems,Motor Learning based on Presentation of a Tentative Goal
+ICMR22,"Transformer-based Multimedia Understanding: Model Design, Learning, Distillation",Applied computing/Computing methodologies,Extracting Precedence Relations between Video Lectures in MOOCs
+ICMR22,"Transformer-based Multimedia Understanding: Model Design, Learning, Distillation",Computing methodologies,M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection
+ICMR22,"Transformer-based Multimedia Understanding: Model Design, Learning, Distillation",Computing methodologies,Blindfold Attention: Novel Mask Strategy for Facial Expression Recognition
+ICMR22,"Transformer-based Multimedia Understanding: Model Design, Learning, Distillation",Information systems,MSSPQ: Multiple Semantic Structure-Preserving Quantization for Cross-Modal Retrieval
+ICMR22,Weakly Supervised Learning for Medical Image Analysis,Computing methodologies,Lesion Localization in OCT by Semi-Supervised Object Detection
+ICMR22,Weakly Supervised Learning for Medical Image Analysis,Applied computing/Computing methodologies,Weakly Supervised Pediatric Bone Age Assessment Using Ultrasonic Images via Automatic Anatomical RoI Detection
+ICMR22,Weakly Supervised Learning for Medical Image Analysis,Computer systems organization/Networks,I2-Net: Intra- and Inter-scale Collaborative Learning Network for Abdominal Multi-organ Segmentation
+ICMR22,Weakly Supervised Learning for Medical Image Analysis,Computing methodologies,SA-NAS-BFNR: Spatiotemporal Attention Neural Architecture Search for Task-based Brain Functional Network Representation
+ICMR22,Weakly Supervised Learning for Medical Image Analysis,Computing methodologies,Weakly-supervised Cerebrovascular Segmentation Network with Shape Prior and Model Indicator
