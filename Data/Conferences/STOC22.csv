@@ -1,0 +1,134 @@
+Conference,Track,Index,Paper
+STOC22,Session 1A,Theory of computation,"Nonlocal games, compression theorems, and the arithmetical hierarchy"
+STOC22,Session 1A,Theory of computation,An area law for 2d frustration-free spin systems
+STOC22,Session 1A,Theory of computation,Dequantizing the Quantum singular value transformation: hardness and applications to Quantum chemistry and the Quantum PCP conjecture
+STOC22,Session 1A,Theory of computation,Near-optimal Quantum algorithms for multivariate mean estimation
+STOC22,Session 1A,Theory of computation,Distributed Quantum inner product estimation
+STOC22,Session 1B,Theory of computation,The power of two choices in graphical allocation
+STOC22,Session 1B,Theory of computation/Mathematics of computing,Expanders via local edge flips in quasilinear time
+STOC22,Session 1B,Theory of computation,(Fractional) online stochastic matching via fine-grained offline statistics
+STOC22,Session 1B,Theory of computation,The power of multiple choices in online stochastic matching
+STOC22,Session 1B,Theory of computation,Online edge coloring via tree recurrences and correlation decay
+STOC22,Session 1C,Theory of computation/Mathematics of computing,The shortest even cycle problem is tractable
+STOC22,Session 1C,Theory of computation,Breaking the nk barrier for minimum k-cut on simple graphs
+STOC22,Session 1C,Theory of computation,Edge connectivity augmentation in near-linear time
+STOC22,Session 1C,Theory of computation,Optimal vertex connectivity oracles
+STOC22,Session 1C,Theory of computation/Mathematics of computing,Deterministic massively parallel connectivity
+STOC22,Session 2A,Theory of computation,Hypercontractivity on high dimensional expanders
+STOC22,Session 2A,Theory of computation/Mathematics of computing,Approximate polymorphisms
+STOC22,Session 2A,Theory of computation/Mathematics of computing,Learning low-degree functions from a logarithmic number of random queries
+STOC22,Session 2A,Networks/Computer systems organization,Positive spectrahedra: invariance principles and pseudorandom generators
+STOC22,Session 2B,Theory of computation,New streaming algorithms for high dimensional EMD and MST
+STOC22,Session 2B,Theory of computation,Brooks’ theorem in graph streams: a single-pass semi-streaming algorithm for ∆-coloring
+STOC22,Session 2B,Theory of computation,Deterministic (1+𝜀)-approximate maximum matching with poly(1/𝜀) passes in the semi-streaming model and beyond
+STOC22,Session 2B,Theory of computation,Deterministic graph coloring in the streaming model
+STOC22,Session 2B,Theory of computation,Linear space streaming lower bounds for approximating CSPs
+STOC22,Session 2C,Theory of computation,A PTAS for unsplittable flow on a path
+STOC22,Session 2C,Theory of computation,A subpolynomial approximation algorithm for graph crossing number in low-degree graphs
+STOC22,Session 2C,Theory of computation,Improved approximation guarantees for shortest superstrings using cycle classification by overlap to length ratios
+STOC22,Session 2C,Theory of computation,Flow time scheduling and prefix Beck-Fiala
+STOC22,Session 2C,Theory of computation,Bypassing the surface embedding: approximation schemes for network design in minor-free graphs
+STOC22,Award Papers Session I: Best Papers,Mathematics of computing,"Locally testable codes with constant rate, distance, and locality"
+STOC22,Award Papers Session I: Best Papers,Theory of computation,Asymptotically good Quantum and locally testable classical LDPC codes
+STOC22,Session 3A,Theory of computation,"Ideals, determinants, and straightening: proving and using lower bounds for polynomial ideals"
+STOC22,Session 3A,Theory of computation,"Fast, algebraic multivariate multipoint evaluation in small characteristic and applications"
+STOC22,Session 3A,Theory of computation,Set-multilinear and non-commutative formula lower bounds for iterated matrix multiplication
+STOC22,Session 3A,Theory of computation,Combinatorics via closed orbits: number theoretic Ramanujan graphs are not unique neighbor expanders
+STOC22,Session 3A,Theory of computation/Mathematics of computing,On the complexity of CSP-based ideal membership problems
+STOC22,Session 3B,Theory of computation,Near-optimal distributed degree+1 coloring
+STOC22,Session 3B,Theory of computation,Distributed ∆-coloring plays hide-and-seek
+STOC22,Session 3B,Theory of computation,Undirected (1+𝜀)-shortest paths via minor-aggregates: near-optimal deterministic parallel and distributed algorithms
+STOC22,Session 3B,Theory of computation,Improved communication complexity of fault-tolerant consensus
+STOC22,Session 3B,Theory of computation,Byzantine agreement in polynomial time with near-optimal resilience
+STOC22,Session 3C,Theory of computation,No self-concordant barrier interior point method is strongly polynomial
+STOC22,Session 3C,Theory of computation,Improved iteration complexities for overconstrained p-norm regression
+STOC22,Session 3C,Theory of computation,Faster maxflow via improved dynamic spectral vertex sparsifiers
+STOC22,Session 3C,Theory of computation,Sparsified block elimination for directed laplacians
+STOC22,Session 3C,Theory of computation/Mathematics of computing,Matrix anti-concentration inequalities with applications
+STOC22,Session 4A,Theory of computation,Circuits resilient to short-circuit errors
+STOC22,Session 4A,Theory of computation,Explicit binary tree codes with sub-logarithmic size alphabet
+STOC22,Session 4A,Theory of computation/Mathematics of computing,Interactive error correcting codes over binary erasure channels resilient to > ½ adversarial corruption
+STOC22,Session 4A,Theory of computation,The query complexity of certification
+STOC22,Session 4B,Theory of computation/Mathematics of computing,Matrix discrepancy from Quantum communication
+STOC22,Session 4B,Theory of computation,A new framework for matrix discrepancy: partial coloring bounds via mirror descent
+STOC22,Session 4B,Theory of computation,Uniform approximations for Randomized Hadamard Transforms with applications
+STOC22,Session 4B,Theory of computation/Mathematics of computing,Testing thresholds for high-dimensional sparse random geometric graphs
+STOC22,Session 4B,Theory of computation,Algorithms and certificates for Boolean CSP refutation: smoothed is no harder than random
+STOC22,Session 4C,Theory of computation,On the hardness of dominant strategy mechanism design
+STOC22,Session 4C,Theory of computation,Computing simple mechanisms: Lift-and-round over marginal reduced forms
+STOC22,Session 4C,Theory of computation/Mathematics of computing/Applied computing,Approximately efficient bilateral trade
+STOC22,Session 4C,Theory of computation,Pricing ordered items
+STOC22,Session 4C,Theory of computation,Near-optimal no-regret learning for correlated equilibria in multi-player general-sum games
+STOC22,Session 5A,Theory of computation,Hamiltonian complexity in the thermodynamic limit
+STOC22,Session 5A,Theory of computation,Computational complexity of the ground state energy density problem
+STOC22,Session 5A,Theory of computation/Applied computing,Optimizing strongly interacting fermionic Hamiltonians
+STOC22,Session 5A,Theory of computation,Public-key Quantum money with a classical bank
+STOC22,Session 5A,Theory of computation,Quantum garbled circuits
+STOC22,Session 5B,Theory of computation,Reproducibility in learning
+STOC22,Session 5B,Theory of computation/Mathematics of computing,Kalman filtering with adversarial corruptions
+STOC22,Session 5B,Theory of computation,Fast rates for nonparametric online learning: from realizability to learning in games
+STOC22,Session 5B,Theory of computation/Mathematics of computing,Binary perceptron: efficient algorithms can find solutions in a rare well-connected cluster
+STOC22,Session 5B,Theory of computation,Learning general halfspaces with general Massart noise under the Gaussian distribution
+STOC22,Session 5C,Theory of computation,Fast FPT-approximation of branchwidth
+STOC22,Session 5C,Theory of computation,Lossy planarization: a constant-factor approximate kernelization for planar vertex deletion
+STOC22,Session 5C,Theory of computation,Fixed-parameter tractability of graph isomorphism in graphs with an excluded minor
+STOC22,Session 5C,Theory of computation/Mathematics of computing,Twin-width IV: ordered graphs and matrices
+STOC22,Session 5C,Theory of computation,Directed flow-augmentation
+STOC22,Award Papers Session II: Best Student Papers,Theory of computation/Mathematics of computing,The optimal error resilience of interactive communication over binary channels
+STOC22,Award Papers Session II: Best Student Papers,Theory of computation,The exact complexity of pseudorandom functions and the black-box natural proof barrier for bootstrapping results in computational complexity
+STOC22,Session 6A,Theory of computation,On approximability of satisfiable k-CSPs: I
+STOC22,Session 6A,Theory of computation,A characterization of approximability for biased CSPs
+STOC22,Session 6A,Theory of computation,Parallel repetition for all 3-player games over binary alphabet
+STOC22,Session 6A,Theory of computation,Constant inapproximability for PPA
+STOC22,Session 6A,Theory of computation,Complexity classification of counting graph homomorphisms modulo a prime number
+STOC22,Session 6B,Theory of computation,Towards optimal lower bounds for k-median and k-means coresets
+STOC22,Session 6B,Theory of computation,"Deterministic, near-linear 𝜀-approximation algorithm for geometric bipartite matching"
+STOC22,Session 6B,Theory of computation,Locality-sensitive orderings and applications to reliable spanners
+STOC22,Session 6B,Theory of computation,"Nearly optimal vertex fault-tolerant spanners in optimal time: sequential, distributed, and parallel"
+STOC22,Session 6B,Theory of computation,Maintaining exact distances under multiple edge failures
+STOC22,Session 6C,Theory of computation,Almost-optimal sublinear-time edit distance in the low distance regime
+STOC22,Session 6C,Theory of computation,Edge sampling and graph parameter estimation via vertex neighborhood accesses
+STOC22,Session 6C,Theory of computation,Low-rank approximation with 1/𝜖1/3 matrix-vector products
+STOC22,Session 6C,Theory of computation,Sublinear time spectral density estimation
+STOC22,Session 6C,Theory of computation,Memory bounds for the experts problem
+STOC22,Session 7A,Theory of computation,A strong version of Cobham’s theorem
+STOC22,Session 7A,Theory of computation,3.1n − o(n) circuit lower bounds for explicit functions
+STOC22,Session 7A,Theory of computation,The approximate degree of DNF and CNF formulas
+STOC22,Session 7A,Theory of computation,Verifying the unseen: interactive proofs for label-invariant distribution properties
+STOC22,Session 7A,Theory of computation/Mathematics of computing,Randomized communication and implicit graph representations
+STOC22,Session 7B,Theory of computation,Robustly learning mixtures of k arbitrary Gaussians
+STOC22,Session 7B,Theory of computation,Clustering mixtures with almost optimal separation in polynomial time
+STOC22,Session 7B,Theory of computation,Clustering mixture models in almost-linear time via list-decodable mean estimation
+STOC22,Session 7B,Theory of computation,List-decodable covariance estimation
+STOC22,Session 7C,Theory of computation,On the optimal time/space tradeoff for hash tables
+STOC22,Session 7C,Theory of computation,An extendable data structure for incremental stable perfect hashing
+STOC22,Session 7C,Theory of computation,Almost-linear ε-emulators for planar graphs
+STOC22,Session 7C,Theory of computation,"Hop-constrained expander decompositions, oblivious routing, and distributed universal optimality"
+STOC22,Session 7C,Networks/Theory of computation,Optimal oblivious reconfigurable networks
+STOC22,Session 8A,Theory of computation,Proving as fast as computing: succinct arguments with constant prover overhead
+STOC22,Session 8A,Theory of computation,Rate one-third non-malleable codes
+STOC22,Session 8A,Theory of computation,Deniable encryption in a Quantum world
+STOC22,Session 8A,Security and privacy,On the complexity of two-party differential privacy
+STOC22,Session 8A,Theory of computation/Mathematics of computing/Security and privacy,Efficient mean estimation with pure differential privacy via a sum-of-squares exponential mechanism
+STOC22,Session 8B,Theory of computation,Entropic independence: optimal mixing of down-up random walks
+STOC22,Session 8B,Theory of computation,Simple parallel algorithms for single-site dynamics
+STOC22,Session 8B,Theory of computation,Low-temperature Ising dynamics with random initializations
+STOC22,Session 8B,Theory of computation/Mathematics of computing,Computational thresholds for the fixed-magnetization Ising model
+STOC22,Session 8B,Theory of computation/Mathematics of computing,Approximate counting and sampling via local central limit theorems
+STOC22,Session 8C,Theory of computation,"Hardness of approximation in p via short cycle removal: cycle detection, distance oracles, and beyond"
+STOC22,Session 8C,Theory of computation,"Hardness for triangle problems under even more believable hypotheses: reductions from real APSP, real 3SUM, and OV"
+STOC22,Session 8C,Theory of computation,Tight dynamic problem lower bounds from generalized BMM and OMv
+STOC22,Session 8C,Theory of computation,Faster min-plus product for monotone instances
+STOC22,Session 8C,Theory of computation/Mathematics of computing,Counting small induced subgraphs with hereditary properties
+STOC22,Session 9A,Theory of computation,Pseudodeterminism: promises and lowerbounds
+STOC22,Session 9A,Theory of computation,Worst-case to average-case reductions via additive combinatorics
+STOC22,Session 9A,Theory of computation,Robustness of average-case meta-complexity via pseudorandomness
+STOC22,Session 9A,Theory of computation,Extractors for sum of two sources
+STOC22,Session 9B,Theory of computation/Mathematics of computing,Breaching the 2-approximation barrier for the forest augmentation problem
+STOC22,Session 9B,Theory of computation,An improved approximation algorithm for the minimum k-edge connected multi-subgraph problem
+STOC22,Session 9B,Theory of computation,"Improved approximations for Euclidean k-means and k-median, via nested quasi-independent sets"
+STOC22,Session 9B,Theory of computation,"Explainable k-means: don’t be greedy, plant bigger trees!"
+STOC22,Session 9C,Theory of computation,Subquadratic dynamic path reporting in directed graphs against an adaptive adversary
+STOC22,Session 9C,Theory of computation,Dynamic suffix array with polylogarithmic queries and updates
+STOC22,Session 9C,Theory of computation,Dynamic algorithms against an adaptive adversary: generic constructions and lower bounds
+STOC22,Session 9C,Theory of computation,On the complexity of dynamic submodular maximization
