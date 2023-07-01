@@ -1,0 +1,173 @@
+Conference,Track,Index,Paper
+FSE22,Machine Learning I,Software and its engineering,Adaptive fairness improvement based on causality analysis
+FSE22,Machine Learning I,Computing methodologies/Software and its engineering,NatGen: generative pre-training by “naturalizing” source code
+FSE22,Software Testing I,Software and its engineering,Testing of autonomous driving systems: where are we and where should we go?
+FSE22,Software Testing I,Software and its engineering,Fuzzing deep-learning libraries via automated relational API inference
+FSE22,Software Testing I,Security and privacy/Software and its engineering,SEDiff: scope-aware differential fuzzing to test internal function models in symbolic execution
+FSE22,Software Testing I,Computing methodologies/Software and its engineering,Perfect is the enemy of test oracle
+FSE22,Software Testing I,Software and its engineering,Scenario-based test reduction and prioritization for multi-module autonomous driving systems
+FSE22,Software Testing I,Software and its engineering,MOSAT: finding safety violations of autonomous driving systems using multi-objective genetic algorithm
+FSE22,Empirical I,General and reference/Software and its engineering,Are we building on the rock? on the importance of data preprocessing for code summarization
+FSE22,Empirical I,Human-centered computing,Correlates of programmer efficacy and their link to experience: a combined EEG and eye-tracking study
+FSE22,Empirical I,Human-centered computing/Software and its engineering,What motivates software practitioners to contribute to inner source?
+FSE22,Community,Information systems/General and reference/Software and its engineering,A retrospective study of one decade of artifact evaluations
+FSE22,Community,General and reference/Software and its engineering,Quantifying community evolution in developer social networks
+FSE22,Community,Human-centered computing,Understanding skills for OSS communities on GitHub
+FSE22,Software Evolution,Software and its engineering,Accurate method and variable tracking in commit history
+FSE22,Software Evolution,Software and its engineering,Classifying edits to variability in source code
+FSE22,Software Evolution,General and reference/Software and its engineering,The evolution of type annotations in python: an empirical study
+FSE22,Software Evolution,Software and its engineering,"UTANGO: untangling commits with context-aware, graph-based, code change clustering learning model"
+FSE22,Program Analysis I,Software and its engineering,Static executes-before analysis for event driven programs
+FSE22,Program Analysis I,Security and privacy/Software and its engineering,Security code smells in apps: are we getting better?
+FSE22,Program Analysis I,Software and its engineering/Theory of computation,Large-scale analysis of non-termination bugs in real-world OSS projects
+FSE22,Program Analysis I,Computing methodologies/Software and its engineering,On-the-fly syntax highlighting using neural networks
+FSE22,Program Analysis I,Software and its engineering,Declarative smart contracts
+FSE22,Human/Computer Interaction,Human-centered computing/Software and its engineering,Asynchronous technical interviews: reducing the effect of supervised think-aloud on communication ability
+FSE22,Human/Computer Interaction,Software and its engineering,How to formulate specific how-to questions in software development?
+FSE22,Human/Computer Interaction,Computing methodologies/Software and its engineering/Human-centered computing,Pair programming conversations with agents vs. developers: challenges and opportunities for SE community
+FSE22,Human/Computer Interaction,Software and its engineering,"Psychologically-inspired, unsupervised inference of perceptual groups of GUI widgets from GUI images"
+FSE22,Human/Computer Interaction,Software and its engineering,Toward interactive bug reporting for (android app) end-users
+FSE22,Machine Learning II,Software and its engineering,Understanding performance problems in deep learning systems
+FSE22,Machine Learning II,Computing methodologies/Information systems,API recommendation for machine learning libraries: how far are we?
+FSE22,Machine Learning II,Software and its engineering,No more fine-tuning? an experimental evaluation of prompt tuning in code intelligence
+FSE22,Software Testing II,Software and its engineering,Cross-device record and replay for Android apps
+FSE22,Software Testing II,Information systems/Software and its engineering,Online testing of RESTful APIs: promises and challenges
+FSE22,Software Testing II,Software and its engineering,Avgust: automating usage-based test generation from videos of app executions
+FSE22,Software Testing II,Software and its engineering,Detecting non-crashing functional bugs in Android apps via deep-state differential analysis
+FSE22,Software Testing II,Computer systems organization/Software and its engineering,RoboFuzz: fuzzing robotic systems over robot operating system (ROS) for finding correctness bugs
+FSE22,Empirical II,Computer systems organization/Software and its engineering,AgileCtrl: a self-adaptive framework for configuration tuning
+FSE22,Empirical II,Software and its engineering,Using nudges to accelerate code reviews at scale
+FSE22,Empirical II,Software and its engineering,First come first served: the impact of file position on code review
+FSE22,Empirical II,Software and its engineering,"Code, quality, and process metrics in graduated and retired ASFI projects"
+FSE22,Empirical II,Software and its engineering,"CommentFinder: a simpler, faster, more accurate code review comments recommendation"
+FSE22,Machine Learning III,Computing methodologies/Software and its engineering,AutoPruner: transformer-based call graph pruning
+FSE22,Machine Learning III,Computing methodologies/Software and its engineering,Lighting up supervised learning in user review-based code localization: dataset and benchmark
+FSE22,Machine Learning III,Software and its engineering,CORMS: a GitHub and Gerrit based hybrid code reviewer recommendation approach for modern code review
+FSE22,Machine Learning III,Software and its engineering,Hierarchical Bayesian multi-kernel learning for integrated classification and summarization of app reviews
+FSE22,Machine Learning III,Software and its engineering,Semi-supervised pre-processing for learning-based traceability framework on real-world software projects
+FSE22,Formal Methods,Software and its engineering/Theory of computation,Input invariants
+FSE22,Formal Methods,Software and its engineering/Theory of computation,Modus: a Datalog dialect for building container images
+FSE22,Formal Methods,Software and its engineering,Multi-phase invariant synthesis
+FSE22,Formal Methods,Security and privacy/Software and its engineering,Parasol: efficient parallel synthesis of large model spaces
+FSE22,Formal Methods,Computing methodologies/Software and its engineering/Theory of computation,Neural termination analysis
+FSE22,Debugging/Localization,Software and its engineering,PaReco: patched clones and missed patches among the divergent variants of a software family
+FSE22,Debugging/Localization,Software and its engineering,Fault localization to detect co-change fixing locations
+FSE22,Debugging/Localization,Software and its engineering,The best of both worlds: integrating semantic features with expert features for defect prediction and localization
+FSE22,Mining Software Repositories,Software and its engineering,An exploratory study on the predominant programming paradigms in Python code
+FSE22,Mining Software Repositories,Software and its engineering,Making Python code idiomatic by automatic refactoring non-idiomatic Python code with pythonic idioms
+FSE22,Mining Software Repositories,Security and privacy,"An empirical study of blockchain system vulnerabilities: modules, types, and patterns"
+FSE22,Mining Software Repositories,Software and its engineering,How to better utilize code graphs in semantic code search?
+FSE22,Mining Software Repositories,Computing methodologies/Software and its engineering,23 shades of self-admitted technical debt: an empirical study on machine learning software
+FSE22,Program Analysis II,Computing methodologies/Security and privacy,NeuDep: neural binary memory dependence analysis
+FSE22,Program Analysis II,General and reference/Software and its engineering,DynaPyt: a dynamic analysis framework for Python
+FSE22,Program Analysis II,Security and privacy,Cross-language Android permission specification
+FSE22,Program Analysis II,Software and its engineering,Peahen: fast and precise static deadlock detection via context reduction
+FSE22,Collaboration,Human-centered computing,"A case study of implicit mentoring, its prevalence, and impact in Apache"
+FSE22,Collaboration,Security and privacy,Software security during modern code review: the developer’s perspective
+FSE22,Collaboration,Software and its engineering,Program merge conflict resolution via neural transformers
+FSE22,Security,Security and privacy,Automated unearthing of dangerous issue reports
+FSE22,Security,Security and privacy,On the vulnerability proneness of multilingual code
+FSE22,Security,Information systems/Security and privacy,Tracking patches for open source software vulnerabilities
+FSE22,Security,Theory of computation/Security and privacy/Software and its engineering,DeJITLeak: eliminating JIT-induced timing side-channel leaks
+FSE22,Dependability,Software and its engineering,Quantitative relational modelling with QAlloy
+FSE22,Dependability,Security and privacy,Demystifying the underground ecosystem of account registration bots
+FSE22,Dependability,Computing methodologies,Using graph neural networks for program termination
+FSE22,Program Repair/Synthesis,Software and its engineering,PyTER: effective program repair for Python type errors
+FSE22,Program Repair/Synthesis,Security and privacy/Software and its engineering,VulRepair: a T5-based automated software vulnerability repair
+FSE22,Program Repair/Synthesis,Computing methodologies/Software and its engineering,DeepDev-PERF: a deep learning-based approach for improving software performance
+FSE22,Program Repair/Synthesis,Computer systems organization/Software and its engineering,"Less training, more repairing please: revisiting automated program repair via zero-shot learning"
+FSE22,Program Repair/Synthesis,Software and its engineering,NL2Viz: natural language to visualization via constrained syntax-guided synthesis
+FSE22,Online Presentations,Human-centered computing/Software and its engineering,AccessiText: automated detection of text accessibility issues in Android apps
+FSE22,Online Presentations,General and reference/Software and its engineering,Actionable and interpretable fault localization for recurring failures in online service systems
+FSE22,Online Presentations,Computing methodologies/Software and its engineering,AUGER: automatically generating review comments with pre-training models
+FSE22,Online Presentations,Software and its engineering,Automatically deriving JavaScript static analyzers from specifications using Meta-level static analysis
+FSE22,Online Presentations,Software and its engineering,Automating code review activities by large-scale pre-training
+FSE22,Online Presentations,Software and its engineering,Corporate dominance in open source ecosystems: a case study of OpenStack
+FSE22,Online Presentations,Software and its engineering,Detecting Simulink compiler bugs via controllable zombie blocks mutation
+FSE22,Online Presentations,Computing methodologies,Diet code is healthy: simplifying programs for pre-trained models of code
+FSE22,Online Presentations,Software and its engineering,Do bugs lead to unnaturalness of source code?
+FSE22,Online Presentations,Security and privacy,Generating realistic vulnerabilities via neural code editing: an empirical study
+FSE22,Online Presentations,Theory of computation,Generic sensitivity: customizing context-sensitive pointer analysis for generics
+FSE22,Online Presentations,Computing methodologies/Software and its engineering,MAAT: a novel ensemble approach to addressing fairness and performance bugs for machine learning software
+FSE22,Online Presentations,Security and privacy,Minerva: browser API fuzzing with dynamic mod-ref analysis
+FSE22,Online Presentations,Computing methodologies/Software and its engineering,NMTSloth: understanding and testing efficiency degradation of neural machine translation systems
+FSE22,Online Presentations,Software and its engineering,Putting them under microscope: a fine-grained approach for detecting redundant test cases in natural language
+FSE22,Online Presentations,Computing methodologies/Software and its engineering,RULER: discriminative and iterative adversarial training for deep neural network fairness
+FSE22,Online Presentations,Software and its engineering,SamplingCA: effective and efficient sampling-based pairwise testing for highly configurable software systems
+FSE22,Online Presentations,Software and its engineering,SPINE: a scalable log parser with feedback guidance
+FSE22,Online Presentations,Theory of computation/Software and its engineering,SymMC: approximate model enumeration and counting using symmetry information for Alloy specifications
+FSE22,Online Presentations,Software and its engineering,TraceCRL: contrastive representation learning for microservice trace analysis
+FSE22,Online Presentations,Security and privacy,You see what I want you to see: poisoning vulnerabilities in neural code search
+FSE22,Community,Security and privacy/Software and its engineering,In war and peace: the impact of world politics on software ecosystems
+FSE22,Machine Learning,Computing methodologies/Software and its engineering,Discrepancies among pre-trained deep neural networks: a new threat to model zoo reliability
+FSE22,Machine Learning,Software and its engineering,Exploring the under-explored terrain of non-open source data for software engineering through the lens of federated learning
+FSE22,Machine Learning,Software and its engineering,Nalanda: a socio-technical graph platform for building software analytics tools at enterprise scale
+FSE22,Machine Learning,Computer systems organization/Software and its engineering/Information systems/Computing methodologies,Uncertainty-aware transfer learning to evolve digital twins for industrial elevators
+FSE22,Machine Learning,Software and its engineering,All you need is logs: improving code completion by learning from anonymous IDE usage logs
+FSE22,Machine Learning,Software and its engineering,Testing of machine learning models with limited samples: an industrial vacuum pumping application
+FSE22,Machine Learning,Information systems/Software and its engineering,Improving ML-based information retrieval software with user-driven functional testing and defect class analysis
+FSE22,Empirical,General and reference/Software and its engineering,What improves developer productivity at google? code quality
+FSE22,Empirical,Software and its engineering,Understanding why we cannot model how long a code review will take: an industrial case study
+FSE22,Empirical,Software and its engineering,Leveraging test plan quality to improve code review efficacy
+FSE22,Empirical,Computer systems organization/Software and its engineering,Are elevator software robust against uncertainties? results and experiences from an industrial case study
+FSE22,Community,Software and its engineering,Achievement unlocked: a case study on gamifying DevOps practices in industry
+FSE22,Software Evolution,Software and its engineering,Sometimes you have to treat the symptoms: tackling model drift in an industrial clone-and-own software product line
+FSE22,Program Analysis,Security and privacy,Input splitting for cloud-based static application security testing platforms
+FSE22,Debugging/Localization,Information systems/Software and its engineering,Metadata-based retrieval for resolution recommendation in AIOps
+FSE22,Collaboration,Software and its engineering,Workgraph: personal focus vs. interruption for engineers at Meta
+FSE22,Collaboration,General and reference/Software and its engineering,Understanding automated code review process and developer experience in industry
+FSE22,Dependability,Applied computing/Software and its engineering,Unite: an adapter for transforming analysis tools to web services via OSLC
+FSE22,Dependability,Mathematics of computing/Software and its engineering,Discovering feature flag interdependencies in Microsoft office
+FSE22,Dependability,Security and privacy,What did you pack in my app? a systematic analysis of commercial Android packers
+FSE22,Repair/Synthesis,Software and its engineering,An empirical study of deep transfer learning-based program repair for Kotlin projects
+FSE22,Online Presentations,Computer systems organization/Software and its engineering,An empirical investigation of missing data handling in cloud node failure prediction
+FSE22,Online Presentations,Software and its engineering,An empirical study of log analysis at Microsoft
+FSE22,Online Presentations,Software and its engineering,AutoTSG: learning and synthesis for incident troubleshooting
+FSE22,Online Presentations,Human-centered computing,Demystifying “removed reviews” in iOS app store
+FSE22,Online Presentations,Information systems/Software and its engineering,Exploring and evaluating personalized models for code generation
+FSE22,Online Presentations,Software and its engineering,FlakeRepro: automated and efficient reproduction of concurrency-related flaky tests
+FSE22,Online Presentations,Security and privacy,Group-based corpus scheduling for parallel fuzzing
+FSE22,Online Presentations,Computing methodologies/Software and its engineering,Incorporating domain knowledge through task augmentation for front-end JavaScript code generation
+FSE22,Online Presentations,Software and its engineering,Industry experiences with large-scale refactoring
+FSE22,Online Presentations,Software and its engineering,Industry practice of configuration auto-tuning for cloud applications and services
+FSE22,Online Presentations,Software and its engineering,Investigating and improving log parsing in practice
+FSE22,Online Presentations,Software and its engineering,Towards developer-centered automatic program repair: findings from Bloomberg
+FSE22,Online Presentations,Software and its engineering,Trace analysis based microservice architecture measurement
+FSE22,Debugging/Localization,Software and its engineering,Reflections on software failure analysis
+FSE22,Program Analysis,Software and its engineering,"Language-agnostic dynamic analysis of multilingual code: promises, pitfalls, and prospects"
+FSE22,Online Presentations,Security and privacy/Software and its engineering/Computing methodologies,A study on identifying code author from real development
+FSE22,Online Presentations,General and reference,Paving the way for mature secondary research: the seven types of literature review
+FSE22,Community,Software and its engineering,iTiger: an automatic issue title generation tool
+FSE22,Community,Software and its engineering,CodeMatcher: a tool for large-scale code search based on query semantics matching
+FSE22,Software Evolution,Information systems/Software and its engineering,Context-aware code recommendation in Intellij IDEA
+FSE22,Software Evolution,Software and its engineering,Python-by-contract dataset
+FSE22,Human/Computer Interaction,Applied computing/Theory of computation/Computing methodologies,MultIPAs: applying program transformations to introductory programming assignments for data augmentation
+FSE22,Human/Computer Interaction,Security and privacy,PolyFax: a toolkit for characterizing multi-language software
+FSE22,Software Testing,Software and its engineering,CLIFuzzer: mining grammars for command-line invocations
+FSE22,Software Testing,Information systems/Software and its engineering,RecipeGen++: an automated trigger action programs generator
+FSE22,Empirical,Computing methodologies/Software and its engineering,TAPHSIR: towards AnaPHoric ambiguity detection and ReSolution in requirements
+FSE22,Empirical,Computing methodologies/Software and its engineering,COREQQA: a COmpliance REQuirements understanding using question answering tool
+FSE22,Formal Methods,Software and its engineering,SolSEE: a source-level symbolic execution engine for solidity
+FSE22,Formal Methods,Software and its engineering,MpBP: verifying robustness of neural networks with multi-path bound propagation
+FSE22,Debugging,Software and its engineering,eGEN: an energy-saving modeling language and code generator for location-sensing of mobile apps
+FSE22,Debugging,General and reference/Software and its engineering/Theory of computation,SFLKit: a workbench for statistical fault localization
+FSE22,Mining Software Repositories,Computing methodologies/Software and its engineering,WikiDoMiner: wikipedia domain-specific miner
+FSE22,Mining Software Repositories,Software and its engineering,RegMiner: mining replicable regression dataset from code repositories
+FSE22,Program Analysis,Software and its engineering,FIM: fault injection and mutation for Simulink
+FSE22,Program Analysis,General and reference/Software and its engineering,JSIMutate: understanding performance results through mutations
+FSE22,Security,Computing methodologies/Security and privacy,VulCurator: a vulnerability-fixing commit detector
+FSE22,Security,Computing methodologies/Software and its engineering,KVS: a tool for knowledge-driven vulnerability searching
+FSE22,Security,Computing methodologies/Security and privacy,MANDO-GURU: vulnerability detection for smart contract source code by heterogeneous graph embeddings
+FSE22,Security,Software and its engineering,FastKLEE: faster symbolic execution via reducing redundant bound checking of type-safe pointers
+FSE22,Online Presentations,Software and its engineering,Clang __usercall: towards native support for user defined calling conventions
+FSE22,Online Presentations,Software and its engineering,GFI-bot: automated good first issue recommendation on GitHub
+FSE22,Online Presentations,Software and its engineering,SemCluster: a semi-supervised clustering tool for crowdsourced test reports with deep image understanding
+FSE22,Online Presentations,Security and privacy/Software and its engineering,TSA: a tool to detect and quantify network side-channels
+FSE22,Session 1,Security and privacy/Software and its engineering,Blackbox adversarial attacks and explanations for automatic speech recognition
+FSE22,Session 2,Human-centered computing/Software and its engineering/Information systems,This is your cue! assisting search behaviour with resource style properties
+FSE22,Session 2,Software and its engineering,Infrastructure as code for dynamic deployments
+FSE22,Session 2,Applied computing/Software and its engineering/Information systems,Automated capacity analysis of limitation-aware microservices architectures
+FSE22,Session 3,Software and its engineering,Change-aware mutation testing for evolving systems
+FSE22,Session 3,Software and its engineering,Effective and scalable fault injection using bug reports and generative language models
+FSE22,Session 3,Theory of computation/Software and its engineering,Explaining and debugging pathological program behavior
+FSE22,Session 4,Human-centered computing,Sentiment in software engineering: detection and application
