@@ -1,0 +1,238 @@
+Conference,Subfield,Paper
+CHI22,Theory and algorithms for application domains,Examining AI Methods for Micro-Coaching Dialogs
+CCS22,Computational complexity and cryptography,Updatable Public Key Encryption from DCR: Efficient Constructions With Stronger Security
+CCS22,Semantics and reasoning,Enforcing Fine-grained Constant-time Policies
+CCS22,Computational complexity and cryptography,Secure Parallel Computation on Privately Partitioned Data and Applications
+CCS22,Computational complexity and cryptography,Feta: Efficient Threshold Designated-Verifier Zero-Knowledge Proofs
+CCS22,Computational complexity and cryptography,PSI from Ring-OLE
+CCS22,Computational complexity and cryptography,Sharp: Short Relaxed Range Proofs
+CCS22,Computational complexity and cryptography,GearBox: Optimal-size Shard Committees by Leveraging the Safety-Liveness Dichotomy
+CCS22,Theory and algorithms for application domains,"FenceSitter: Black-box, Content-Agnostic, and Synchronization-Free Enrollment-Phase Attacks on Speaker Recognition Systems"
+CCS22,Computational complexity and cryptography,Improving Line-Point Zero Knowledge: Two Multiplications for the Price of One
+CCS22,Theory and algorithms for application domains,Identifying a Training-Set Attack's Target Using Renormalized Influence Estimation
+CCS22,Computational complexity and cryptography,RedShift: Transparent SNARKs from List Polynomial Commitments
+CCS22,Computational complexity and cryptography/Logic,Proving UNSAT in Zero Knowledge
+CCS22,Formal languages and automata theory,Cerberus: Query-driven Scalable Vulnerability Detection in OAuth Service Provider Implementations
+CCS22,Computational complexity and cryptography,"Batching, Aggregation, and Zero-Knowledge Proofs in Bilinear Accumulators"
+CCS22,Computational complexity and cryptography,AntMan: Interactive Zero-Knowledge Proofs with Sublinear Communication
+CCS22,Computational complexity and cryptography,PACE: Fully Parallelizable BFT from Reproposable Byzantine Agreement
+CCS22,Computational complexity and cryptography,VOProof: Efficient zkSNARKs from Vector Oracle Compilers
+FSE22,Semantics and reasoning,Large-scale analysis of non-termination bugs in real-world OSS projects
+FSE22,Formal languages and automata theory,Input invariants
+FSE22,Logic,Modus: a Datalog dialect for building container images
+FSE22,Semantics and reasoning,Neural termination analysis
+FSE22,Semantics and reasoning,DeJITLeak: eliminating JIT-induced timing side-channel leaks
+FSE22,Semantics and reasoning,Generic sensitivity: customizing context-sensitive pointer analysis for generics
+FSE22,Logic,SymMC: approximate model enumeration and counting using symmetry information for Alloy specifications
+FSE22,Semantics and reasoning,MultIPAs: applying program transformations to introductory programming assignments for data augmentation
+FSE22,Semantics and reasoning,SFLKit: a workbench for statistical fault localization
+FSE22,Computational complexity and cryptography/Formal languages and automata theory/Theory and algorithms for application domains,Explaining and debugging pathological program behavior
+ISCA22,Models of computation,Free atomics: hardware atomic operations without fences
+ISCA22,Models of computation,Mixed-proxy extensions for the NVIDIA PTX memory consistency model: industrial product
+MOD22,Semantics and reasoning,WeTune: Automatic Discovery and Verification of Query Rewrite Rules
+MOD22,Theory and algorithms for application domains,Conjunctive Queries with Comparisons
+MOD22,Theory and algorithms for application domains,Efficient Incrementialization of Correlated Nested Aggregate Queries using Relative Partial Aggregate Indexes (RPAI)
+MOD22,Theory and algorithms for application domains,Causal Feature Selection for Algorithmic Fairness
+MOD22,Design and analysis of algorithms/Models of computation,AutoMon: Automatic Distributed Monitoring for Arbitrary Multivariate Functions
+MOD22,Design and analysis of algorithms,GraphZeppelin: Storage-Friendly Sketching for Connected Components on Dynamic Graph Streams
+MOD22,Theory and algorithms for application domains,Understanding Queries by Conditional Instances
+MOD22,Theory and algorithms for application domains,Reptile: Aggregation-level Explanations for Hierarchical Data
+MOD22,Theory and algorithms for application domains,EVA: A Symbolic Approach to Accelerating Exploratory Video Analytics with Materialized Views
+MOD22,Design and analysis of algorithms,MinMax Sampling: A Near-optimal Global Summary for Aggregation in the Wide Area
+MOD22,Theory and algorithms for application domains,R2T: Instance-optimal Truncation for Differentially Private Query Evaluation with Foreign Keys
+MOD22,Design and analysis of algorithms,A Convex-Programming Approach for Efficient Directed Densest Subgraph Discovery
+MOD22,Theory and algorithms for application domains,Balsa: Learning a Query Optimizer Without Expert Demonstrations
+MOD22,Theory and algorithms for application domains,Selectivity Functions of Range Queries are Learnable
+MOD22,Design and analysis of algorithms,SIEVE: A Space-Efficient Algorithm for Viterbi Decoding
+MOD22,Design and analysis of algorithms,Classifier Construction Under Budget Constraints
+MOD22,Design and analysis of algorithms/Theory and algorithms for application domains,Efficient Evaluation of Arbitrarily-Framed Holistic SQL Aggregates and Window Functions
+MOD22,Design and analysis of algorithms,Tile-based Lightweight Integer Compression in GPU
+MOD22,Theory and algorithms for application domains,Litmus: Towards a Practical Database Management System with Verifiable ACID Properties and Transaction Correctness
+MOD22,Theory and algorithms for application domains,SAM: Database Generation from Query Workloads with Supervised Autoregressive Models
+MOD22,Theory and algorithms for application domains,HypeR: Hypothetical Reasoning With What-If and How-To Queries Using a Probabilistic Causal Approach
+MOD22,Design and analysis of algorithms,Adaptive Threshold Sampling
+MOD22,Design and analysis of algorithms,CompressDB: Enabling Efficient Compressed Data Direct Processing for Various Databases
+MOD22,Design and analysis of algorithms,Proteus: A Self-Designing Range Filter
+MOD22,Design and analysis of algorithms/Theory and algorithms for application domains,Warper: Efficiently Adapting Learned Cardinality Estimators to Data and Workload Drifts
+MOD22,Design and analysis of algorithms,Relative Subboundedness of Contraction Hierarchy and Hierarchical 2-Hop Index in Dynamic Road Networks
+MOD22,Theory and algorithms for application domains,BatchHL: Answering Distance Queries on Batch-Dynamic Networks at Scale
+MOD22,Design and analysis of algorithms,Fast Maximal Clique Enumeration on Uncertain Graphs: A Pivot-based Approach
+MOD22,Design and analysis of algorithms,Efficient Personalized PageRank Computation: A Spanning Forests Sampling Based Approach
+MOD22,Theory and algorithms for application domains,Computing Complex Temporal Join Queries Efficiently
+MOD22,"Randomness, geometry and discrete structures",SLAM: Efficient Sweep Line Algorithms for Kernel Density Visualization
+MOD22,"Randomness, geometry and discrete structures/Theory and algorithms for application domains",Faster and Better Solution to Embed Lp Metrics by Tree Metrics
+SAC22,Design and analysis of algorithms,Residual size is not enough for anomaly detection: improving detection performance using residual similarity in multivariate time series
+SAC22,Models of computation,Porting a benchmark with a classic workload to blockchain: TPC-C on hyperledger fabric
+SAC22,Theory and algorithms for application domains,Unifying categorical representation of multi-model data
+SAC22,Design and analysis of algorithms,K-core decomposition on super large graphs with limited resources
+SAC22,Design and analysis of algorithms,Sparse tensor storage by tensor unfolding
+SAC22,Design and analysis of algorithms,Propagation measure on circulation graphs for tourism behavior analysis
+SAC22,Theory and algorithms for application domains,Learning adaptive control in dynamic environments using reproducing kernel priors with bayesian policy gradients
+SAC22,Design and analysis of algorithms,cuPSO: GPU parallelization for particle swarm optimization algorithms
+SAC22,Theory and algorithms for application domains,Ensuring privacy in the application of the Brazilian general data protection law (LGPD)
+SAC22,Formal languages and automata theory/Logic,Synchronous semantics of multi-mode multi-periodic systems
+SAC22,Design and analysis of algorithms,HYGAR: a hybrid genetic algorithm for software architecture recovery
+SAC22,Semantics and reasoning,Towards effective preservation of robust safety properties
+SAC22,Semantics and reasoning/Logic,Summarization of branching loops
+SAC22,Semantics and reasoning,A lightweight approach for sound call graph approximation
+STOC22,Computational complexity and cryptography,"Nonlocal games, compression theorems, and the arithmetical hierarchy"
+STOC22,Computational complexity and cryptography/Models of computation,An area law for 2d frustration-free spin systems
+STOC22,Models of computation,Dequantizing the Quantum singular value transformation: hardness and applications to Quantum chemistry and the Quantum PCP conjecture
+STOC22,Models of computation,Near-optimal Quantum algorithms for multivariate mean estimation
+STOC22,Computational complexity and cryptography/Models of computation,Distributed Quantum inner product estimation
+STOC22,"Randomness, geometry and discrete structures",The power of two choices in graphical allocation
+STOC22,"Randomness, geometry and discrete structures",Expanders via local edge flips in quasilinear time
+STOC22,Design and analysis of algorithms,(Fractional) online stochastic matching via fine-grained offline statistics
+STOC22,Design and analysis of algorithms,The power of multiple choices in online stochastic matching
+STOC22,Design and analysis of algorithms,Online edge coloring via tree recurrences and correlation decay
+STOC22,Design and analysis of algorithms,The shortest even cycle problem is tractable
+STOC22,Design and analysis of algorithms,Breaking the nk barrier for minimum k-cut on simple graphs
+STOC22,Design and analysis of algorithms,Edge connectivity augmentation in near-linear time
+STOC22,Design and analysis of algorithms,Optimal vertex connectivity oracles
+STOC22,"Design and analysis of algorithms/Randomness, geometry and discrete structures",Deterministic massively parallel connectivity
+STOC22,"Randomness, geometry and discrete structures",Hypercontractivity on high dimensional expanders
+STOC22,"Randomness, geometry and discrete structures",Approximate polymorphisms
+STOC22,Theory and algorithms for application domains,Learning low-degree functions from a logarithmic number of random queries
+STOC22,Design and analysis of algorithms,New streaming algorithms for high dimensional EMD and MST
+STOC22,Design and analysis of algorithms,Brooks’ theorem in graph streams: a single-pass semi-streaming algorithm for ∆-coloring
+STOC22,Design and analysis of algorithms,Deterministic (1+𝜀)-approximate maximum matching with poly(1/𝜀) passes in the semi-streaming model and beyond
+STOC22,Design and analysis of algorithms,Deterministic graph coloring in the streaming model
+STOC22,Design and analysis of algorithms/Computational complexity and cryptography,Linear space streaming lower bounds for approximating CSPs
+STOC22,Design and analysis of algorithms,A PTAS for unsplittable flow on a path
+STOC22,Design and analysis of algorithms,A subpolynomial approximation algorithm for graph crossing number in low-degree graphs
+STOC22,Design and analysis of algorithms,Improved approximation guarantees for shortest superstrings using cycle classification by overlap to length ratios
+STOC22,Design and analysis of algorithms,Flow time scheduling and prefix Beck-Fiala
+STOC22,Design and analysis of algorithms,Bypassing the surface embedding: approximation schemes for network design in minor-free graphs
+STOC22,"Randomness, geometry and discrete structures/Models of computation",Asymptotically good Quantum and locally testable classical LDPC codes
+STOC22,"Randomness, geometry and discrete structures/Computational complexity and cryptography","Ideals, determinants, and straightening: proving and using lower bounds for polynomial ideals"
+STOC22,Computational complexity and cryptography,"Fast, algebraic multivariate multipoint evaluation in small characteristic and applications"
+STOC22,Computational complexity and cryptography,Set-multilinear and non-commutative formula lower bounds for iterated matrix multiplication
+STOC22,"Randomness, geometry and discrete structures",Combinatorics via closed orbits: number theoretic Ramanujan graphs are not unique neighbor expanders
+STOC22,Computational complexity and cryptography,On the complexity of CSP-based ideal membership problems
+STOC22,Design and analysis of algorithms,Near-optimal distributed degree+1 coloring
+STOC22,Models of computation,Distributed ∆-coloring plays hide-and-seek
+STOC22,Design and analysis of algorithms,Undirected (1+𝜀)-shortest paths via minor-aggregates: near-optimal deterministic parallel and distributed algorithms
+STOC22,Design and analysis of algorithms,Improved communication complexity of fault-tolerant consensus
+STOC22,Design and analysis of algorithms/Models of computation,Byzantine agreement in polynomial time with near-optimal resilience
+STOC22,Design and analysis of algorithms,No self-concordant barrier interior point method is strongly polynomial
+STOC22,Design and analysis of algorithms,Improved iteration complexities for overconstrained p-norm regression
+STOC22,Design and analysis of algorithms,Faster maxflow via improved dynamic spectral vertex sparsifiers
+STOC22,"Randomness, geometry and discrete structures/Design and analysis of algorithms",Sparsified block elimination for directed laplacians
+STOC22,"Randomness, geometry and discrete structures",Matrix anti-concentration inequalities with applications
+STOC22,Computational complexity and cryptography,Circuits resilient to short-circuit errors
+STOC22,"Randomness, geometry and discrete structures",Explicit binary tree codes with sub-logarithmic size alphabet
+STOC22,Computational complexity and cryptography,Interactive error correcting codes over binary erasure channels resilient to > ½ adversarial corruption
+STOC22,Computational complexity and cryptography/Theory and algorithms for application domains/Design and analysis of algorithms,The query complexity of certification
+STOC22,"Randomness, geometry and discrete structures/Design and analysis of algorithms/Computational complexity and cryptography",Matrix discrepancy from Quantum communication
+STOC22,"Randomness, geometry and discrete structures",A new framework for matrix discrepancy: partial coloring bounds via mirror descent
+STOC22,"Randomness, geometry and discrete structures/Design and analysis of algorithms/Theory and algorithms for application domains",Uniform approximations for Randomized Hadamard Transforms with applications
+STOC22,"Randomness, geometry and discrete structures",Testing thresholds for high-dimensional sparse random geometric graphs
+STOC22,Computational complexity and cryptography,Algorithms and certificates for Boolean CSP refutation: smoothed is no harder than random
+STOC22,Computational complexity and cryptography,On the hardness of dominant strategy mechanism design
+STOC22,Theory and algorithms for application domains,Computing simple mechanisms: Lift-and-round over marginal reduced forms
+STOC22,Design and analysis of algorithms,Approximately efficient bilateral trade
+STOC22,Theory and algorithms for application domains,Pricing ordered items
+STOC22,Theory and algorithms for application domains,Near-optimal no-regret learning for correlated equilibria in multi-player general-sum games
+STOC22,Computational complexity and cryptography,Hamiltonian complexity in the thermodynamic limit
+STOC22,Computational complexity and cryptography,Computational complexity of the ground state energy density problem
+STOC22,"Randomness, geometry and discrete structures/Models of computation",Optimizing strongly interacting fermionic Hamiltonians
+STOC22,Computational complexity and cryptography,Public-key Quantum money with a classical bank
+STOC22,Computational complexity and cryptography,Quantum garbled circuits
+STOC22,Theory and algorithms for application domains/Design and analysis of algorithms,Reproducibility in learning
+STOC22,Theory and algorithms for application domains,Kalman filtering with adversarial corruptions
+STOC22,Theory and algorithms for application domains,Fast rates for nonparametric online learning: from realizability to learning in games
+STOC22,"Randomness, geometry and discrete structures",Binary perceptron: efficient algorithms can find solutions in a rare well-connected cluster
+STOC22,Theory and algorithms for application domains,Learning general halfspaces with general Massart noise under the Gaussian distribution
+STOC22,Design and analysis of algorithms,Fast FPT-approximation of branchwidth
+STOC22,Design and analysis of algorithms,Lossy planarization: a constant-factor approximate kernelization for planar vertex deletion
+STOC22,Design and analysis of algorithms,Fixed-parameter tractability of graph isomorphism in graphs with an excluded minor
+STOC22,Logic,Twin-width IV: ordered graphs and matrices
+STOC22,Design and analysis of algorithms,Directed flow-augmentation
+STOC22,Computational complexity and cryptography,The optimal error resilience of interactive communication over binary channels
+STOC22,"Computational complexity and cryptography/Randomness, geometry and discrete structures",The exact complexity of pseudorandom functions and the black-box natural proof barrier for bootstrapping results in computational complexity
+STOC22,Computational complexity and cryptography,On approximability of satisfiable k-CSPs: I
+STOC22,Computational complexity and cryptography/Design and analysis of algorithms,A characterization of approximability for biased CSPs
+STOC22,Computational complexity and cryptography,Parallel repetition for all 3-player games over binary alphabet
+STOC22,Computational complexity and cryptography/Theory and algorithms for application domains,Constant inapproximability for PPA
+STOC22,Computational complexity and cryptography,Complexity classification of counting graph homomorphisms modulo a prime number
+STOC22,Design and analysis of algorithms,Towards optimal lower bounds for k-median and k-means coresets
+STOC22,"Design and analysis of algorithms/Randomness, geometry and discrete structures","Deterministic, near-linear 𝜀-approximation algorithm for geometric bipartite matching"
+STOC22,"Design and analysis of algorithms/Randomness, geometry and discrete structures",Locality-sensitive orderings and applications to reliable spanners
+STOC22,Design and analysis of algorithms,"Nearly optimal vertex fault-tolerant spanners in optimal time: sequential, distributed, and parallel"
+STOC22,Design and analysis of algorithms,Maintaining exact distances under multiple edge failures
+STOC22,Design and analysis of algorithms,Almost-optimal sublinear-time edit distance in the low distance regime
+STOC22,Design and analysis of algorithms,Edge sampling and graph parameter estimation via vertex neighborhood accesses
+STOC22,Theory and algorithms for application domains/Design and analysis of algorithms,Low-rank approximation with 1/𝜖1/3 matrix-vector products
+STOC22,Design and analysis of algorithms,Sublinear time spectral density estimation
+STOC22,Design and analysis of algorithms/Models of computation,Memory bounds for the experts problem
+STOC22,Logic,A strong version of Cobham’s theorem
+STOC22,Computational complexity and cryptography,3.1n − o(n) circuit lower bounds for explicit functions
+STOC22,Computational complexity and cryptography,The approximate degree of DNF and CNF formulas
+STOC22,Computational complexity and cryptography,Verifying the unseen: interactive proofs for label-invariant distribution properties
+STOC22,"Computational complexity and cryptography/Design and analysis of algorithms/Randomness, geometry and discrete structures",Randomized communication and implicit graph representations
+STOC22,Design and analysis of algorithms/Theory and algorithms for application domains,Robustly learning mixtures of k arbitrary Gaussians
+STOC22,Theory and algorithms for application domains,Clustering mixtures with almost optimal separation in polynomial time
+STOC22,Theory and algorithms for application domains,Clustering mixture models in almost-linear time via list-decodable mean estimation
+STOC22,Design and analysis of algorithms,List-decodable covariance estimation
+STOC22,Design and analysis of algorithms,On the optimal time/space tradeoff for hash tables
+STOC22,Design and analysis of algorithms,An extendable data structure for incremental stable perfect hashing
+STOC22,"Design and analysis of algorithms/Randomness, geometry and discrete structures",Almost-linear ε-emulators for planar graphs
+STOC22,Design and analysis of algorithms,"Hop-constrained expander decompositions, oblivious routing, and distributed universal optimality"
+STOC22,Design and analysis of algorithms,Optimal oblivious reconfigurable networks
+STOC22,Computational complexity and cryptography,Proving as fast as computing: succinct arguments with constant prover overhead
+STOC22,"Randomness, geometry and discrete structures",Rate one-third non-malleable codes
+STOC22,Computational complexity and cryptography,Deniable encryption in a Quantum world
+STOC22,Theory and algorithms for application domains/Design and analysis of algorithms,Efficient mean estimation with pure differential privacy via a sum-of-squares exponential mechanism
+STOC22,"Design and analysis of algorithms/Randomness, geometry and discrete structures",Entropic independence: optimal mixing of down-up random walks
+STOC22,Design and analysis of algorithms,Simple parallel algorithms for single-site dynamics
+STOC22,"Randomness, geometry and discrete structures",Low-temperature Ising dynamics with random initializations
+STOC22,Design and analysis of algorithms,Computational thresholds for the fixed-magnetization Ising model
+STOC22,"Design and analysis of algorithms/Randomness, geometry and discrete structures",Approximate counting and sampling via local central limit theorems
+STOC22,Design and analysis of algorithms,"Hardness of approximation in p via short cycle removal: cycle detection, distance oracles, and beyond"
+STOC22,Design and analysis of algorithms,"Hardness for triangle problems under even more believable hypotheses: reductions from real APSP, real 3SUM, and OV"
+STOC22,Design and analysis of algorithms,Tight dynamic problem lower bounds from generalized BMM and OMv
+STOC22,Design and analysis of algorithms,Faster min-plus product for monotone instances
+STOC22,Computational complexity and cryptography,Counting small induced subgraphs with hereditary properties
+STOC22,"Computational complexity and cryptography/Randomness, geometry and discrete structures",Pseudodeterminism: promises and lowerbounds
+STOC22,Computational complexity and cryptography/Design and analysis of algorithms,Worst-case to average-case reductions via additive combinatorics
+STOC22,"Randomness, geometry and discrete structures/Computational complexity and cryptography",Robustness of average-case meta-complexity via pseudorandomness
+STOC22,"Randomness, geometry and discrete structures",Extractors for sum of two sources
+STOC22,Design and analysis of algorithms,Breaching the 2-approximation barrier for the forest augmentation problem
+STOC22,Design and analysis of algorithms,An improved approximation algorithm for the minimum k-edge connected multi-subgraph problem
+STOC22,Design and analysis of algorithms,"Improved approximations for Euclidean k-means and k-median, via nested quasi-independent sets"
+STOC22,Theory and algorithms for application domains,"Explainable k-means: don’t be greedy, plant bigger trees!"
+STOC22,Design and analysis of algorithms,Subquadratic dynamic path reporting in directed graphs against an adaptive adversary
+STOC22,Design and analysis of algorithms/Computational complexity and cryptography,Dynamic suffix array with polylogarithmic queries and updates
+STOC22,Design and analysis of algorithms,Dynamic algorithms against an adaptive adversary: generic constructions and lower bounds
+STOC22,Design and analysis of algorithms,On the complexity of dynamic submodular maximization
+ICMR22,Design and analysis of algorithms,Adaptive Temporal Grouping for Black-box Adversarial Attacks on Videos
+KDD22,Design and analysis of algorithms,Efficient Approximate Algorithms for Empirical Variance with Hashed Block Sampling
+KDD22,Design and analysis of algorithms,Scalable Differentially Private Clustering via Hierarchically Separated Trees
+KDD22,Design and analysis of algorithms,Noisy Interactive Graph Search
+KDD22,Theory and algorithms for application domains,Fair Labeled Clustering
+KDD22,Formal languages and automata theory,AdaAX: Explaining Recurrent Neural Networks by Learning Automata with Adaptive States
+KDD22,Logic,LinE: Logical Query Reasoning over Hierarchical Knowledge Graphs
+KDD22,Design and analysis of algorithms,HyperLogLogLog: Cardinality Estimation With One Log More
+KDD22,Theory and algorithms for application domains,PAC-Wrap: Semi-Supervised PAC Anomaly Detection
+KDD22,Models of computation,Source Localization of Graph Diffusion via Variational Autoencoders for Graph Inverse Problems
+KDD22,Design and analysis of algorithms,Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation
+KDD22,Design and analysis of algorithms,Minimizing Congestion for Balanced Dominators
+KDD22,Theory and algorithms for application domains,FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy
+KDD22,Design and analysis of algorithms,Neural Bandit with Arm Group Graph
+KDD22,Theory and algorithms for application domains,Demystify Hyperparameters for Stochastic Optimization with Transferable Representations
+KDD22,Theory and algorithms for application domains,GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks
+KDD22,Design and analysis of algorithms,Clustering with Fair-Center Representation: Parameterized Approximation Algorithms and Heuristics
+KDD22,Design and analysis of algorithms,Disentangled Dynamic Heterogeneous Graph Learning for Opioid Overdose Prediction
+KDD22,Theory and algorithms for application domains,Domain Adaptation with Dynamic Open-Set Targets
+KDD22,"Randomness, geometry and discrete structures",Ultrahyperbolic Knowledge Graph Embeddings
+KDD22,Theory and algorithms for application domains,Accurate Node Feature Estimation with Structured Variational Graph Autoencoder
+KDD22,Theory and algorithms for application domains,Intrinsic-Motivated Sensor Management: Exploring with Physical Surprise
+KDD22,Design and analysis of algorithms,Instant Graph Neural Networks for Dynamic Graphs
+KDD22,Theory and algorithms for application domains/Design and analysis of algorithms,A Nearly-Linear Time Algorithm for Minimizing Risk of Conflict in Social Networks
+KDD22,Theory and algorithms for application domains/Design and analysis of algorithms,Real-Time Rideshare Driver Supply Values Using Online Reinforcement Learning
+KDD22,Theory and algorithms for application domains,Arbitrary Distribution Modeling with Censorship in Real-Time Bidding Advertising
+KDD22,Theory and algorithms for application domains,Task-optimized User Clustering based on Mobile App Usage for Cold-start Recommendations
+KDD22,Computational complexity and cryptography,Retrieval-Based Gradient Boosting Decision Trees for Disease Risk Assessment
+KDD22,Design and analysis of algorithms,Graph Neural Network Training and Data Tiering
+KDD22,Theory and algorithms for application domains,Multi-objective Optimization of Notifications Using Offline Reinforcement Learning
+KDD22,Theory and algorithms for application domains,CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences
