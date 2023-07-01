@@ -1,0 +1,56 @@
+Conference,Subfield,Paper
+CHI22,"Communication hardware, interfaces and storage",Light-In-Light-Out (Li-Lo) Displays: Harvesting and Manipulating Light to Provide Novel Forms of Communication
+CHI22,Emerging technologies,STRAIDE: A Research Platform for Shape-Changing Spatial Displays based on Actuated Strings
+CHI22,"Communication hardware, interfaces and storage",Enabling Tangible Interaction on Non-touch Displays with Optical Mouse Sensor and Visible Light Communication
+CHI22,Electronic design automation,Embr: A Creative Framework for Hand Embroidered Liquid Crystal Textile Displays
+CHI22,"Communication hardware, interfaces and storage/Printed circuit boards",FAR: End-to-End Vibrotactile Distributed System Designed to Facilitate Affect Regulation in Children Diagnosed with Autism Spectrum Disorder Through Slow Breathing
+CHI22,"Communication hardware, interfaces and storage",ARGONAUT: An Inclusive Design Process for Wearable Health Monitoring Systems
+CHI22,"Communication hardware, interfaces and storage",Eyes-Off Your Fingers: Gradual Surface Haptic Feedback Improves Eyes-Free Touchscreen Interaction
+CHI22,"Communication hardware, interfaces and storage",Haptic Fidelity Framework: Defining the Factors of Realistic Haptic Feedback for Virtual Reality
+CHI22,"Communication hardware, interfaces and storage",SpinOcchio: Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller
+CHI22,"Communication hardware, interfaces and storage",TapType: Ten-finger text entry on everyday surfaces via Bayesian inference
+CHI22,Emerging technologies,(Dis)Appearables: A Concept and Method for Actuated Tangible UIs to Appear and Disappear based on Stages
+CHI22,Emerging technologies,Navigating Imaginaries of DNA-Based Digital Data Storage
+CCS22,Integrated circuits,HammerScope: Observing DRAM Power Consumption Using Rowhammer
+CCS22,Emerging technologies,Securing Reset Operations in NISQ Quantum Computers
+CCS22,"Communication hardware, interfaces and storage",TickTock: Detecting Microphone Status in Laptops Leveraging Electromagnetic Leakage of Clock Signals
+ISCA22,Integrated circuits,PPMLAC: high performance chipset architecture for secure multi-party computation
+ISCA22,Emerging technologies,INSPIRE: in-storage private information retrieval via protocol and architecture co-design
+ISCA22,Emerging technologies,DIMMining: pruning-efficient and parallel graph mining on near-memory-computing
+ISCA22,Emerging technologies,NDMiner: accelerating graph pattern mining using near data processing
+ISCA22,Emerging technologies,To PIM or not for emerging general purpose processing in DDR memory systems
+ISCA22,Integrated circuits,MeNDA: a near-memory multi-way merge solution for sparse transposition and dataflows
+ISCA22,Integrated circuits,FFCCD: fence-free crash-consistent concurrent defragmentation for persistent memory
+ISCA22,Emerging technologies/Integrated circuits,ASAP: architecture support for asynchronous persistence
+ISCA22,"Communication hardware, interfaces and storage",Sibyl: adaptive and extensible data placement in hybrid storage systems using online reinforcement learning
+ISCA22,Emerging technologies,2QAN: a quantum compiler for 2-local qubit hamiltonian simulation algorithms
+ISCA22,Emerging technologies,XQsim: modeling cross-technology control processors for 10+K qubit quantum computers
+ISCA22,Electronic design automation,X-cache: a modular architecture for domain-specific caches
+ISCA22,Emerging technologies/Very large scale integration design,uBrain: a unary brain computer interface
+ISCA22,Emerging technologies,Managing reliability skew in DNA storage
+ISCA22,Very large scale integration design,RACOD: algorithm/hardware co-design for mobile robot path planning
+ISCA22,Emerging technologies,EyeCoD: eye tracking system acceleration via flatcam-based algorithm & accelerator co-design
+ISCA22,Emerging technologies,SeGraM: a universal hardware accelerator for genomic sequence-to-graph and sequence-to-sequence mapping
+ISCA22,Integrated circuits,ACT: designing sustainable computer systems with an architectural carbon modeling tool
+ISCA22,"Communication hardware, interfaces and storage",HiveMind: a hardware-software system stack for serverless edge swarms
+ISCA22,Emerging technologies/Very large scale integration design,"FlexiCores: low footprint, high yield, field reprogrammable flexible microprocessors"
+ISCA22,Electronic design automation/Integrated circuits,SNS's not a synthesizer: a deep-learning-based synthesis predictor
+ISCA22,Emerging technologies,AMOS: enabling <u>a</u>utomatic <u>m</u>apping for tensor computations <u>o</u>n <u>s</u>patial accelerators with hardware abstraction
+ISCA22,Very large scale integration design,Accelerating attention through gradient-based learned runtime pruning
+ISCA22,"Communication hardware, interfaces and storage",SmartSAGE: training large-scale graph neural networks using in-storage processing architectures
+ISCA22,Integrated circuits,The Mozart reuse exposed dataflow processor for AI and beyond: industrial product
+ISCA22,Hardware validation/Power and energy/Robustness,AI accelerator on IBM Telum processor: industrial product
+ISCA22,Integrated circuits,Fidas: fortifying the cloud via comprehensive FPGA-based offloading for intrusion detection: industrial product
+MOD22,Integrated circuits,Halo: A Hybrid PMem-DRAM Persistent Hash Index with Fast Recovery
+MOD22,"Communication hardware, interfaces and storage",Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines
+SAC22,Robustness,CSP specification and verification of relay-based railway interlocking systems
+SAC22,Integrated circuits,On enduring more data through enabling page rewrite capability on multi-level-cell flash memory
+SAC22,Emerging technologies/Integrated circuits,RAM: exploiting restrained and approximate management for enabling neural network training on NVM-based systems
+SAC22,"Communication hardware, interfaces and storage",SureSpace: orchestrating beacons and witnesses to certify device location
+SAC22,Power and energy,Simulating execution time and power consumption of real-time tasks on embedded platforms
+SAC22,"Communication hardware, interfaces and storage",On hybrid front-haul for 5G NR mmWave indoor coverage
+KDD22,Emerging technologies,Core-periphery Partitioning and Quantum Annealing
+KDD22,Power and energy,Intrinsic-Motivated Sensor Management: Exploring with Physical Surprise
+KDD22,Very large scale integration design,Generalizable Floorplanner through Corner Block List Representation and Hypergraph Embedding
+KDD22,Robustness,Large-Scale Acoustic Automobile Fault Detection: Diagnosing Engines Through Sound
+KDD22,Power and energy,Towards Reliable Detection of Dielectric Hotspots in Thermal Images of the Underground Distribution Network
