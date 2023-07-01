@@ -1,0 +1,619 @@
+Conference,Subfield,Paper
+CHI22,Accessibility/Human computer interaction (HCI),“I Don’t Want People to Look At Me Differently”: Designing User-Defined Above-the-Neck Gestures for People with Upper Body Motor Impairments
+CHI22,Accessibility,Understanding Gesture Input Articulation with Upper-Body Wearables for Users with Upper-Body Motor Impairments
+CHI22,Human computer interaction (HCI),Understanding How People with Limited Mobility Use Multi-Modal Input
+CHI22,Human computer interaction (HCI),Stylette: Styling the Web with Natural Language
+CHI22,Human computer interaction (HCI),VocabEncounter: NMT-powered Vocabulary Learning by Presenting Computer-Generated Usages of Foreign Words into Users’ Daily Lives
+CHI22,Human computer interaction (HCI),Affinder: Expressing Concepts of Situations that Afford Activities using Context-Detectors
+CHI22,Accessibility/Human computer interaction (HCI)/Interaction design,Two Heads Are Better Than One: A Dimension Space for Unifying Human and Artificial Intelligence in Shared Control
+CHI22,Human computer interaction (HCI),Supporting Serendipitous Discovery and Balanced Analysis of Online Product Reviews with Interaction-Driven Metrics and Bias-Mitigating Suggestions
+CHI22,Human computer interaction (HCI),Shared Interest: Measuring Human-AI Alignment to Identify Recurring Patterns in Model Behavior
+CHI22,Interaction design/Human computer interaction (HCI),Q-Chef: The impact of surprise-eliciting systems on food-related decision-making
+CHI22,Ubiquitous and mobile computing,EmoGlass: an End-to-End AI-Enabled Wearable Platform for Enhancing Self-Awareness of Emotional Health
+CHI22,Human computer interaction (HCI),Algorithmic Management Reimagined For Workers and By Workers: Centering Worker Well-Being in Gig Work
+CHI22,Human computer interaction (HCI),Tech Help Desk: Support for Local Entrepreneurs Addressing the Long Tail of Computing Challenges
+CHI22,Collaborative and social computing/Human computer interaction (HCI),Designing for the Bittersweet: Improving Sensitive Experiences with Recommender Systems
+CHI22,Human computer interaction (HCI),Immersive Speculative Enactments: Bringing Future Scenarios and Technology to Life Using Virtual Reality
+CHI22,Collaborative and social computing/Human computer interaction (HCI),“I Don’t Even Remember What I Read”: How Design Influences Dissociation on Social Media
+CHI22,Human computer interaction (HCI),Community Dynamics in Technospiritual Interventions: Lessons Learned from a Church-based mHealth Pilot
+CHI22,Collaborative and social computing/Human computer interaction (HCI),“I Will Not Drink With You Today”: A Topic-Guided Thematic Analysis of Addiction Recovery on Reddit
+CHI22,Human computer interaction (HCI),User Perspectives and Ethical Experiences of Apps for Depression: A Qualitative Analysis of User Reviews
+CHI22,Visualization/Human computer interaction (HCI),Mood Worlds: A Virtual Environment for Autonomous Emotional Expression
+CHI22,Visualization/Human computer interaction (HCI)/Ubiquitous and mobile computing,AvatAR: An Immersive Analysis Environment for Human Motion Data Combining Interactive 3D Avatars and Trajectories
+CHI22,Visualization/Human computer interaction (HCI),ReLive: Bridging In-Situ and Ex-Situ Visual Analytics for Analyzing Mixed Reality User Studies
+CHI22,Visualization/Human computer interaction (HCI),A Design Space For Data Visualisation Transformations Between 2D And 3D In Mixed-Reality Environments
+CHI22,Visualization/Human computer interaction (HCI),HAExplorer: Understanding Interdependent Biomechanical Motions with Interactive Helical Axes
+CHI22,Ubiquitous and mobile computing/Visualization,Preferences and Effectiveness of Sleep Data Visualizations for Smartwatches and Fitness Bands
+CHI22,Visualization,"Negative Emotions, Positive Outcomes? Exploring the Communication of Negativity in Serious Data Stories"
+CHI22,Visualization/Human computer interaction (HCI),How do you Converse with an Analytical Chatbot? Revisiting Gricean Maxims for Designing Analytical Conversational Behavior
+CHI22,Visualization,Do You See What You Mean? Using Predictive Visualizations to Reduce Optimism in Duration Estimates
+CHI22,Collaborative and social computing,Understanding Privacy Switching Behaviour on Twitter
+CHI22,Collaborative and social computing,“A Reasonable Thing to Ask For”: Towards a Unified Voice in Privacy Collective Action
+CHI22,Human computer interaction (HCI),“It Basically Started Using Me:” An Observational Study of Password Manager Usage
+CHI22,Human computer interaction (HCI),Automating Contextual Privacy Policies: Design and Evaluation of a Production Tool for Digital Consumer Privacy Awareness
+CHI22,Ubiquitous and mobile computing/Human computer interaction (HCI),Predicting and Explaining Mobile UI Tappability with Vision Modeling and Saliency Analysis
+CHI22,Human computer interaction (HCI),BIGexplore: Bayesian Information Gain Framework for Information Exploration
+CHI22,Human computer interaction (HCI),Speeding up Inference with User Simulators through Policy Modulation
+CHI22,Human computer interaction (HCI),A Model Predictive Control Approach for Reach Redirection in Virtual Reality
+CHI22,Human computer interaction (HCI),Quantifying Proactive and Reactive Button Input
+CHI22,Human computer interaction (HCI),Have We Taken On Too Much?: A Critical Review of the Sustainable HCI Landscape
+CHI22,Ubiquitous and mobile computing,COVID Student Study: A Year in the Life of College Students during the COVID-19 Pandemic Through the Lens of Mobile Phone Sensing
+CHI22,Human computer interaction (HCI),Towards Conviviality in NavigatingHealth Information on Social Media
+CHI22,Human computer interaction (HCI),Exploring Experiences of Self-Directed Care Budgets: Design Implications for Socio-Technical Interventions
+CHI22,Human computer interaction (HCI),“A Second Voice”: Investigating Opportunities and Challenges for Interactive Voice Assistants to Support Home Health Aides
+CHI22,Human computer interaction (HCI)/Interaction design,Logic Bonbon: Exploring Food as Computational Artifact
+CHI22,Human computer interaction (HCI),Slabforge: Design Software for Slab-Based Ceramics
+CHI22,Interaction design,”It Puts Life into My Creations”: Understanding Fluid Fiber as a Media for Expressive Display
+CHI22,Human computer interaction (HCI),‘It Is Not Always Discovery Time’: Four Pragmatic Approaches in Designing AI Systems
+CHI22,Human computer interaction (HCI),Designing Fair AI in Human Resource Management: Understanding Tensions Surrounding Algorithmic Evaluation and Envisioning Stakeholder-Centered Solutions
+CHI22,Human computer interaction (HCI),"Improving Human-AI Partnerships in Child Welfare: Understanding Worker Practices, Challenges, and Desires for Algorithmic Decision Support"
+CHI22,Human computer interaction (HCI),Telling Stories from Computational Notebooks: AI-Assisted Presentation Slides Creation for Presenting Data Science Work
+CHI22,Collaborative and social computing,Human-AI Collaboration via Conditional Delegation: A Case Study of Content Moderation
+CHI22,Human computer interaction (HCI),Unpacking Practitioners’ Attitudes Towards Codifications of Design Knowledge for Voice User Interfaces
+CHI22,Human computer interaction (HCI),Designing for Speech Practice Systems: How Do User-Controlled Voice Manipulation and Model Speakers Impact Self-Perceptions of Voice?
+CHI22,Human computer interaction (HCI),Great Chain of Agents: The Role of Metaphorical Representation of Agents in Conversational Crowdsourcing
+CHI22,Interaction design,“Rewind to the Jiggling Meat Part”: Understanding Voice Control of Instructional Videos in Everyday Tasks
+CHI22,Human computer interaction (HCI),“A Voice that Suits the Situation”: Understanding the Needs and Challenges for Supporting End-User Voice Customization
+CHI22,Human computer interaction (HCI),Monitoring Screen Time or Redesigning It?: Two Approaches to Supporting Intentional Social Media Use
+CHI22,Human computer interaction (HCI),Squeezy-Feely: Investigating Lateral Thumb-Index Pinching as an Input Modality
+CHI22,Human computer interaction (HCI),The Digital Landscape of Nudging: A Systematic Literature Review of Empirical Research on Digital Nudges
+CHI22,Human computer interaction (HCI),Design is Worth a Thousand Words: The Effect of Digital Interaction Design on Picture-Prompted Reminiscence
+CHI22,Ubiquitous and mobile computing/Human computer interaction (HCI),Understanding Multi-Device Usage Patterns: Physical Device Configurations and Fragmented Workflows
+CHI22,Human computer interaction (HCI),ScalAR: Authoring Semantically Adaptive Augmented Reality Experiences in Virtual Reality
+CHI22,Interaction design,An Exploratory Study of Sharing Strategic Programming Knowledge
+CHI22,Human computer interaction (HCI),Learning to Denoise Raw Mobile UI Layouts for Improving Datasets at Scale
+CHI22,Human computer interaction (HCI),Crystalline: Lowering the Cost for Developers to Collect and Organize Information for Decision Making
+CHI22,Collaborative and social computing,Understanding How Programmers Can Use Annotations on Documentation
+CHI22,Collaborative and social computing,How to Save Lives with Microblogs? Lessons From the Usage of Weibo for Requests for Medical Assistance During COVID-19
+CHI22,Collaborative and social computing,How Much Do Platform Workers Value Reviews? An Experimental Method
+CHI22,Human computer interaction (HCI),Studying How Digital Luthiers Choose Their Tools
+CHI22,Human computer interaction (HCI),A Personalized Visual Aid for Selections of Appearance Building Products with Long-term Effects
+CHI22,Human computer interaction (HCI),Janus Screen: Screen with Switchable Projection Surfaces Using Wire Grid Polarizer
+CHI22,Human computer interaction (HCI),PneuMesh: Pneumatic-driven Truss-based Shape Changing System
+CHI22,Human computer interaction (HCI),"ElectriPop: Low-Cost, Shape-Changing Displays Using Electrostatically Inflated Mylar Sheets"
+CHI22,Human computer interaction (HCI),Electrical Head Actuation: Enabling Interactive Systems to Directly Manipulate Head Orientation
+CHI22,Visualization/Human computer interaction (HCI),STRAIDE: A Research Platform for Shape-Changing Spatial Displays based on Actuated Strings
+CHI22,Ubiquitous and mobile computing/Human computer interaction (HCI),Public Views on Digital COVID-19 Certificates: a Mixed Methods User Study
+CHI22,Ubiquitous and mobile computing/Human computer interaction (HCI),Supporting the Contact Tracing Process with WiFi Location Data: Opportunities and Challenges
+CHI22,Human computer interaction (HCI),Does Mode of Digital Contact Tracing Affect User Willingness to Share Information? A Quantitative Study
+CHI22,Human computer interaction (HCI),"Shifting Trust: Examining How Trust and Distrust Emerge, Transform, and Collapse in COVID-19 Information Seeking"
+CHI22,Human computer interaction (HCI),Unpacking Intention and Behavior: Explaining Contact Tracing App Adoption and Hesitancy in the United States
+CHI22,Human computer interaction (HCI),Annotating Line Charts for Addressing Deception
+CHI22,Visualization/Human computer interaction (HCI),Making Data Tangible: A Cross-disciplinary Design Space for Data Physicalization
+CHI22,Visualization,Put a Label On It! Approaches for Constructing and Contextualizing Bar Chart Physicalizations
+CHI22,Accessibility,Visualization Accessibility in the Wild: Challenges Faced by Visualization Designers
+CHI22,Visualization/Human computer interaction (HCI),"The Pattern is in the Details: An Evaluation of Interaction Techniques for Locating, Searching, and Contextualizing Details in Multivariate Matrix Visualizations"
+CHI22,Human computer interaction (HCI),RoleSeer: Understanding Informal Social Role Changes in MMORPGs via Visual Analytics
+CHI22,Accessibility,Including the Experiences of Physically Disabled Players in Mainstream Guidelines for Movement-Based Games
+CHI22,Human computer interaction (HCI),Identifying Game Mechanics for Integrating Fabrication Activities within Existing Digital Games
+CHI22,Human computer interaction (HCI),"I Don't Usually Listen, I Read: How Different Learner Groups Process Game Feedback"
+CHI22,Ubiquitous and mobile computing,Does Dynamically Drawn Text Improve Learning? Investigating the Effect of Text Presentation Styles in Video Learning
+CHI22,Visualization/Human computer interaction (HCI),Visualizing Instructions for Physical Training: Exploring Visual Cues to Support Movement Learning from Instructional Videos
+CHI22,Human computer interaction (HCI),immersivePOV: Filming How-To Videos with a Head-Mounted 360° Action Camera
+CHI22,Ubiquitous and mobile computing/Human computer interaction (HCI),"Mobile-Friendly Content Design for MOOCs: Challenges, Requirements, and Design Opportunities"
+CHI22,Human computer interaction (HCI),OneLabeler: A Flexible System for Building Data Labeling Tools
+CHI22,Interaction design,graphiti: Sketch-based Graph Analytics for Images and Videos
+CHI22,Human computer interaction (HCI),CrossData: Leveraging Text-Data Connections for Authoring Data Documents
+CHI22,Human computer interaction (HCI),Promptiverse: Scalable Generation of Scaffolding Prompts Through Human-AI Hybrid Knowledge Graph Annotation
+CHI22,Visualization/Human computer interaction (HCI),Diff in the Loop: Supporting Data Comparison in Exploratory Data Analysis
+CHI22,Interaction design,Weaving Stories: Toward Repertoires for Designing Things
+CHI22,Human computer interaction (HCI),Flavorium: An Exploration of Flavobacteria’s Living Aesthetics for Living Color Interfaces
+CHI22,Human computer interaction (HCI),Towards Decomposable Interactive Systems: Design of a Backyard-Degradable Wireless Heating Interface
+CHI22,Human computer interaction (HCI),The Eco-Technical Interface: Attuning to the Instrumental
+CHI22,Human computer interaction (HCI),"Many Islands, Many Problems: An Empirical Examination of Online Safety Behaviors in the Caribbean"
+CHI22,Collaborative and social computing/Human computer interaction (HCI),Are Deepfakes Concerning? Analyzing Conversations of Deepfakes on Reddit and Exploring Societal Implications
+CHI22,Collaborative and social computing,Caught in the Network: The Impact of WhatsApp’s 2021 Privacy Policy Update on Users’ Messaging App Ecosystems
+CHI22,Human computer interaction (HCI),"”Ask this from the person who has private stuff”: Privacy Perceptions, Behaviours and Beliefs Beyond W.E.I.R.D"
+CHI22,Human computer interaction (HCI),Human-GDPR Interaction: Practical Experiences of Accessing Personal Data
+CHI22,Human computer interaction (HCI),XR-OOM: MiXed Reality driving simulation with real cars for research and design
+CHI22,Human computer interaction (HCI),ControllerPose: Inside-Out Body Capture with VR Controller Cameras
+CHI22,Human computer interaction (HCI),Enabling Tangible Interaction on Non-touch Displays with Optical Mouse Sensor and Visible Light Communication
+CHI22,Human computer interaction (HCI),Embr: A Creative Framework for Hand Embroidered Liquid Crystal Textile Displays
+CHI22,Human computer interaction (HCI),ASTEROIDS: Exploring Swarms of Mini-Telepresence Robots for Physical Skill Demonstration
+CHI22,Interaction design,Investigating Positive and Negative Qualities of Human-in-the-Loop Optimization for Designing Interaction Techniques
+CHI22,Collaborative and social computing/Human computer interaction (HCI),For What It’s Worth: Humans Overwrite Their Economic Self-interest to Avoid Bargaining With AI Systems
+CHI22,Human computer interaction (HCI),You Complete Me: Human-AI Teams and Complementary Expertise
+CHI22,Human computer interaction (HCI)/Interaction design/Ubiquitous and mobile computing,What is Your Current Mindset?
+CHI22,Human computer interaction (HCI),Designing and Assessing a Virtual Reality Simulation to Build Resilience to Street Harassment
+CHI22,Collaborative and social computing,(Re)discovering the Physical Body Online: Strategies and Challenges to Approach Non-Cisgender Identity in Social Virtual Reality
+CHI22,Collaborative and social computing,This App is not for Me: Using Mobile and Wearable Technologies to Improve Adolescents’ Smartphone Addiction through the Sharing of Personal Data with Parents
+CHI22,Human computer interaction (HCI),"Unpacking Invisible Work Practices, Constraints, and Latent Power Relationships in Child Welfare through Casenote Analysis"
+CHI22,Human computer interaction (HCI),A Large-Scale Measurement of Cybercrime Against Individuals
+CHI22,Human computer interaction (HCI),Care Infrastructures for Digital Security in Intimate Partner Violence
+CHI22,Collaborative and social computing,Templates and Trust-o-meters: Towards a widely deployable indicator of trust in Wikipedia
+CHI22,Collaborative and social computing,ARMY’s Magic Shop: Understanding the Collaborative Construction of Playful Places in Online Communities
+CHI22,Human computer interaction (HCI),Re-imagining the Power of Priming and Framing Effects in the Context of Political Crowdfunding Campaigns
+CHI22,Collaborative and social computing/Human computer interaction (HCI),The social embeddedness of peer production: A comparative qualitative analysis of three Indian language Wikipedia editions
+CHI22,Collaborative and social computing,"Compete, Collaborate, Investigate: Exploring the Social Structures of Open Source Intelligence Investigations"
+CHI22,Ubiquitous and mobile computing/Human computer interaction (HCI),ProGesAR: Mobile AR Prototyping for Proxemic and Gestural Interactions with Real-world IoT Enhanced Spaces
+CHI22,Human computer interaction (HCI),ExposAR: Bringing Augmented Reality to the Computational Thinking Agenda through a Collaborative Authoring Tool
+CHI22,Human computer interaction (HCI),The Normal Natural Troubles of Virtual Reality in Mixed-Reality Performances
+CHI22,Interaction design/Human computer interaction (HCI),Virtual Transcendent Dream: Empowering People through Embodied Flying in Virtual Reality
+CHI22,Accessibility/Visualization,Accessibility for Color Vision Deficiencies: Challenges and Findings of a Large Scale Study on Paper Figures
+CHI22,Visualization,GAN’SDA Wrap: Geographic And Network Structured DAta on surfaces that Wrap around
+CHI22,Visualization,Understanding Visual Investigation Patterns Through Digital “Field” Observations
+CHI22,Visualization,Investigating Perceptual Biases in Icon Arrays
+CHI22,Human computer interaction (HCI),Juvenile Graphical Perception: A Comparison between Children and Adults
+CHI22,Collaborative and social computing/Human computer interaction (HCI)/Interaction design,Strategies for Fostering a Genuine Feeling of Connection in Technologically Mediated Systems
+CHI22,Visualization,"Exploring Uncertainty in Digital Scheduling, and The Wider Implications of Unrepresented Temporalities in HCI"
+CHI22,Collaborative and social computing/Human computer interaction (HCI),Distracting Moments in Videoconferencing: A Look Back at the Pandemic Period
+CHI22,Human computer interaction (HCI),Reflection in Theory and Reflection in Practice: An Exploration of the Gaps in Reflection Support among Personal Informatics Apps
+CHI22,Interaction design,Zoom Obscura: Counterfunctional Design for Video-Conferencing
+CHI22,Collaborative and social computing,Perceiving Affordances Differently: The Unintended Consequences When Young Autistic Adults Engage with Social Media
+CHI22,Collaborative and social computing,The Polyvocality of Online COVID-19 Vaccine Narratives that Invoke Medical Racism
+CHI22,Collaborative and social computing,"Sensemaking, Support, Safety, Retribution, Transformation: A Restorative Justice Approach to Understanding Adolescents’ Needs for Addressing Online Harm"
+CHI22,Ubiquitous and mobile computing/Human computer interaction (HCI),Sad or just jealous? Using Experience Sampling to Understand and Detect Negative Affective Experiences on Instagram
+CHI22,Human computer interaction (HCI),The Last Decade of HCI Research on Children and Voice-based Conversational Agents
+CHI22,Human computer interaction (HCI),Participatory Design Goes to School: Co-Teaching as a Form of Co-Design for Educational Technology
+CHI22,Interaction design,The Unboxing Experience: Exploration and Design of Initial Interactions Between Children and Social Robots
+CHI22,Human computer interaction (HCI),“It Would Be Cool to Get Stampeded by Dinosaurs”: Analyzing Children's Conceptual Model of AR Headsets Through Co-Design
+CHI22,Human computer interaction (HCI),"“I Didn’t Catch That, But I’ll Try My Best”: Anticipatory Error Handling in a Voice Controlled Game"
+CHI22,Human computer interaction (HCI),The Impact of Latency on Navigation in a First-Person Perspective Game
+CHI22,Interaction design/Human computer interaction (HCI),Press A to Jump: Design Strategies for Video Game Learnability
+CHI22,Human computer interaction (HCI),The Reward for Luck: Understanding the Effect of Random Reward Mechanisms in Video Games on Player Experience
+CHI22,Human computer interaction (HCI),”Because AI is 100% right and safe”: User Attitudes and Sources of AI Authority in India
+CHI22,Human computer interaction (HCI),Still Creepy After All These Years:The Normalization of Affective Discomfort in App Use
+CHI22,Collaborative and social computing/Human computer interaction (HCI),Capable but Amoral? Comparing AI and Human Expert Collaboration in Ethical Decision Making
+CHI22,Human computer interaction (HCI),AI-Moderated Decision-Making: Capturing and Balancing Anchoring Bias in Sequential Decision Tasks
+CHI22,Human computer interaction (HCI),How Child Welfare Workers Reduce Racial Disparities in Algorithmic Decisions
+CHI22,Interaction design/Human computer interaction (HCI),Expressive Auditory Gestures in a Voice-Based Pedagogical Agent
+CHI22,Interaction design/Human computer interaction (HCI),To type or to speak? The effect of input modality on text understanding during note-taking
+CHI22,Human computer interaction (HCI),Audio Matters Too: How Audial Avatar Customization Enhances Visual Avatar Customization
+CHI22,Interaction design,“Elinor’s Talking to Me!”:Integrating Conversational AI into Children’s Narrative Science Programming
+CHI22,Human computer interaction (HCI),Supporting the Design of Smart Speakers to Foster a Sense of Ownership in Asian Indian Families
+CHI22,Human computer interaction (HCI),FAR: End-to-End Vibrotactile Distributed System Designed to Facilitate Affect Regulation in Children Diagnosed with Autism Spectrum Disorder Through Slow Breathing
+CHI22,Interaction design,FlexHaptics: A Design Method for Passive Haptic Inputs Using Planar Compliant Structures
+CHI22,Human computer interaction (HCI),ReCompFig: Designing Dynamically Reconfigurable Kinematic Devices Using Compliant Mechanisms and Tensioning Cables
+CHI22,Human computer interaction (HCI),Shape-Haptics: Planar & Passive Force Feedback Mechanisms for Physical Interfaces
+CHI22,Human computer interaction (HCI),FabricatINK: Personal Fabrication of Bespoke Displays Using Electronic Ink from Upcycled E Readers
+CHI22,Human computer interaction (HCI),Interactive Robotic Plastering: Augmented Interactive Design and Fabrication for On-site Robotic Plastering
+CHI22,Human computer interaction (HCI),Digital Fabrication of Pneumatic Actuators with Integrated Sensing by Machine Knitting
+CHI22,Human computer interaction (HCI),Focusing for Interaction Design: An Introspective Somatic Method
+CHI22,Interaction design,Vulnerability as an ethical stance in soma design processes
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing/Visualization,Reflective Spring Cleaning: Using Personal Informatics to Support Infrequent Notification Personalization
+CHI22,Human computer interaction (HCI),How Accurate Does It Feel? – Human Perception of Different Types of Classification Mistakes
+CHI22,Human computer interaction (HCI),Towards Relatable Explainable AI with the Perceptual Process
+CHI22,Human computer interaction (HCI),Debiased-CAM to mitigate image perturbations with faithful visual explanations of machine learning
+CHI22,Human computer interaction (HCI)/Collaborative and social computing,Interpretable Directed Diversity: Leveraging Model Explanations for Iterative Crowd Ideation
+CHI22,Human computer interaction (HCI),How can Explainability Methods be Used to Support Bug Identification in Computer Vision Models?
+CHI22,Human computer interaction (HCI),"AirRacket: Perceptual Design of Ungrounded, Directional Force Feedback to Improve Virtual Racket Sports Experiences"
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,Predicting Opportune Moments to Deliver Notifications in Virtual Reality
+CHI22,Human computer interaction (HCI),Reducing Virtual Reality Sickness for Cyclists in VR Bicycle Simulators
+CHI22,Human computer interaction (HCI)/Collaborative and social computing,Vibing Together: Dance Experiences in Social Virtual Reality
+CHI22,Human computer interaction (HCI),"Much Realistic, Such Wow! A Systematic Literature Review of Realism in Digital Games"
+CHI22,Human computer interaction (HCI)/Visualization,Visual Delegate Generalization Frame – Evaluating Impact of Visual Effects and Elements on Player and User Experiences in Video Games and Interactive Virtual Environments
+CHI22,Human computer interaction (HCI),The Effects of a Soundtrack on Board Game Player Experience
+CHI22,Human computer interaction (HCI),Here Comes No Boom! The Lack of Sound Feedback Effects on Performance and User Experience in a Gamified Image Classification Task
+CHI22,Human computer interaction (HCI),Understanding Interactions for Smart Wheelchair Navigation in Crowds
+CHI22,Accessibility,Design and Evaluation of Hybrid Search for American Sign Language to English Dictionaries: Making the Most of Imperfect Sign Recognition
+CHI22,Accessibility/Collaborative and social computing,Co11ab: Augmenting Accessibility in Synchronous Collaborative Writing for People with Vision Impairments
+CHI22,Accessibility/Human computer interaction (HCI),Ga11y: An Automated GIF Annotation System for Visually Impaired Users
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,Understanding Emotion Changes in Mobile Experience Sampling
+CHI22,Human computer interaction (HCI),“I Didn’t Know I Looked Angry”: Characterizing Observed Emotion and Reported Affect at Work
+CHI22,Visualization,Interpolating Happiness: Understanding the Intensity Gradations of Face Emojis Across Cultures
+CHI22,Collaborative and social computing,Mindsets Matter: How Beliefs About Facebook Moderate the Association Between Time Spent and Well-Being
+CHI22,Collaborative and social computing,Close-up and Whispering: An Understanding of Multimodal and Parasocial Interactions in YouTube ASMR videos
+CHI22,Interaction design,Not Just a Preference: Reducing Biased Decision-making on Dating Websites
+CHI22,Human computer interaction (HCI),OtherTube: Facilitating Content Discovery and Reflection by Exchanging YouTube Recommendations with Strangers
+CHI22,Collaborative and social computing,Designing Word Filter Tools for Creator-led Comment Moderation
+CHI22,Human computer interaction (HCI),Apéritif: Scaffolding Preregistrations to Automatically Generate Analysis Code and Methods Descriptions
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,Automatically Generating and Improving Voice Command Interface from Operation Sequences on Smartphones
+CHI22,Human computer interaction (HCI),TaleBrush: Sketching Stories with Generative Pretrained Language Models
+CHI22,Visualization/Human computer interaction (HCI),Symphony: Composing Interactive Interfaces for Machine Learning
+CHI22,Human computer interaction (HCI),Bivariate Effective Width Method to Improve the Normalization Capability for Subjective Speed-accuracy Biases in Rectangular-target Pointing
+CHI22,Human computer interaction (HCI),Switching Between Standard Pointing Methods with Current and Emerging Computer Form Factors
+CHI22,Human computer interaction (HCI),"Evaluating Singing for Computer Input Using Pitch, Interval, and Melody"
+CHI22,Human computer interaction (HCI),Shaping Textile Sliders: An Evaluation of Form Factors and Tick Marks for Textile Sliders
+CHI22,Human computer interaction (HCI),First Steps Towards Designing Electrotactons: Investigating Intensity and Pulse Frequency as Parameters for Electrotactile Cues
+CHI22,Human computer interaction (HCI),“It's A Drag”: Exploring How to Improve Parents’ Experiences of Managing Mobile Device Use During Family Time
+CHI22,Human computer interaction (HCI),"Exploring Technology-Mediated Parental Socialisation of Emotion: Leveraging an Embodied, In-situ Intervention for Child Emotion Regulation"
+CHI22,Human computer interaction (HCI),StoryBuddy: A Human-AI Collaborative Chatbot for Parent-Child Interactive Storytelling with Flexible Parental Involvement
+CHI22,Accessibility/Ubiquitous and mobile computing,Captivate! Contextual Language Guidance for Parent–Child Interaction
+CHI22,Human computer interaction (HCI),Keep the VRhythm going: A musician-centred study investigating how Virtual Reality can support creative musical practice
+CHI22,Human computer interaction (HCI),"Super Size Me: Interface Size, Identity and Embodiment in Digital Musical Instrument Design"
+CHI22,Human computer interaction (HCI),Exploring Interactive Sound Design for Auditory Websites
+CHI22,Human computer interaction (HCI),Dance Transitions: What Forms of Technology Best Support Professional Dancers as They Learn New Movement Styles?
+CHI22,Human computer interaction (HCI),Embodied Geometric Reasoning with a Robot: The Impact of Robot Gestures on Student Reasoning about Geometrical Conjectures
+CHI22,Human computer interaction (HCI)/Interaction design,Family as a Third Space for AI Literacies: How do children and parents learn about AI together?
+CHI22,Interaction design,Family Learning Talk in AI Literacy Learning Activities
+CHI22,Human computer interaction (HCI),Adaptive Empathy Learning Support in Peer Review Scenarios
+CHI22,Collaborative and social computing/Human computer interaction (HCI),How Interest-Driven Content Creation Shapes Opportunities for Informal Learning in Scratch: A Case Study on Novices’ Use of Data Structures
+CHI22,Collaborative and social computing,AlgoSolve: Supporting Subgoal Learning in Algorithmic Problem-Solving with Learnersourced Microtasks
+CHI22,Human computer interaction (HCI),TunePad Playbooks: Designing Computational Notebooks for Creative Music Coding
+CHI22,Ubiquitous and mobile computing,Understanding People’s Experience for Physical Activity Planning and Exploring the Impact of Historical Records on Plan Creation and Execution
+CHI22,Human computer interaction (HCI),The TAC Toolkit: Supporting Design for User Acceptance of Health Technologies from a Macro-Temporal Perspective
+CHI22,Human computer interaction (HCI),More than Bedtime and the Bedroom: Sleep Management as a Collaborative Work for the Family
+CHI22,Human computer interaction (HCI),At-Home Pupillometry using Smartphone Facial Identification Cameras
+CHI22,Collaborative and social computing/Human computer interaction (HCI),Collaborative Identity Decolonization as Reclaiming Narrative Agency: Identity Work of Bengali Communities on Quora
+CHI22,Human computer interaction (HCI),F-commerce and Urban Modernities: The Changing Terrain of Housing Design in Bangladesh
+CHI22,Human computer interaction (HCI),What Pronouns for Pepper? A Critical Review of Gender/ing in Research
+CHI22,Collaborative and social computing,"Experiences of Harm, Healing, and Joy among Black Women and Femmes on Social Media"
+CHI22,Collaborative and social computing/Human computer interaction (HCI),A Comparative Evaluation of Interventions Against Misinformation: Augmenting the WHO Checklist
+CHI22,Collaborative and social computing/Human computer interaction (HCI),”You have to prove the threat is real”: Understanding the needs of Female Journalists and Activists to Document and Report Online Harassment
+CHI22,Human computer interaction (HCI),Method for Appropriating the Brief Implicit Association Test to Elicit Biases in Users
+CHI22,Collaborative and social computing,Bridging Contextual and Methodological Gaps on the “Misinformation Beat”: Insights from Journalist-Researcher Collaborations at Speed
+CHI22,Collaborative and social computing,Birds of a feather don’t fact-check each other: Partisanship and the evaluation of news in Twitter’s Birdwatch crowdsourced fact-checking program
+CHI22,Human computer interaction (HCI),Designing for Knowledge Construction to Facilitate the Uptake of Open Science: Laying out the Design Space
+CHI22,Collaborative and social computing,"Remote Co-teaching in Rural Classroom: Current Practices, Impacts, and Challenges"
+CHI22,Human computer interaction (HCI),Innovating Novel Online Social Spaces with Diverse Middle School Girls: Ideation and Collaboration in a Synchronous Virtual Design Workshop
+CHI22,Collaborative and social computing,Uncovering Instructors’ Diverse Practices and Perceptions: A Field Deployment of a Customization-Sharing Platform that Supports Course Management
+CHI22,Human computer interaction (HCI)/Interaction design,Driving from a Distance: Challenges and Guidelines for Autonomous Vehicle Teleoperation Interfaces
+CHI22,Human computer interaction (HCI),Mediated Visits: Longitudinal Domestic Dwelling with Mobile Robotic Telepresence
+CHI22,Human computer interaction (HCI),Cultural Influences on Chinese Citizens’ Adoption of Digital Contact Tracing: A Human Infrastructure Perspective
+CHI22,Human computer interaction (HCI),User Perceptions of Extraversion in Chatbots after Repeated Use
+CHI22,Human computer interaction (HCI),Drawing Out the Everyday Hyper-[In]Securities of Digital Identity
+CHI22,Human computer interaction (HCI),”It Matches My Worldview”: Examining Perceptions and Attitudes Around Fake Videos
+CHI22,Human computer interaction (HCI),"Accost, Accede, or Amplify: Attitudes towards COVID-19 Misinformation on WhatsApp in India"
+CHI22,Collaborative and social computing/Human computer interaction (HCI),"Winds of Change: Seeking, Preserving, and Retelling Indigenous Knowledge Through Self-Organized Online Communities"
+CHI22,Human computer interaction (HCI),Investigating Older Adults’ Attitudes towards Crisis Informatics Tools: Opportunities for Enhancing Community Resilience during Disasters
+CHI22,Human computer interaction (HCI),“I hope I never need one”: Unpacking Stigma in Aging in Place Technology
+CHI22,Human computer interaction (HCI)/Interaction design,Examining Identity as a Variable of Health Technology Research for Older Adults: A Systematic Review
+CHI22,Accessibility,"“It Feels Like Taking a Gamble”: Exploring Perceptions, Practices, and Challenges of Using Makeup and Cosmetics for People with Visual Impairments"
+CHI22,Accessibility/Human computer interaction (HCI),Methods for Evaluating the Fluency of Automatically Simplified Texts with Deaf and Hard-of-Hearing Adults at Various Literacy Levels
+CHI22,Accessibility,“I Shake The Package To Check If It’s Mine”: A Study of Package Fetching Practices and Challenges of Blind and Low Vision People in China
+CHI22,Human computer interaction (HCI),"InfraredTags: Embedding Invisible AR Markers and Barcodes Using Low-Cost, Infrared-Based 3D Printing and Imaging Tools"
+CHI22,Human computer interaction (HCI),FoolProofJoint: Reducing Assembly Errors of Laser Cut 3D Models by Means of Custom Joint Patterns
+CHI22,Human computer interaction (HCI),Roman: Making Everyday Objects Robotically Manipulable with 3D-Printable Add-on Mechanisms
+CHI22,Human computer interaction (HCI),Mobiot: Augmenting Everyday Objects into Moving IoT Devices Using 3D Printed Attachments Generated by Demonstration
+CHI22,Human computer interaction (HCI),AirRes Mask: A Precise and Robust Virtual Reality Breathing Interface Utilizing Breathing Resistance as Output Modality
+CHI22,Human computer interaction (HCI),Mouth Haptics in VR using a Headset Ultrasound Phased Array
+CHI22,Human computer interaction (HCI)/Interaction design,What Could Possibly Go Wrong When Interacting with Proactive Smart Speakers? A Case Study Using an ESM Application
+CHI22,Human computer interaction (HCI),Lattice Menu: A Low-Error Gaze-Based Marking Menu Utilizing Target-Assisted Gaze Gestures on a Lattice of Visual Anchors
+CHI22,Human computer interaction (HCI),Prediction for Retrospection: Integrating Algorithmic Stress Prediction into Personal Informatics Systems for College Students’ Mental Health
+CHI22,Human computer interaction (HCI),Exploring Perceptions of Cross-Sectoral Data Sharing with People with Parkinson’s
+CHI22,Human computer interaction (HCI),Personal Dream Informatics: A Self-Information Systems Model of Dream Engagement
+CHI22,Human computer interaction (HCI),Lived Experiences of Mental Workload in Everyday Life
+CHI22,Human computer interaction (HCI),Rethinking Menstrual Trackers Towards Period-Positive Ecologies
+CHI22,Human computer interaction (HCI),Pandemic Displays: Considering Hygiene on Public Touchscreens in the Post-Pandemic Era
+CHI22,Human computer interaction (HCI),Understanding How eHealth Coaches Tailor Support For Weight Loss: Towards the Design of Person-Centered Coaching Systems
+CHI22,Human computer interaction (HCI),"Embodied Negotiations, Practices and Experiences Interacting with Pregnancy Care Infrastructures in South India"
+CHI22,Human computer interaction (HCI),SonarID: Using Sonar to Identify Fingers on a Smartwatch
+CHI22,Human computer interaction (HCI),"SilentSpeller: Towards mobile, hands-free, silent speech text entry using electropalatography"
+CHI22,Human computer interaction (HCI),ReflecTouch: Detecting Grasp Posture of Smartphone Using Corneal Reflection Images
+CHI22,Human computer interaction (HCI),FaceOri: Tracking Head Position and Orientation Using Ultrasonic Ranging on Earphones
+CHI22,Human computer interaction (HCI),"More Errors vs. Longer Commands: The Effects of Repetition and Reduced Expressiveness on Input Interpretation Error, Learning, and Effort"
+CHI22,Human computer interaction (HCI),ShapeFindAR: Exploring In-Situ Spatial Search for Physical Artifact Retrieval using Mixed Reality
+CHI22,Interaction design,Investigating Potentials of Shape-Changing Displays for Sound Zones
+CHI22,Human computer interaction (HCI),Do You See What I Hear? — Peripheral Absolute and Relational Visualisation Techniques for Sound Zones
+CHI22,Human computer interaction (HCI),Consent in the Age of AR: Investigating The Comfort With Displaying Personal Information in Augmented Reality
+CHI22,Human computer interaction (HCI),“Should I visit the clinic”: Analyzing WhatsApp-mediated Online Health Support for Expectant and New Mothers in Rural India
+CHI22,Human computer interaction (HCI),"Dare to Dream, Dare to Livestream: How E-Commerce Livestreaming Empowers Chinese Rural Women"
+CHI22,Human computer interaction (HCI),"Feeling Proud, Feeling Embarrassed: Experiences of Low-income Women with Crowd Work"
+CHI22,Interaction design/Human computer interaction (HCI),Opportunities and Challenges of Automatic Speech Recognition Systems for Low-Resource Language Speakers
+CHI22,Human computer interaction (HCI),Coordination and Collaboration: How do Volunteer Moderators Work as a Team in Live Streaming Communities?
+CHI22,Human computer interaction (HCI),Shared User Interfaces of Physiological Data: Systematic Review of Social Biofeedback Systems and Contexts in HCI
+CHI22,Human computer interaction (HCI),From Who You Know to What You Read: Augmenting Scientific Recommendations with Implicit Social Networks
+CHI22,Collaborative and social computing,Follow the Leader: Technical and Inspirational Leadership in Open Source Software
+CHI22,Interaction design/Human computer interaction (HCI),TalkTive: A Conversational Agent Using Backchannels to Engage Older Adults in Neurocognitive Disorders Screening
+CHI22,Accessibility,"Analyzing Deaf and Hard-of-Hearing Users’ Behavior, Usage, and Interaction with a Personal Assistant Device that Understands Sign-Language Input"
+CHI22,Interaction design/Human computer interaction (HCI),Polite or Direct? Conversation Design of a Smart Display for Older Adults Based on Politeness Theory
+CHI22,Human computer interaction (HCI),Understanding the Situated Practices of School Technology Leaders in the Early Stages of Educational Technology Adoption
+CHI22,Human computer interaction (HCI),Glancee: An Adaptable System for Instructors to Grasp Student Learning Status in Synchronous Online Classes
+CHI22,Collaborative and social computing/Human computer interaction (HCI),Can Anybody Help Me?: Using Community Help Desk Call Records to Examine the Impact of Digital Divides During a Global Pandemic
+CHI22,Human computer interaction (HCI),“Hartal (Strike) Happens Here Everyday”: Understanding Impact of Disruption on Education in Kashmir
+CHI22,Visualization,”I happen to be one of 47.8%”: Social-Emotional and Data Reasoning in Middle School Students’ Comics about Friendship
+CHI22,Human computer interaction (HCI)/Visualization,"News Informatics: Engaging Individuals with Data-Rich News Content through Interactivity in Source, Medium, and Message"
+CHI22,Collaborative and social computing,“Merging Results Is No Easy Task”: An International Survey Study of Collaborative Data Analysis Practices Among UX Practitioners
+CHI22,Human computer interaction (HCI),Optimizing the Use of the Sentence Completion Survey Technique in User Research: A Case Study on the Experience of E-Reading
+CHI22,Accessibility,Constrained Life in a Multifarious Environment - A Closer Look at the Lives of Autistic College Students
+CHI22,Human computer interaction (HCI)/Interaction design,Keep it Short: A Comparison of Voice Assistants’ Response Behavior
+CHI22,Human computer interaction (HCI),When is Machine Learning Data Good?: Valuing in Public Health Datafication
+CHI22,Collaborative and social computing/Human computer interaction (HCI),Forgetting Practices in the Data Sciences
+CHI22,Interaction design,Unmaking as Agonism: Using Participatory Design with Youth to Surface Difference in an Intergenerational Urban Context
+CHI22,Ubiquitous and mobile computing/Human computer interaction (HCI),Design of Digital Workplace Stress-Reduction Intervention Systems: Effects of Intervention Type and Timing
+CHI22,Human computer interaction (HCI),Meeting Users Where They Are: User-centered Design of an Automated Text Messaging Tool to Support the Mental Health of Young Adults
+CHI22,Human computer interaction (HCI),Exploring Situated & Embodied Support for Youth’s Mental Health: Design Opportunities for Interactive Tangible Device
+CHI22,Human computer interaction (HCI),Hitting the Triple Bottom Line: Widening the HCI Approach to Sustainability
+CHI22,Human computer interaction (HCI),Exploring Renewable Energy Futures through Household Energy Resilience
+CHI22,Human computer interaction (HCI),Negotiating sustainable futures in communities through participatory speculative design and experiments in living
+CHI22,Human computer interaction (HCI),Towards Digital Environmental Stewardship: the Work of Caring for the Environment in Waste Management
+CHI22,Human computer interaction (HCI),Style Blink: Exploring Digital Inking of Structured Information via Handcrafted Styling as a First-Class Object
+CHI22,Human computer interaction (HCI),TapGazer: Text Entry with Finger Tapping and Gaze-directed Word Selection
+CHI22,Human computer interaction (HCI),Passages: Interacting with Text Across Documents
+CHI22,Human computer interaction (HCI),TypeAnywhere: A QWERTY-Based Text Entry Solution for Ubiquitous Computing
+CHI22,Human computer interaction (HCI),The Sound of Hallucinations: Toward a more convincing emulation of internalized voices
+CHI22,Ubiquitous and mobile computing,MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame
+CHI22,Human computer interaction (HCI),"Towards Design Guidelines for Effective Health-Related Data Videos: An Empirical Investigation of Affect, Personality, and Video Content"
+CHI22,Ubiquitous and mobile computing,Investigating and Validating On-body Temperature Sensors for Personal Heat Exposure Tracking.
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,Designing and Evaluating a Chatbot for Survivors of Image-Based Sexual Abuse
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,A Conversational Approach for Modifying Service Mashups in IoT Environments
+CHI22,Human computer interaction (HCI),Improving Finger Stroke Recognition Rate for Eyes-Free Mid-Air Typing in VR
+CHI22,Human computer interaction (HCI),TriboTouch: Micro-Patterned Surfaces for Low Latency Touchscreens
+CHI22,Human computer interaction (HCI),HybridTrak: Adding Full-Body Tracking to VR Using an Off-the-Shelf Webcam
+CHI22,Human computer interaction (HCI),Integrating Gaze and Speech for Enabling Implicit Interactions
+CHI22,Human computer interaction (HCI)/Interaction design,‘Are They Doing Better In The Clinic Or At Home?’: Understanding Clinicians’ Needs When Visualizing Wearable Sensor Data Used In Remote Gait Assessments For People With Multiple Sclerosis
+CHI22,Human computer interaction (HCI),Investigating Clutching Interactions for Touchless Medical Imaging Systems
+CHI22,Human computer interaction (HCI),Designing Flexible Longitudinal Regimens: Supporting Clinician Planning for Discontinuation of Psychiatric Drugs
+CHI22,Human computer interaction (HCI),A State-Based Medication Routine Framework
+CHI22,Human computer interaction (HCI),In-Depth Mouse: Integrating Desktop Mouse into Virtual Reality
+CHI22,Human computer interaction (HCI),OVRlap: Perceiving Multiple Locations Simultaneously to Improve Interaction in VR
+CHI22,Human computer interaction (HCI),ImpactVest: Rendering Spatio-Temporal Multilevel Impact Force Feedback on Body in VR
+CHI22,Human computer interaction (HCI),Kuiper Belt: Utilizing the “Out-of-natural Angle” Region in the Eye-gaze Interaction for Virtual Reality
+CHI22,Human computer interaction (HCI)/Interaction design,Beyond Being Real: A Sensorimotor Control Perspective on Interactions in Virtual Reality
+CHI22,Human computer interaction (HCI),Computational Rationality as a Theory of Interaction
+CHI22,Human computer interaction (HCI),There Is No First- or Third-Person View in Virtual Reality: Understanding the Perspective Continuum
+CHI22,Collaborative and social computing,Understanding and Modeling Viewers’ First Impressions with Images in Online Medical Crowdfunding Campaigns
+CHI22,Human computer interaction (HCI),Rediscovering Affordance: A Reinforcement Learning Perspective
+CHI22,Human computer interaction (HCI),To Trust or to Stockpile: Modeling Human-Simulation Interaction in Supply Chain Shortages
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing/Collaborative and social computing,Adorned in Memes: Exploring the Adoption of Social Wearables in Nordic Student Culture
+CHI22,Human computer interaction (HCI)/Collaborative and social computing,Hitting Pause: How User Perceptions of Collaborative Playlists Evolved in the United States During the COVID-19 Pandemic
+CHI22,Human computer interaction (HCI),BikeAR: Understanding Cyclists’ Crossing Decision-Making at Uncontrolled Intersections using Augmented Reality
+CHI22,Human computer interaction (HCI),"Effects of Pedestrian Behavior, Time Pressure, and Repeated Exposure on Crossing Decisions in Front of Automated Vehicles Equipped with External Communication"
+CHI22,Human computer interaction (HCI),FlexNav: Flexible Navigation and Exploration through Connected Runnable Zones
+CHI22,Human computer interaction (HCI),Beyond Virtual Bazaar: How Social Commerce Promotes Inclusivity for the Traditionally Underserved Community in Chinese Developing Regions
+CHI22,Human computer interaction (HCI),AI beyond Deus ex Machina – Reimagining Intelligence in Future Cities with Urban Experts
+CHI22,Human computer interaction (HCI)/Interaction design,Designing Tools and Interfaces for Ecological Restoration: An Investigation into the Opportunities and Constraints for Technological Interventions
+CHI22,Human computer interaction (HCI),Outside Where? A Survey of Climates and Built Environments in Studies of HCI outdoors
+CHI22,Ubiquitous and mobile computing,Semantic Gap in Predicting Mental Wellbeing through Passive Sensing
+CHI22,Human computer interaction (HCI),Round Numbers Can Sharpen Cognition
+CHI22,Human computer interaction (HCI),"Probability Weighting in Interactive Decisions: Evidence for Overuse of Bad Assistance, Underuse of Good Assistance"
+CHI22,Human computer interaction (HCI),Multifractal Mice: Operationalising Dimensions of Readiness-to-hand via a Feature of Hand Movement
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,Investigating the Tradeoffs of Everyday Text-Entry Collection Methods
+CHI22,Interaction design/Human computer interaction (HCI),FlatMagic: Improving Flat Colorization through AI-driven Design for Digital Comic Professionals
+CHI22,Human computer interaction (HCI),Supercharging Trial-and-Error for Learning Complex Software Applications
+CHI22,Interaction design/Human computer interaction (HCI),Paper Trail: An Immersive Authoring System for Augmented Reality Instructional Experiences
+CHI22,Human computer interaction (HCI),A Layered Authoring Tool for Stylized 3D animations
+CHI22,Human computer interaction (HCI),Design Guidelines for Prompt Engineering Text-to-Image Generative Models
+CHI22,Human computer interaction (HCI),AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts
+CHI22,Human computer interaction (HCI),Discovering the Syntax and Strategies of Natural Language Programming with Generative Language Models
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,Towards Complete Icon Labeling in Mobile Applications
+CHI22,Human computer interaction (HCI),CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities
+CHI22,Human computer interaction (HCI),Next Steps in Epidermal Computing: Opportunities and Challenges for Soft On-Skin Devices
+CHI22,Human computer interaction (HCI),Meander Coil++: A Body-scale Wireless Power Transmission Using Safe-to-body and Energy-efficient Transmitter Coil
+CHI22,Human computer interaction (HCI),KnitSkin: Machine-Knitted Scaled Skin for Locomotion
+CHI22,Accessibility,ARGONAUT: An Inclusive Design Process for Wearable Health Monitoring Systems
+CHI22,Human computer interaction (HCI),HydroMod : Constructive Modules for Prototyping Hydraulic Physical Interfaces
+CHI22,Human computer interaction (HCI),"“So Close, yet So Far”: Exploring Sexual-minority Women’s Relationship-building via Online Dating in China"
+CHI22,Human computer interaction (HCI),"Nice Guys, Virgins, and Incels: Gender in Remixing and Sharing Memes at Hackathons"
+CHI22,Human computer interaction (HCI),"Who am I, and who are you, and who are we? A Scientometric Analysis of Gender and Geography in HCI"
+CHI22,Collaborative and social computing,“Brush it Off”: How Women Workers Manage and Cope with Bias and Harassment in Gender-agnostic Gig Platforms
+CHI22,Collaborative and social computing/Visualization,Pretty Princess vs. Successful Leader: Gender Roles in Greeting Card Messages
+CHI22,Human computer interaction (HCI),Smooth as Steel Wool: Effects of Visual Stimuli on the Haptic Perception of Roughness in Virtual Reality
+CHI22,Ubiquitous and mobile computing,”Your Eyes Tell You Have Used This Password Before”: Identifying Password Reuse from Gaze and Keystroke Dynamics
+CHI22,Human computer interaction (HCI),Can’t Touch This: Rethinking Public Technology in a COVID-19 Era
+CHI22,Human computer interaction (HCI),Affective State Prediction from Smartphone Touch and Sensor Data in the Wild
+CHI22,Ubiquitous and mobile computing,Mold-It: Understanding how Physical Shapes affect Interaction with Handheld Freeform Devices
+CHI22,Human computer interaction (HCI)/Visualization,Neo: Generalizing Confusion Matrix Visualization to Hierarchical and Multi-Output Labels
+CHI22,Visualization,Structure-aware Visualization Retrieval
+CHI22,Visualization,ComputableViz: Mathematical Operators as a Formalism for Visualisation Processing and Analysis
+CHI22,Human computer interaction (HCI)/Visualization,Recommendations for Visualization Recommendations: Exploring Preferences and Priorities in Public Health
+CHI22,Visualization,VisGuide: User-Oriented Recommendations for Data Event Extraction
+CHI22,Visualization/Accessibility,Visualizing Urban Accessibility: Investigating Multi-Stakeholder Perspectives through a Map-based Design Probe Study
+CHI22,Human computer interaction (HCI),The Role of Staff in Facilitating Immersive Virtual Reality for Enrichment in Aged Care: An Ethic of Care Perspective
+CHI22,Accessibility,3D Printed Street Crossings: Supporting Orientation and Mobility Training with People who are Blind or have Low Vision
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,MyMove: Facilitating Older Adults to Collect In-Situ Activity Labels on a Smartwatch with Speech
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,“I See You!”: A Design Framework for Interface Cues about Agent Visual Perception from a Thematic Analysis of Videogames
+CHI22,Interaction design,Personalization Trade-offs in Designing a Dialogue-based Information System for Support-Seeking of Sexual Violence Survivors
+CHI22,Interaction design,Letters from the Future: Exploring Ethical Dilemmas in the Design of Social Agents
+CHI22,Human computer interaction (HCI),"Designing Human-Agent Collaborations: Commitment, responsiveness, and support"
+CHI22,Human computer interaction (HCI),Proxemics for Human-Agent Interaction in Augmented Reality
+CHI22,Human computer interaction (HCI),Simulating Human Imprecision in Temporal Statements of Intelligent Virtual Agents
+CHI22,Human computer interaction (HCI)/Collaborative and social computing,Digital Proxemics: Designing Social and Collaborative Interaction in Virtual Environments
+CHI22,Interaction design/Human computer interaction (HCI),A New Uncanny Valley? The Effects of Speech Fidelity and Human Listener Gender on Social Perceptions of a Virtual-Human Speaker
+CHI22,Human computer interaction (HCI),Understanding and Designing Avatar Biosignal Visualizations for Social Virtual Reality Entertainment
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,Interaction with Touch-Sensitive Knitted Fabrics: User Perceptions and Everyday Use Experiments
+CHI22,Human computer interaction (HCI),Eyes-Off Your Fingers: Gradual Surface Haptic Feedback Improves Eyes-Free Touchscreen Interaction
+CHI22,Human computer interaction (HCI),It’s Touching: Understanding Touch-Affect Association in Shape-Change with Kinematic Features
+CHI22,Human computer interaction (HCI),Hand Interfaces: Using Hands to Imitate Objects in AR/VR for Expressive Interactions
+CHI22,Human computer interaction (HCI),FingerX: Rendering Haptic Shapes of Virtual Objects Augmented by Real Objects using Extendable and Withdrawable Supports on Fingers
+CHI22,Human computer interaction (HCI),Haptic Fidelity Framework: Defining the Factors of Realistic Haptic Feedback for Virtual Reality
+CHI22,Human computer interaction (HCI),Aware: Intuitive Device Activation Using Prosody for Natural Voice Interactions
+CHI22,Human computer interaction (HCI),SpinOcchio: Understanding Haptic-Visual Congruency of Skin-Slip in VR with a Dynamic Grip Controller
+CHI22,Human computer interaction (HCI),Reducing the Cognitive Load of Playing a Digital Tabletop Game with a Multimodal Interface
+CHI22,Human computer interaction (HCI),Vibration-Augmented Buttons: Information Transmission Capacity and Application to Interaction Design
+CHI22,Human computer interaction (HCI),A Virtual Counselor for Breast Cancer Genetic Counseling: Adaptive Pedagogy Leads to Greater Knowledge Gain
+CHI22,Human computer interaction (HCI),Investigating Culturally Responsive Design for Menstrual Tracking and Sharing Practices Among Individuals with Minimal Sexual Education
+CHI22,Human computer interaction (HCI),Virtual Feed: Design and Evaluation of a Virtual Reality Simulation Addressing the Lived Experience of Breastfeeding
+CHI22,Human computer interaction (HCI),Designing Chatbots with Black Americans with Chronic Conditions: Overcoming Challenges against COVID-19
+CHI22,Human computer interaction (HCI),TypeOut: Leveraging Just-in-Time Self-Affirmation for Smartphone Overuse Reduction
+CHI22,Human computer interaction (HCI),Perspectives on Integrating Trusted Other Feedback in Therapy for Veterans with PTSD
+CHI22,Human computer interaction (HCI),Digital Emotion Regulation in Everyday Life
+CHI22,Interaction design/Human computer interaction (HCI)/Collaborative and social computing,“Guilty of Talking Too Much”: How Psychotherapists Gamify Therapy
+CHI22,Human computer interaction (HCI),Exploring the Needs of Users for Supporting Privacy-Protective Behaviors in Smart Homes
+CHI22,Interaction design/Human computer interaction (HCI),"“All that You Touch, You Change”: Expanding the Canon of Speculative Design Towards Black Futuring"
+CHI22,Human computer interaction (HCI),"Seamless Visions, Seamful Realities: Anticipating Rural Infrastructural Fragility in Early Design of Digital Agriculture"
+CHI22,Human computer interaction (HCI),Radical Futures: Supporting Community-Led Design Engagements through an Afrofuturist Speculative Design Toolkit
+CHI22,Human computer interaction (HCI),Interactive Fiction Provotypes for Coping with Interpersonal Racism
+CHI22,Interaction design,ReClaym our Compost: Biodegradable Clay for Intimate Making
+CHI22,Human computer interaction (HCI),Sensitive Pictures: Emotional Interpretation in the Museum
+CHI22,Human computer interaction (HCI),Understanding Screen-based Dining Practices through the Lens of Mindful Eating
+CHI22,Interaction design,A Study of Solar Cooking: Exploring Climate-Resilient Food Preparation and Opportunities for HCI
+CHI22,Interaction design,Yo–Yo Machines: Self-Build Devices that Support Social Connections During the Pandemic
+CHI22,Accessibility,"Watch It, Don’t Imagine It: Creating a Better Caption-Occlusion Metric by Collecting More Ecologically Valid Judgments from DHH Viewers"
+CHI22,Accessibility,Remotely Co-Designing Features for Communication Applications using Automatic Captioning with Deaf and Hearing Pairs
+CHI22,Accessibility,A Large-Scale Longitudinal Analysis of Missing Label Accessibility Failures in Android Apps
+CHI22,Accessibility/Human computer interaction (HCI),ImageExplorer: Multi-Layered Touch Exploration to Encourage Skepticism Towards Imperfect AI-Generated Image Captions
+CHI22,Ubiquitous and mobile computing,Above and Beyond: A Scoping Review of Domains and Applications for Human-Drone Interaction
+CHI22,Interaction design,Understanding Social Influence in Collective Product Ratings Using Behavioral and Cognitive Metrics
+CHI22,Ubiquitous and mobile computing,Mobilizing Crowdwork:A Systematic Assessment of the Mobile Usability of HITs
+CHI22,Human computer interaction (HCI),Psychometric Properties of the User Experience Questionnaire (UEQ)
+CHI22,Human computer interaction (HCI),Identifying an Aurally Distinct Phrase Set for Text Entry Techniques
+CHI22,Human computer interaction (HCI),"(Don’t) stand by me: How trait psychopathy and NPC emotion influence player perceptions, verbal responses, and movement behaviours in a gaming task"
+CHI22,Human computer interaction (HCI),“I Don’t Want To Shoot The Android”: Players Translate Real-Life Moral Intuitions to In-Game Decisions in Detroit: Become Human
+CHI22,Human computer interaction (HCI),Do People Use Games to Compensate for Psychological Needs During Crises? A Mixed-Methods Study of Gaming During COVID-19 Lockdowns
+CHI22,Human computer interaction (HCI),Designing for Noticeability: Understanding the Impact of Visual Importance on Desktop Notifications
+CHI22,Human computer interaction (HCI),"Situational Recommender: Are You On the Spot, Refining Plans, or Just Bored?"
+CHI22,Human computer interaction (HCI)/Interaction design,Will AI Console Me when I Lose my Pet? Understanding Perceptions of AI-Mediated Email Writing
+CHI22,Human computer interaction (HCI),Nudging Behavior Change: Using In-Group and Out-Group Social Comparisons to Encourage Healthier Choices
+CHI22,Human computer interaction (HCI)/Interaction design,Supporting Accessible Data Visualization Through Audio Data Narratives
+CHI22,Accessibility/Human computer interaction (HCI)/Visualization,Slide-Tone and Tilt-Tone: 1-DOF Haptic Techniques for Conveying Shape Characteristics of Graphs to Blind Users
+CHI22,Accessibility/Visualization,VoxLens: Making Online Data Visualizations Accessible with an Interactive JavaScript Plug-In
+CHI22,Accessibility,Improving Colour Patterns to Assist People with Colour Vision Deficiency
+CHI22,Accessibility,Infosonics: Accessible Infographics for People who are Blind using Sonification and Voice
+CHI22,Human computer interaction (HCI),Solving Separation-of-Concerns Problems in Collaborative Design of Human-AI Systems through Leaky Abstractions
+CHI22,Human computer interaction (HCI)/Interaction design,CO/DA: Live-Coding Movement-Sound Interactions for Dance Improvisation
+CHI22,Interaction design,How Experienced Designers of Enterprise Applications Engage AI as a Design Material
+CHI22,Human computer interaction (HCI),"User Trust in Recommendation Systems: A comparison of Content-Based, Collaborative and Demographic Filtering"
+CHI22,Visualization/Accessibility/Human computer interaction (HCI),Improving understandability of feature contributions in model-agnostic explainable AI tools
+CHI22,Human computer interaction (HCI),"How to Guide Task-oriented Chatbot Users, and When: A Mixed-methods Study of Combinations of Chatbot Guidance Types and Timings"
+CHI22,Human computer interaction (HCI)/Interaction design,Impacts of Personal Characteristics on User Trust in Conversational Recommender Systems
+CHI22,Human computer interaction (HCI),Tisane: Authoring Statistical Models via Formal Reasoning from Conceptual and Data Relationships
+CHI22,Human computer interaction (HCI),Math Augmentation: How Authors Enhance the Readability of Formulas using Novel Visual Design Practices
+CHI22,Human computer interaction (HCI),Varv: Reprogrammable Interactive Software as a Declarative Data Structure
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,VibEmoji: Exploring User-authoring Multi-modal Emoticons in Social Communication
+CHI22,Human computer interaction (HCI),Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens
+CHI22,Accessibility/Human computer interaction (HCI),A Performance Evaluation of Nomon: A Flexible Interface for Noisy Single-Switch Users
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,Enabling Hand Gesture Customization on Wrist-Worn Devices
+CHI22,Human computer interaction (HCI),TapType: Ten-finger text entry on everyday surfaces via Bayesian inference
+CHI22,Human computer interaction (HCI),Gesture Elicitation as a Computational Optimization Problem
+CHI22,Human computer interaction (HCI),Enhanced Videogame Livestreaming by Reconstructing an Interactive 3D Game View for Spectators
+CHI22,Human computer interaction (HCI),CatchLive: Real-time Summarization of Live Streams with Stream Content and Interaction Data
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,FitVid: Responsive and Flexible Video Content Adaptation
+CHI22,Human computer interaction (HCI),Katika: An End-to-End System for Authoring Amateur Explainer Motion Graphics Videos
+CHI22,Human computer interaction (HCI),SABLIER : a Tangible Interactor to Navigate through Space and Time
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,Hidden Interfaces for Ambient Computing: Enabling Interaction in Everyday Materials through High-brightness Visuals on Low-cost Matrix Displays
+CHI22,Visualization,Tangible Globes for Data Visualisation in Augmented Reality
+CHI22,Human computer interaction (HCI)/Interaction design,(Dis)Appearables: A Concept and Method for Actuated Tangible UIs to Appear and Disappear based on Stages
+CHI22,Human computer interaction (HCI),Tangible Collaboration: A Human-Centered Approach for Sharing Control With an Actuated-Interface
+CHI22,Collaborative and social computing/Human computer interaction (HCI),Making Space for Cultural Infrastructure: The Breakdown and Maintenance Work of Independent Movie Theaters During Crisis
+CHI22,Human computer interaction (HCI),"“As Uploaders, We Have the Responsibility”: Individualized Professionalization of Bilibili Uploaders"
+CHI22,Collaborative and social computing,"A Little Too Personal: Effects of Standardization versus Personalization on Job Acquisition, Work Completion, and Revenue for Online Freelancers"
+CHI22,Collaborative and social computing,"FluidMeet: Enabling Frictionless Transitions Between In-Group, Between-Group, and Private Conversations During Virtual Breakout Meetings"
+CHI22,Human computer interaction (HCI)/Interaction design,Pet-Robot or Appliance? Care Home Residents with Dementia Respond to a Zoomorphic Floor Washing Robot
+CHI22,Accessibility,Barriers to Online Dementia Information and Mitigation
+CHI22,Human computer interaction (HCI),Designing for Everyday Sounds at Home with People with Dementia and their Partners
+CHI22,Human computer interaction (HCI),LivingMoments: Bespoke Social Communication for People living with Dementia and their Relatives
+CHI22,Human computer interaction (HCI),SkyPort: Investigating 3D Teleportation Methods in Virtual Environments
+CHI22,Human computer interaction (HCI),Understanding User Experiences Across VR Walking-in-place Locomotion Methods
+CHI22,Human computer interaction (HCI),HeadWind: Enhancing Teleportation Experience in VR by Simulating Air Drag during Rapid Motion
+CHI22,Human computer interaction (HCI),"Kills, Deaths, and (Computational) Assists: Identifying Opportunities for Computational Support in Esport Learning"
+CHI22,Human computer interaction (HCI),"Trust, Reciprocity, and the Role of Timebanks as Intermediaries: Design Implications for Addressing Healthcare Transportation Barriers"
+CHI22,Collaborative and social computing/Human computer interaction (HCI),Transitioning Toward Independence: Enhancing Collaborative Self-Management of Children with Type 1 Diabetes
+CHI22,Human computer interaction (HCI),When Worlds Collide: Boundary Management of Adolescent and Young Adult Childhood Cancer Survivors and Caregivers
+CHI22,Human computer interaction (HCI),The Challenge of (Non-)Disclosure: Exploring the Lived Experience of Ethiopian Adolescents with HIV and Their Attitudes Toward Technology
+CHI22,Ubiquitous and mobile computing,Why Did You/I Read but Not Reply? IM Users’ Unresponded-to Read-receipt Practices and Explanations of Them
+CHI22,Human computer interaction (HCI),EmoBalloon - Conveying Emotional Arousal in Text Chats with Speech Balloons
+CHI22,Collaborative and social computing,"“I need to be professional until my new team uses emoji, GIFs, or memes first’’: New Collaborators’ Perspectives on Using Non-Textual Communication in Virtual Workspaces"
+CHI22,Ubiquitous and mobile computing,"Because I’m Restricted, 2 – 4 PM Unable to See Messages: Exploring Users’ Perceptions and Likely Practices around Exposing Attention Management Use on IM Online Status"
+CHI22,Human computer interaction (HCI),How HCI Adopts Service Design: Unpacking current perceptions and scopes of service design in HCI and identifying future opportunities
+CHI22,Human computer interaction (HCI),"A study of UX practitioners roles in designing real-world, enterprise ML systems"
+CHI22,Interaction design,Designing for Inaccessible Emergency Medical Service Contexts: Development and Evaluation of the Contextual Secondary Video Toolkit
+CHI22,Human computer interaction (HCI),When Confidence Meets Accuracy: Exploring the Effects of Multiple Performance Indicators on Trust in Machine Learning Models
+CHI22,Human computer interaction (HCI),Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children
+CHI22,Interaction design,GANSpiration: Balancing Targeted and Serendipitous Inspiration in User Interface Design with Style-Based Generative Adversarial Network
+CHI22,Interaction design,Diffraction-in-action: Designerly Explorations of Agential Realism Through Lived Data
+CHI22,Interaction design,Recentering Reframing as an RtD Contribution: The Case of Pivoting from Accessible Web Tables to a Conversational Internet
+CHI22,Human computer interaction (HCI),One Week in the Future: Previs Design Futuring for HCI Research
+CHI22,Human computer interaction (HCI),Use Cases for Design Personas: A Systematic Review and New Frontiers
+CHI22,Human computer interaction (HCI),Trauma-Informed Computing: Towards Safer Technology Experiences for All
+CHI22,Collaborative and social computing/Human computer interaction (HCI),"Interrupting Merit, Subverting Legibility: Navigating Caste In ‘Casteless’ Worlds of Computing"
+CHI22,Human computer interaction (HCI),Maker Technology and the Promise of Empowerment in a Flemish School for Disabled Children
+CHI22,Accessibility,ADHD and Technology Research – Investigated by Neurodivergent Readers
+CHI22,Human computer interaction (HCI),From Treatment to Healing:Envisioning a Decolonial Digital Mental Health
+CHI22,Human computer interaction (HCI),Towards Understanding Diminished Reality
+CHI22,Human computer interaction (HCI),Exploring Spatial UI Transition Mechanisms with Head-Worn Augmented Reality
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing/Visualization,Paracentral and near-peripheral visualizations: Towards attention-maintaining secondary information presentation on OHMDs during in-person social interactions
+CHI22,Human computer interaction (HCI)/Ubiquitous and mobile computing,Dually Noted: Layout-Aware Annotations with Smartphone Augmented Reality
+CHI22,Human computer interaction (HCI),Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces
+CHI22,Human computer interaction (HCI),i-LaTeX : Manipulating Transitional Representations between LaTeX Code and Generated Documents
+CHI22,Human computer interaction (HCI),Overcoming Legacy Bias: Re-Designing Gesture Interactions in Virtual Reality With a San Community in Namibia
+CHI22,Human computer interaction (HCI),The Voight-Kampff Machine for Automatic Custom Gesture Rejection Threshold Selection
+CHI22,Interaction design/Human computer interaction (HCI),Iterative Design of Gestures During Elicitation: Understanding the Role of Increased Production
+CHI22,Interaction design,Applied computing/Human-centered computing
+CHI22,Human computer interaction (HCI),Prevalence and Salience of Problematic Microtransactions in Top-Grossing Mobile and PC Games: A Content Analysis of User Reviews
+CHI22,Interaction design/Human computer interaction (HCI),”Chat Has No Chill”: A Novel Physiological Interaction For Engaging Live Streaming Audiences
+CHI22,Human computer interaction (HCI),How Will VR Enter University Classrooms? Multi-stakeholders Investigation of VR in Higher Education
+CHI22,Human computer interaction (HCI),"Classroom Dandelions: Visualising Participant Position, Trajectory and Body Orientation Augments Teachers’ Sensemaking"
+CHI22,Human computer interaction (HCI),Bringing Patient Mannequins to Life: 3D Projection Enhances Nursing Simulation
+CHI22,Human computer interaction (HCI),Towards Modeling of Virtual Reality Welding Simulators to Promote Accessible and Scalable Training
+CHI22,Human computer interaction (HCI),ZenVR: Design Evaluation of a Virtual Reality Learning System for Meditation
+CHI22,Human computer interaction (HCI),Understanding the impact of explanations on advice-taking: a user study for AI-based clinical Decision Support Systems
+CHI22,Human computer interaction (HCI),GANSlider: How Users Control Generative Models for Images using Multiple Sliders with and without Feedforward Information
+CHI22,Human computer interaction (HCI),UX Research on Conversational Human-AI Interaction: A Literature Review of the ACM Digital Library
+CHI22,Human computer interaction (HCI),The Trusted Listener: The Influence of Anthropomorphic Eye Design of Social Robots on User's Perception of Trustworthiness
+CHI22,Human computer interaction (HCI),Model Positionality and Computational Reflexivity: Promoting Reflexivity in Data Science
+CHI22,Human computer interaction (HCI),The Village: Infrastructuring Community-based Mentoring to Support Adults Experiencing Poverty
+CHI22,Collaborative and social computing,Unpacking the Complexities of Community-led Violence Prevention Work
+CHI22,Collaborative and social computing/Human computer interaction (HCI),‘ShishuShurokkha’: A Transformative Justice Approach for Combating Child Sexual Abuse in Bangladesh
+CHI22,Human computer interaction (HCI),Exploring Technical Reasoning in Digital Tool Use
+CHI22,Human computer interaction (HCI),What’s the Appeal? Perceptions of Review Processes for Algorithmic Decisions
+CHI22,Human computer interaction (HCI),“Look! It’s a Computer Program! It’s an Algorithm! It’s AI!”: Does Terminology Affect Human Perceptions and Evaluations of Algorithmic Decision-Making Systems?
+CHI22,Human computer interaction (HCI),Whose AI Dream? In search of the aspiration in data annotation.
+CHI22,Human computer interaction (HCI),The CAT Effect: Exploring the Impact of Casual Affective Triggers on Online Surveys’ Response Rates
+CHI22,Collaborative and social computing/Human computer interaction (HCI),Exploring the Role of Paradata in Digitally Supported Qualitative Co-Research
+CHI22,Interaction design/Human computer interaction (HCI),“It’s Freedom to Put Things Where My Mind Wants”: Understanding and Improving the User Experience of Structuring Data in Spreadsheets
+CHI22,Human computer interaction (HCI),Establishing Design Consensus toward Next-Generation Retail: Data-Enabled Design Exploration and Participatory Analysis
+CHI22,Human computer interaction (HCI),The Deskilling of Domain Expertise in AI Development
+CHI22,Human computer interaction (HCI),Recruiting Participants With Programming Skills: A Comparison of Four Crowdsourcing Platforms and a CS Student Mailing List
+CHI22,Accessibility,Maptimizer: Using Optimization to Tailor Tactile Maps to Users Needs
+CHI22,Accessibility,"“It’s not wrong, but I’m quite disappointed”: Toward an Inclusive Algorithmic Experience for Content Creators with Disabilities"
+CHI22,Accessibility/Human computer interaction (HCI),TronicBoards: An Accessible Electronics Toolkit for People with Intellectual Disabilities
+CHI22,Human computer interaction (HCI),What makes web data tables accessible? Insights and a tool for rendering accessible tables for people with visual impairments
+CHI22,Accessibility/Human computer interaction (HCI),CollabAlly: Accessible Collaboration Awareness in Document Editing
+CHI22,Visualization,Data Every Day: Designing and Living with Personal Situated Visualizations
+CHI22,Visualization,Supporting Data-Driven Basketball Journalism through Interactive Visualization
+CHI22,Visualization,From ‘Wow’ to ‘Why’: Guidelines for Creating the Opening of a Data Video with Cinematic Styles
+CHI22,Visualization/Human computer interaction (HCI),Cicero: A Declarative Grammar for Responsive Visualization
+CHI22,Human computer interaction (HCI),Unofficial Proxies: How Close Others Help Older Adults with Banking
+CHI22,Accessibility/Collaborative and social computing,Designing for Relational Maintenance: New Directions for AAC Research
+CHI22,Human computer interaction (HCI),Anticipate and Adjust: Cultivating Access in Human-Centered Methods
+CHI22,Human computer interaction (HCI)/Accessibility,“It’s Kind of Like Code-Switching”: Black Older Adults’ Experiences with a Voice Assistant for Health Information Seeking
+CHI22,Human computer interaction (HCI)/Accessibility,CandyFly: Bringing fun to drone pilots with disabilities through adapted and adaptable interactions
+CHI22,Human computer interaction (HCI),“Just Not Together”: The Experience of Videoconferencing for People with Aphasia during the Covid-19 Pandemic
+CHI22,Accessibility,Cocomix: Utilizing Comments to Improve Non-Visual Webtoon Accessibility
+CHI22,Accessibility,Impact of Out-of-Vocabulary Words on the Twitter Experience of Blind Users
+CHI22,Collaborative and social computing/Human computer interaction (HCI),"“In this online environment, we're limited”:: Exploring Inclusive Video Conferencing Design for Signers"
+CHI22,Ubiquitous and mobile computing/Human computer interaction (HCI),Towards Collaborative Learning in Virtual Reality: A Comparison of Co-Located Symmetric and Asymmetric Pair-Learning
+CHI22,Human computer interaction (HCI),VRception: Rapid Prototyping of Cross-Reality Systems in Virtual Reality
+CHI22,Human computer interaction (HCI),The Dark Side of Perceptual Manipulations in Virtual Reality
+CHI22,Human computer interaction (HCI),Effects of Field of View on Egocentric Distance Perception in Virtual Reality
+CHI22,Human computer interaction (HCI),Methodological Reflections on Ways of Seeing
+CHI22,Interaction design,Patch-O: Deformable Woven Patches for On-body Actuation
+CHI22,Human computer interaction (HCI),Navigating Imaginaries of DNA-Based Digital Data Storage
+CHI22,Human computer interaction (HCI),"Monitoring Pets, Deterring Intruders, and Casually Spying on Neighbors: Everyday Uses of Smart Home Cameras"
+CHI22,Interaction design/Human computer interaction (HCI),Machine-Mediated Teaming: Mixture of Human and Machine in Physical Gaming Experience
+CHI22,Human computer interaction (HCI),“I’m Surprised So Much Is Connected”
+CHI22,Human computer interaction (HCI),"“Okay, whatever”: An Evaluation of Cookie Consent Interfaces"
+CHI22,Human computer interaction (HCI),"Field Evidence of the Effects of Privacy, Data Transparency, and Pro-social Appeals on COVID-19 App Attractiveness"
+CHI22,Human computer interaction (HCI),"Online Terms and Conditions: Improving User Engagement, Awareness, and Satisfaction through UI Design"
+CHI22,Human computer interaction (HCI),Putting scientific results in perspective: Improving the communication of standardized effect sizes
+CHI22,Collaborative and social computing/Human computer interaction (HCI),Toward User-Driven Algorithm Auditing: Investigating users’ strategies for uncovering harmful algorithmic behavior
+CHI22,Collaborative and social computing/Human computer interaction (HCI),Where Should We Put It? Layout and Placement Strategies of Documents in Augmented Reality for Collaborative Sensemaking
+CHI22,Human computer interaction (HCI),"Characterizing Practices, Limitations, and Opportunities Related to Text Information Extraction Workflows: A Human-in-the-loop Perspective"
+CHI22,Human computer interaction (HCI),Supporting Real-time Peer-Mentoring of Rural Volunteers
+CHI22,Collaborative and social computing/Human computer interaction (HCI),Understanding AR Activism: An Interview Study with Creators of Augmented Reality Experiences for Social Change
+CHI22,Collaborative and social computing/Human computer interaction (HCI),Care Workers Making Use of Robots: Results of a Three-Month Study on Human-Robot Interaction within a Care Home
+CHI22,Collaborative and social computing/Human computer interaction (HCI),"Something Personal from the Metaverse: Goals, Topics, and Contextual Factors of Self-Disclosure in Commercial Social VR"
+CHI22,Human computer interaction (HCI),The Effect of the Vergence-Accommodation Conflict on Virtual Hand Pointing in Immersive Displays
+CHI22,Human computer interaction (HCI),Causality-preserving Asynchronous Reality
+CHI22,Human computer interaction (HCI),"Designing Visuo-Haptic Illusions with Proxies in Virtual Reality: Exploration of Grasp, Movement Trajectory and Object Mass"
+CHI22,Human computer interaction (HCI),DreamStream: Immersive and Interactive Spectating in VR
+CHI22,Human computer interaction (HCI),O&O: A DIY toolkit for designing and rapid prototyping olfactory interfaces
+CCS22,Visualization,"Am I Private and If So, how Many?: Communicating Privacy Guarantees of Differential Privacy with Risk Communication Formats"
+CCS22,Human computer interaction (HCI),"Empirical Analysis of EIP-1559: Transaction Fees, Waiting Times, and Consensus Security"
+CCS22,Collaborative and social computing,Characterizing and Detecting Non-Consensual Photo Sharing on Social Networks
+FSE22,Human computer interaction (HCI),Correlates of programmer efficacy and their link to experience: a combined EEG and eye-tracking study
+FSE22,Collaborative and social computing,What motivates software practitioners to contribute to inner source?
+FSE22,Collaborative and social computing,Understanding skills for OSS communities on GitHub
+FSE22,Human computer interaction (HCI),Asynchronous technical interviews: reducing the effect of supervised think-aloud on communication ability
+FSE22,Human computer interaction (HCI),Pair programming conversations with agents vs. developers: challenges and opportunities for SE community
+FSE22,Collaborative and social computing,"A case study of implicit mentoring, its prevalence, and impact in Apache"
+FSE22,Accessibility,AccessiText: automated detection of text accessibility issues in Android apps
+FSE22,Ubiquitous and mobile computing,Demystifying “removed reviews” in iOS app store
+FSE22,Human computer interaction (HCI),This is your cue! assisting search behaviour with resource style properties
+FSE22,Collaborative and social computing,Sentiment in software engineering: detection and application
+MOD22,Human computer interaction (HCI),Reptile: Aggregation-level Explanations for Hierarchical Data
+MOD22,Interaction design/Visualization,PI2: End-to-end Interactive Visualization Interface Generation from Queries
+MOD22,Visualization,SLAM: Efficient Sweep Line Algorithms for Kernel Density Visualization
+SAC22,Ubiquitous and mobile computing,Improving response time of home IoT services in federated learning
+SAC22,Ubiquitous and mobile computing,Towards CBDC-based machine-to-machine payments in consumer IoT
+SAC22,Human computer interaction (HCI),An ETL-like platform for the processing of mobility data
+SAC22,Collaborative and social computing,Learning football player features using graph embeddings for player recommendation system
+SAC22,Ubiquitous and mobile computing,CEMDA: detecting android complex file events to infer the user's mental model
+SAC22,Ubiquitous and mobile computing,Estimating the lifetime of transient context for adaptive caching in IoT applications
+SAC22,Human computer interaction (HCI),Rating consistency is consistently underrated: an exploratory analysis of movie-tag rating inconsistency
+SAC22,Interaction design,Shap-enhanced counterfactual explanations for recommendations
+SAC22,Human computer interaction (HCI),Automating the measurement of heterogeneous chatbot designs
+SAC22,Visualization,Combining clutter reduction methods for temporal network visualization
+SAC22,Collaborative and social computing,Group oriented trust-aware location recommendation for location-based social networks
+ICMR22,Ubiquitous and mobile computing,Mobile Emotion Recognition via Multiple Physiological Signals using Convolution-augmented Transformer
+KDD22,Visualization,PARSRec: Explainable Personalized Attention-fused Recurrent Sequential Recommendation Using Session Partial Actions
+KDD22,Visualization,A Spectral Representation of Networks: The Path of Subgraphs
+KDD22,Collaborative and social computing,Learning Models of Individual Behavior in Chess
+KDD22,Visualization,RGVisNet: A Hybrid Retrieval-Generation Neural Framework Towards Automatic Data Visualization Generation
+KDD22,Ubiquitous and mobile computing,On-Device Learning for Model Personalization with Large-Scale Cloud-Coordinated Domain Adaption
+KDD22,Collaborative and social computing,MDP2 Forest: A Constrained Continuous Multi-dimensional Policy Optimization Approach for Short-video Recommendation
+KDD22,Collaborative and social computing,Affective Signals in a Social Media Recommender System
+KDD22,Ubiquitous and mobile computing,Alexa Teacher Model: Pretraining and Distilling Multi-Billion-Parameter Encoders for Natural Language Understanding Systems
+KDD22,Collaborative and social computing,Uncovering the Heterogeneous Effects of Preference Diversity on User Activeness: A Dynamic Mixture Model
+KDD22,Ubiquitous and mobile computing,What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?
