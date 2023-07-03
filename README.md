@@ -1,4 +1,4 @@
-# CS Fields Subfields Data
+# CS Fields & Subfields Data
 
 This repository contains the dataset of 2,095 research articles published in the 2022 proceedings of the Association for Computing Machinery (ACM) conferences, which were analyzed in this paper:
 
