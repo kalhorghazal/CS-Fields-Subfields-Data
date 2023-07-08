@@ -26,8 +26,8 @@ We collected the following information for each paper:
 ```python
 import pandas as pd
 
-df = pd.read_csv('ICMR22.csv')
-df.head(3)
+conferenceData = pd.read_csv('ICMR22.csv')
+conferenceData.head(3)
 ```
 
 Conference| Track| Index| Paper|
@@ -39,8 +39,8 @@ Conference| Track| Index| Paper|
 ## Field Data Example
 
 ```python
-df = pd.read_csv('Applied_computing.csv')
-df.head(3)
+fieldData = pd.read_csv('Applied_computing.csv')
+fieldData.head(3)
 ```
 
 Conference| Index| Paper|
