@@ -39,8 +39,6 @@ Conference| Track| Index| Paper|
 ## Field Data Example
 
 ```python
-import pandas as pd
-
 df = pd.read_csv('Applied_computing.csv')
 df.head(3)
 ```
