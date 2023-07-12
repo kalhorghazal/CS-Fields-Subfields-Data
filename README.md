@@ -9,7 +9,7 @@ Authors: Ghazal Kalhor, Behnam Bahrak
 
 If you use this dataset in your work, please cite our paper:
 
-Kalhor, G. & Bahrak, B. Analysis of research trends in computer science: a network approach. *submitted to the International Journal of Data Science and Analytics* (2023).
+Kalhor, G. & Bahrak, B. Analysis of research trends in computer science: a network approach. *under review at the International Journal of Data Science and Analytics* (2023).
 
 # Datasets
 
