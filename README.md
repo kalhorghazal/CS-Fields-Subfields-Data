@@ -2,10 +2,11 @@
 
 This repository contains the dataset of 2,095 research articles published in the 2022 proceedings of the Association for Computing Machinery (ACM) conferences, which were analyzed in this paper:
 
-Title: "Analysis of Research Trends in Computer Science: A Network Approach"
+**Title**: "Analysis of Research Trends in Computer Science: A Network Approach"
 
-Authors: Ghazal Kalhor, Behnam Bahrak
+**Authors**: Ghazal Kalhor, Behnam Bahrak
 
+**DOI**: https://arxiv.org/abs/2311.09348
 
 If you use this dataset in your work, please cite our paper:
 
