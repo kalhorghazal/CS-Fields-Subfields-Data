@@ -6,7 +6,7 @@ This repository contains the dataset of 2,095 research articles published in the
 
 **Authors**: Ghazal Kalhor, Behnam Bahrak
 
-**DOI**: https://arxiv.org/abs/2311.09348
+**DOI**: [https://arxiv.org/abs/2311.09348](https://doi.org/10.48550/arXiv.2311.09348)
 
 If you use this dataset in your work, please cite our paper:
 
