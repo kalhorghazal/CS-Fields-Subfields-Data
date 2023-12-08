@@ -1,0 +1,2004 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="Cryptography"/>
+<node id="Computational complexity and cryptography"/>
+<node id="Network security"/>
+<node id="Systems security"/>
+<node id="Mathematical software"/>
+<node id="Security in hardware"/>
+<node id="Computers in other domains"/>
+<node id="Human and societal aspects of security and privacy"/>
+<node id="Formal methods and theory of security"/>
+<node id="Electronic commerce"/>
+<node id="Database and storage security"/>
+<node id="Network properties"/>
+<node id="Security services"/>
+<node id="Software notations and tools"/>
+<node id="Software and application security"/>
+<node id="Software creation and management"/>
+<node id="Architectures"/>
+<node id="Machine learning"/>
+<node id="Data management systems"/>
+<node id="Logic"/>
+<node id="Formal languages and automata theory"/>
+<node id="Theory and algorithms for application domains"/>
+<node id="Life and medical sciences"/>
+<node id="Models of computation"/>
+<node id="Design and analysis of algorithms"/>
+<node id="Randomness, geometry and discrete structures"/>
+<node id="Discrete mathematics"/>
+<node id="Information theory"/>
+<node id="Semantics and reasoning"/>
+<node id="Embedded and cyber-physical systems"/>
+<node id="Software organization and properties"/>
+<node id="Network components"/>
+<node id="Network services"/>
+<node id="Network protocols"/>
+<node id="Network performance evaluation"/>
+<node id="Network algorithms"/>
+<node id="Integrated circuits"/>
+<node id="Intrusion$anomaly detection and malware mitigation"/>
+<node id="Education"/>
+<node id="Cross-computing tools and techniques"/>
+<node id="Artificial intelligence"/>
+<node id="Information retrieval"/>
+<node id="Human computer interaction (HCI)"/>
+<node id="Law, social and behavioral sciences"/>
+<node id="Collaborative and social computing"/>
+<node id="Visualization"/>
+<node id="Interaction design"/>
+<node id="Professional topics"/>
+<node id="Information systems applications"/>
+<node id="Document types"/>
+<node id="Symbolic and algebraic manipulation"/>
+<node id="Emerging technologies"/>
+<node id="Very large scale integration design"/>
+<node id="Communication hardware, interfaces and storage"/>
+<node id="Enterprise computing"/>
+<node id="Dependable and fault-tolerant systems and networks"/>
+<node id="Hardware validation"/>
+<node id="Power and energy"/>
+<node id="Robustness"/>
+<node id="Physical sciences and engineering"/>
+<node id="Probability and statistics"/>
+<node id="Arts and humanities"/>
+<node id="User characteristics"/>
+<node id="Ubiquitous and mobile computing"/>
+<node id="World Wide Web"/>
+<node id="Operations research"/>
+<node id="Distributed computing methodologies"/>
+<node id="Document management and text processing"/>
+<node id="Electronic design automation"/>
+<node id="Computing $ technology policy"/>
+<node id="Mathematical analysis"/>
+<node id="Network types"/>
+<node id="Modeling and simulation"/>
+<node id="Network architectures"/>
+<node id="Information storage systems"/>
+<node id="Accessibility"/>
+<node id="Concurrent computing methodologies"/>
+<node id="Computer graphics"/>
+<node id="Real-time systems"/>
+<node id="Printed circuit boards"/>
+<node id="Parallel computing methodologies"/>
+<edge source="Cryptography" target="Computational complexity and cryptography">
+  <data key="d0">7.0</data>
+</edge>
+<edge source="Cryptography" target="Network security">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Cryptography" target="Systems security">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Cryptography" target="Mathematical software">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Cryptography" target="Security in hardware">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Cryptography" target="Computers in other domains">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Cryptography" target="Human and societal aspects of security and privacy">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Cryptography" target="Formal methods and theory of security">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Cryptography" target="Electronic commerce">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Cryptography" target="Database and storage security">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Cryptography" target="Network properties">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Cryptography" target="Security services">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Cryptography" target="Software notations and tools">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Cryptography" target="Software and application security">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Cryptography" target="Software creation and management">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Cryptography" target="Architectures">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Cryptography" target="Machine learning">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Cryptography" target="Data management systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Computational complexity and cryptography" target="Logic">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Computational complexity and cryptography" target="Systems security">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Computational complexity and cryptography" target="Software creation and management">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Computational complexity and cryptography" target="Formal languages and automata theory">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Computational complexity and cryptography" target="Theory and algorithms for application domains">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Computational complexity and cryptography" target="Life and medical sciences">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Computational complexity and cryptography" target="Models of computation">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Computational complexity and cryptography" target="Design and analysis of algorithms">
+  <data key="d0">7.0</data>
+</edge>
+<edge source="Computational complexity and cryptography" target="Randomness, geometry and discrete structures">
+  <data key="d0">6.0</data>
+</edge>
+<edge source="Computational complexity and cryptography" target="Discrete mathematics">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Computational complexity and cryptography" target="Information theory">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Network security" target="Formal methods and theory of security">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Network security" target="Security services">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Network security" target="Software and application security">
+  <data key="d0">7.0</data>
+</edge>
+<edge source="Network security" target="Network components">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network security" target="Network services">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network security" target="Systems security">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Network security" target="Network protocols">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network security" target="Network performance evaluation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network security" target="Human and societal aspects of security and privacy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network security" target="Network algorithms">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network security" target="Software creation and management">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network security" target="Architectures">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network security" target="Integrated circuits">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network security" target="Intrusion$anomaly detection and malware mitigation">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Network security" target="Security in hardware">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Systems security" target="Formal methods and theory of security">
+  <data key="d0">6.0</data>
+</edge>
+<edge source="Systems security" target="Machine learning">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Systems security" target="Software and application security">
+  <data key="d0">14.0</data>
+</edge>
+<edge source="Systems security" target="Cross-computing tools and techniques">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Systems security" target="Human and societal aspects of security and privacy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Systems security" target="Security services">
+  <data key="d0">6.0</data>
+</edge>
+<edge source="Systems security" target="Security in hardware">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Systems security" target="Software notations and tools">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Systems security" target="Software organization and properties">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Systems security" target="Probability and statistics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Systems security" target="Dependable and fault-tolerant systems and networks">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Systems security" target="Electronic commerce">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Systems security" target="Network services">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Systems security" target="Law, social and behavioral sciences">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Systems security" target="Human computer interaction (HCI)">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Systems security" target="Network protocols">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Systems security" target="Embedded and cyber-physical systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Systems security" target="Formal languages and automata theory">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Systems security" target="Network properties">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Systems security" target="Information systems applications">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Systems security" target="Database and storage security">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Systems security" target="Architectures">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Systems security" target="Computing $ technology policy">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Systems security" target="Intrusion$anomaly detection and malware mitigation">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Systems security" target="Software creation and management">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Mathematical software" target="Electronic commerce">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Mathematical software" target="Operations research">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security in hardware" target="Formal methods and theory of security">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Security in hardware" target="Machine learning">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Security in hardware" target="Software and application security">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security in hardware" target="Security services">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security in hardware" target="Software notations and tools">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security in hardware" target="Integrated circuits">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Security in hardware" target="Network types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security in hardware" target="Emerging technologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security in hardware" target="Communication hardware, interfaces and storage">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security in hardware" target="Network architectures">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security in hardware" target="Architectures">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Security in hardware" target="Software creation and management">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security in hardware" target="Intrusion$anomaly detection and malware mitigation">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Security in hardware" target="Embedded and cyber-physical systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security in hardware" target="Dependable and fault-tolerant systems and networks">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Computers in other domains" target="Machine learning">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Computers in other domains" target="Human and societal aspects of security and privacy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Computers in other domains" target="Accessibility">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Computers in other domains" target="Human computer interaction (HCI)">
+  <data key="d0">7.0</data>
+</edge>
+<edge source="Computers in other domains" target="Arts and humanities">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Computers in other domains" target="Physical sciences and engineering">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Computers in other domains" target="Interaction design">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Computers in other domains" target="Information systems applications">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Artificial intelligence">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Machine learning">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Software and application security">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Cross-computing tools and techniques">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Document types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Visualization">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Database and storage security">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Security services">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Network properties">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Collaborative and social computing">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="World Wide Web">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Human computer interaction (HCI)">
+  <data key="d0">15.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Ubiquitous and mobile computing">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Computing $ technology policy">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Professional topics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Accessibility">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Software notations and tools">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Theory and algorithms for application domains">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Human and societal aspects of security and privacy" target="Intrusion$anomaly detection and malware mitigation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Formal methods and theory of security" target="Semantics and reasoning">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Formal methods and theory of security" target="Security services">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Formal methods and theory of security" target="Software and application security">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Formal methods and theory of security" target="Software notations and tools">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Formal methods and theory of security" target="Electronic commerce">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Formal methods and theory of security" target="Embedded and cyber-physical systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Formal methods and theory of security" target="Formal languages and automata theory">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Formal methods and theory of security" target="Software creation and management">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Formal methods and theory of security" target="Architectures">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Formal methods and theory of security" target="Software organization and properties">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Electronic commerce" target="Artificial intelligence">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Electronic commerce" target="Machine learning">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Electronic commerce" target="Cross-computing tools and techniques">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Electronic commerce" target="Software organization and properties">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Electronic commerce" target="Theory and algorithms for application domains">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Electronic commerce" target="Probability and statistics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Electronic commerce" target="World Wide Web">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Electronic commerce" target="Human computer interaction (HCI)">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Electronic commerce" target="Information retrieval">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Electronic commerce" target="Information systems applications">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Electronic commerce" target="Operations research">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Electronic commerce" target="Data management systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Electronic commerce" target="Design and analysis of algorithms">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Database and storage security" target="Machine learning">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Database and storage security" target="Security services">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Database and storage security" target="Document types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Database and storage security" target="Visualization">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Database and storage security" target="Information retrieval">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Database and storage security" target="Emerging technologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Database and storage security" target="Design and analysis of algorithms">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Database and storage security" target="Information systems applications">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Database and storage security" target="Data management systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Database and storage security" target="Theory and algorithms for application domains">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Database and storage security" target="Computing $ technology policy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network properties" target="Artificial intelligence">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Network properties" target="Machine learning">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Network properties" target="Cross-computing tools and techniques">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network properties" target="Security services">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network properties" target="Network types">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Network properties" target="Dependable and fault-tolerant systems and networks">
+  <data key="d0">15.0</data>
+</edge>
+<edge source="Network properties" target="Embedded and cyber-physical systems">
+  <data key="d0">17.0</data>
+</edge>
+<edge source="Network properties" target="Emerging technologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network properties" target="Discrete mathematics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network properties" target="Mathematical analysis">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network properties" target="Design and analysis of algorithms">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network properties" target="Communication hardware, interfaces and storage">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security services" target="Artificial intelligence">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Security services" target="Machine learning">
+  <data key="d0">7.0</data>
+</edge>
+<edge source="Security services" target="Software and application security">
+  <data key="d0">9.0</data>
+</edge>
+<edge source="Security services" target="Theory and algorithms for application domains">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Security services" target="Intrusion$anomaly detection and malware mitigation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security services" target="Probability and statistics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security services" target="World Wide Web">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Security services" target="Software creation and management">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security services" target="Network components">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security services" target="Information retrieval">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Security services" target="Formal languages and automata theory">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security services" target="Software notations and tools">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security services" target="Integrated circuits">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security services" target="Architectures">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Security services" target="Information systems applications">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Security services" target="Embedded and cyber-physical systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security services" target="Communication hardware, interfaces and storage">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Security services" target="Computing $ technology policy">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Software notations and tools" target="Semantics and reasoning">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Software notations and tools" target="Artificial intelligence">
+  <data key="d0">7.0</data>
+</edge>
+<edge source="Software notations and tools" target="Machine learning">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Software notations and tools" target="Software and application security">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software notations and tools" target="Cross-computing tools and techniques">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Software notations and tools" target="Human computer interaction (HCI)">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software notations and tools" target="Software creation and management">
+  <data key="d0">22.0</data>
+</edge>
+<edge source="Software notations and tools" target="Architectures">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Software notations and tools" target="Software organization and properties">
+  <data key="d0">9.0</data>
+</edge>
+<edge source="Software notations and tools" target="Formal languages and automata theory">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software notations and tools" target="Logic">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software notations and tools" target="Probability and statistics">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Software notations and tools" target="Intrusion$anomaly detection and malware mitigation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software notations and tools" target="Emerging technologies">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Software notations and tools" target="Operations research">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software notations and tools" target="Data management systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software notations and tools" target="Embedded and cyber-physical systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software notations and tools" target="Concurrent computing methodologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software notations and tools" target="Document types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software notations and tools" target="Information retrieval">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software notations and tools" target="Professional topics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software notations and tools" target="World Wide Web">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software notations and tools" target="Information storage systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software and application security" target="Artificial intelligence">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Software and application security" target="Machine learning">
+  <data key="d0">9.0</data>
+</edge>
+<edge source="Software and application security" target="Software organization and properties">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Software and application security" target="Network components">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software and application security" target="World Wide Web">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Software and application security" target="Embedded and cyber-physical systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software and application security" target="Network services">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software and application security" target="Information retrieval">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Software and application security" target="Network protocols">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software and application security" target="Formal languages and automata theory">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software and application security" target="Software creation and management">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Software and application security" target="Collaborative and social computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software and application security" target="Network architectures">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software and application security" target="Human computer interaction (HCI)">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software and application security" target="Discrete mathematics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software and application security" target="Cross-computing tools and techniques">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software and application security" target="Computing $ technology policy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software creation and management" target="Semantics and reasoning">
+  <data key="d0">6.0</data>
+</edge>
+<edge source="Software creation and management" target="Artificial intelligence">
+  <data key="d0">11.0</data>
+</edge>
+<edge source="Software creation and management" target="Machine learning">
+  <data key="d0">14.0</data>
+</edge>
+<edge source="Software creation and management" target="Cross-computing tools and techniques">
+  <data key="d0">8.0</data>
+</edge>
+<edge source="Software creation and management" target="Software organization and properties">
+  <data key="d0">16.0</data>
+</edge>
+<edge source="Software creation and management" target="Dependable and fault-tolerant systems and networks">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software creation and management" target="Embedded and cyber-physical systems">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Software creation and management" target="Theory and algorithms for application domains">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software creation and management" target="Probability and statistics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software creation and management" target="World Wide Web">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Software creation and management" target="Human computer interaction (HCI)">
+  <data key="d0">6.0</data>
+</edge>
+<edge source="Software creation and management" target="Information systems applications">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Software creation and management" target="Collaborative and social computing">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Software creation and management" target="Ubiquitous and mobile computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software creation and management" target="Formal languages and automata theory">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Software creation and management" target="Architectures">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Software creation and management" target="Accessibility">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software creation and management" target="Information retrieval">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Software creation and management" target="Enterprise computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software creation and management" target="Data management systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software creation and management" target="Operations research">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software creation and management" target="Design and analysis of algorithms">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software creation and management" target="Professional topics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software creation and management" target="Information storage systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="Artificial intelligence">
+  <data key="d0">6.0</data>
+</edge>
+<edge source="Architectures" target="Machine learning">
+  <data key="d0">11.0</data>
+</edge>
+<edge source="Architectures" target="Cross-computing tools and techniques">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="Integrated circuits">
+  <data key="d0">7.0</data>
+</edge>
+<edge source="Architectures" target="Software organization and properties">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Architectures" target="Dependable and fault-tolerant systems and networks">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Architectures" target="Embedded and cyber-physical systems">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Architectures" target="Theory and algorithms for application domains">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="Intrusion$anomaly detection and malware mitigation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="Network components">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="World Wide Web">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Architectures" target="Network services">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="Emerging technologies">
+  <data key="d0">8.0</data>
+</edge>
+<edge source="Architectures" target="Communication hardware, interfaces and storage">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Architectures" target="Information systems applications">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Architectures" target="Life and medical sciences">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="Computing $ technology policy">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Architectures" target="Electronic design automation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="Models of computation">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Architectures" target="Real-time systems">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Architectures" target="Very large scale integration design">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="Data management systems">
+  <data key="d0">8.0</data>
+</edge>
+<edge source="Architectures" target="Enterprise computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="Hardware validation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="Power and energy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="Robustness">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="Modeling and simulation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="Design and analysis of algorithms">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Architectures" target="Discrete mathematics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Architectures" target="Parallel computing methodologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Machine learning" target="Semantics and reasoning">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Machine learning" target="Artificial intelligence">
+  <data key="d0">72.0</data>
+</edge>
+<edge source="Machine learning" target="Intrusion$anomaly detection and malware mitigation">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Machine learning" target="Information retrieval">
+  <data key="d0">27.0</data>
+</edge>
+<edge source="Machine learning" target="Human computer interaction (HCI)">
+  <data key="d0">14.0</data>
+</edge>
+<edge source="Machine learning" target="Collaborative and social computing">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Machine learning" target="Visualization">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Machine learning" target="Arts and humanities">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Machine learning" target="Communication hardware, interfaces and storage">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Machine learning" target="Software organization and properties">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Machine learning" target="Education">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Machine learning" target="Ubiquitous and mobile computing">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Machine learning" target="Design and analysis of algorithms">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Machine learning" target="Electronic design automation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Machine learning" target="Integrated circuits">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Machine learning" target="Embedded and cyber-physical systems">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Machine learning" target="Enterprise computing">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Machine learning" target="Dependable and fault-tolerant systems and networks">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Machine learning" target="Hardware validation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Machine learning" target="Power and energy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Machine learning" target="Robustness">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Machine learning" target="Data management systems">
+  <data key="d0">22.0</data>
+</edge>
+<edge source="Machine learning" target="Life and medical sciences">
+  <data key="d0">17.0</data>
+</edge>
+<edge source="Machine learning" target="Information systems applications">
+  <data key="d0">49.0</data>
+</edge>
+<edge source="Machine learning" target="Probability and statistics">
+  <data key="d0">15.0</data>
+</edge>
+<edge source="Machine learning" target="Discrete mathematics">
+  <data key="d0">15.0</data>
+</edge>
+<edge source="Machine learning" target="World Wide Web">
+  <data key="d0">17.0</data>
+</edge>
+<edge source="Machine learning" target="Physical sciences and engineering">
+  <data key="d0">6.0</data>
+</edge>
+<edge source="Machine learning" target="Distributed computing methodologies">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Machine learning" target="Network algorithms">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Machine learning" target="Formal languages and automata theory">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Machine learning" target="Cross-computing tools and techniques">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Machine learning" target="Computing $ technology policy">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Machine learning" target="Operations research">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Machine learning" target="Theory and algorithms for application domains">
+  <data key="d0">9.0</data>
+</edge>
+<edge source="Machine learning" target="User characteristics">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Machine learning" target="Law, social and behavioral sciences">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Machine learning" target="Mathematical analysis">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Machine learning" target="Network types">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Machine learning" target="Modeling and simulation">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Machine learning" target="Very large scale integration design">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Machine learning" target="Document management and text processing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Machine learning" target="Emerging technologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Semantics and reasoning">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Artificial intelligence">
+  <data key="d0">8.0</data>
+</edge>
+<edge source="Data management systems" target="Cross-computing tools and techniques">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Data management systems" target="Integrated circuits">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Software organization and properties">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Data management systems" target="Network types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Dependable and fault-tolerant systems and networks">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Theory and algorithms for application domains">
+  <data key="d0">11.0</data>
+</edge>
+<edge source="Data management systems" target="Probability and statistics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Document types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Visualization">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="World Wide Web">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Data management systems" target="Information retrieval">
+  <data key="d0">8.0</data>
+</edge>
+<edge source="Data management systems" target="Network services">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Data management systems" target="Human computer interaction (HCI)">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Communication hardware, interfaces and storage">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Interaction design">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Ubiquitous and mobile computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Information systems applications">
+  <data key="d0">10.0</data>
+</edge>
+<edge source="Data management systems" target="Life and medical sciences">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Computing $ technology policy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Information storage systems">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Data management systems" target="Design and analysis of algorithms">
+  <data key="d0">8.0</data>
+</edge>
+<edge source="Data management systems" target="Concurrent computing methodologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Models of computation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Distributed computing methodologies">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Data management systems" target="Parallel computing methodologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Modeling and simulation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Mathematical analysis">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Data management systems" target="Enterprise computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Logic" target="Semantics and reasoning">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Logic" target="Artificial intelligence">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Logic" target="Software organization and properties">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Logic" target="Real-time systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Logic" target="Formal languages and automata theory">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Logic" target="Discrete mathematics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Formal languages and automata theory" target="Theory and algorithms for application domains">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Formal languages and automata theory" target="Real-time systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="Artificial intelligence">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="Embedded and cyber-physical systems">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="Life and medical sciences">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="Intrusion$anomaly detection and malware mitigation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="Information systems applications">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="Mathematical analysis">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="Power and energy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="Design and analysis of algorithms">
+  <data key="d0">10.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="Operations research">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="World Wide Web">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="Human computer interaction (HCI)">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="Information retrieval">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="Probability and statistics">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="Randomness, geometry and discrete structures">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Theory and algorithms for application domains" target="Computing $ technology policy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Life and medical sciences" target="Artificial intelligence">
+  <data key="d0">10.0</data>
+</edge>
+<edge source="Life and medical sciences" target="Probability and statistics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Life and medical sciences" target="World Wide Web">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Life and medical sciences" target="Information retrieval">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Life and medical sciences" target="Human computer interaction (HCI)">
+  <data key="d0">9.0</data>
+</edge>
+<edge source="Life and medical sciences" target="Emerging technologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Life and medical sciences" target="Collaborative and social computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Life and medical sciences" target="Ubiquitous and mobile computing">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Life and medical sciences" target="Information systems applications">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Life and medical sciences" target="Modeling and simulation">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Models of computation" target="Software organization and properties">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Models of computation" target="Information systems applications">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Models of computation" target="Physical sciences and engineering">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Models of computation" target="Design and analysis of algorithms">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Models of computation" target="Modeling and simulation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Models of computation" target="Randomness, geometry and discrete structures">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Design and analysis of algorithms" target="Artificial intelligence">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Design and analysis of algorithms" target="Probability and statistics">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Design and analysis of algorithms" target="World Wide Web">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Design and analysis of algorithms" target="Information retrieval">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Design and analysis of algorithms" target="Network algorithms">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Design and analysis of algorithms" target="Network architectures">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Design and analysis of algorithms" target="Information systems applications">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Design and analysis of algorithms" target="Operations research">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Design and analysis of algorithms" target="Discrete mathematics">
+  <data key="d0">9.0</data>
+</edge>
+<edge source="Design and analysis of algorithms" target="Modeling and simulation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Design and analysis of algorithms" target="Parallel computing methodologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Design and analysis of algorithms" target="Randomness, geometry and discrete structures">
+  <data key="d0">10.0</data>
+</edge>
+<edge source="Randomness, geometry and discrete structures" target="Probability and statistics">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Randomness, geometry and discrete structures" target="Visualization">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Randomness, geometry and discrete structures" target="Information systems applications">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Randomness, geometry and discrete structures" target="Physical sciences and engineering">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Randomness, geometry and discrete structures" target="Discrete mathematics">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Randomness, geometry and discrete structures" target="Mathematical analysis">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Discrete mathematics" target="Artificial intelligence">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Discrete mathematics" target="Probability and statistics">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Discrete mathematics" target="Visualization">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Discrete mathematics" target="World Wide Web">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Discrete mathematics" target="Information retrieval">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Discrete mathematics" target="Emerging technologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Discrete mathematics" target="Information systems applications">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Discrete mathematics" target="Mathematical analysis">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Information theory" target="Probability and statistics">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Information theory" target="Information systems applications">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Semantics and reasoning" target="Education">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Semantics and reasoning" target="Cross-computing tools and techniques">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Semantics and reasoning" target="Software organization and properties">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Embedded and cyber-physical systems" target="Artificial intelligence">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Embedded and cyber-physical systems" target="Cross-computing tools and techniques">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Embedded and cyber-physical systems" target="Software organization and properties">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Embedded and cyber-physical systems" target="Dependable and fault-tolerant systems and networks">
+  <data key="d0">17.0</data>
+</edge>
+<edge source="Embedded and cyber-physical systems" target="Communication hardware, interfaces and storage">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Embedded and cyber-physical systems" target="Printed circuit boards">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Embedded and cyber-physical systems" target="Human computer interaction (HCI)">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Embedded and cyber-physical systems" target="Ubiquitous and mobile computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Embedded and cyber-physical systems" target="Interaction design">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Embedded and cyber-physical systems" target="Network components">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Embedded and cyber-physical systems" target="Power and energy">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Embedded and cyber-physical systems" target="Real-time systems">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Embedded and cyber-physical systems" target="Intrusion$anomaly detection and malware mitigation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software organization and properties" target="Artificial intelligence">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Software organization and properties" target="Cross-computing tools and techniques">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Software organization and properties" target="Integrated circuits">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Software organization and properties" target="Human computer interaction (HCI)">
+  <data key="d0">6.0</data>
+</edge>
+<edge source="Software organization and properties" target="Visualization">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software organization and properties" target="Computer graphics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software organization and properties" target="Information systems applications">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Software organization and properties" target="Information retrieval">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Software organization and properties" target="Computing $ technology policy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software organization and properties" target="Information storage systems">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Software organization and properties" target="Real-time systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software organization and properties" target="Power and energy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software organization and properties" target="Ubiquitous and mobile computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Software organization and properties" target="Physical sciences and engineering">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network components" target="Network algorithms">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Network components" target="Network architectures">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network components" target="Communication hardware, interfaces and storage">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network services" target="Network types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network services" target="Network algorithms">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network protocols" target="Network algorithms">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network algorithms" target="Network types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Network algorithms" target="Network architectures">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Integrated circuits" target="Dependable and fault-tolerant systems and networks">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Integrated circuits" target="Emerging technologies">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Integrated circuits" target="Electronic design automation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Integrated circuits" target="Intrusion$anomaly detection and malware mitigation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Integrated circuits" target="Information storage systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Intrusion$anomaly detection and malware mitigation" target="Artificial intelligence">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Education" target="Artificial intelligence">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Education" target="Visualization">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Education" target="Human computer interaction (HCI)">
+  <data key="d0">15.0</data>
+</edge>
+<edge source="Education" target="Collaborative and social computing">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Education" target="Interaction design">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Education" target="Arts and humanities">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Education" target="Computing $ technology policy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Education" target="User characteristics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Education" target="Computer graphics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Education" target="Ubiquitous and mobile computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Cross-computing tools and techniques" target="Collaborative and social computing">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Cross-computing tools and techniques" target="Information systems applications">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Cross-computing tools and techniques" target="World Wide Web">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Cross-computing tools and techniques" target="Human computer interaction (HCI)">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Cross-computing tools and techniques" target="Ubiquitous and mobile computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Cross-computing tools and techniques" target="Probability and statistics">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Cross-computing tools and techniques" target="Information retrieval">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Cross-computing tools and techniques" target="Communication hardware, interfaces and storage">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Cross-computing tools and techniques" target="Information storage systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Cross-computing tools and techniques" target="Professional topics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Cross-computing tools and techniques" target="Network types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Information retrieval">
+  <data key="d0">19.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Human computer interaction (HCI)">
+  <data key="d0">23.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Law, social and behavioral sciences">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Collaborative and social computing">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Visualization">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Interaction design">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Professional topics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Information systems applications">
+  <data key="d0">18.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Document types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Symbolic and algebraic manipulation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Emerging technologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Very large scale integration design">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Communication hardware, interfaces and storage">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Enterprise computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Dependable and fault-tolerant systems and networks">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Hardware validation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Power and energy">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Robustness">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Physical sciences and engineering">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Probability and statistics">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Arts and humanities">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="User characteristics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Ubiquitous and mobile computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="World Wide Web">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Operations research">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Distributed computing methodologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Artificial intelligence">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Artificial intelligence" target="Document management and text processing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Information retrieval" target="Probability and statistics">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Information retrieval" target="Document types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Information retrieval" target="Visualization">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Information retrieval" target="World Wide Web">
+  <data key="d0">14.0</data>
+</edge>
+<edge source="Information retrieval" target="Human computer interaction (HCI)">
+  <data key="d0">7.0</data>
+</edge>
+<edge source="Information retrieval" target="Interaction design">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Information retrieval" target="Ubiquitous and mobile computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Information retrieval" target="Information systems applications">
+  <data key="d0">16.0</data>
+</edge>
+<edge source="Information retrieval" target="Accessibility">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Information retrieval" target="Collaborative and social computing">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Information retrieval" target="Law, social and behavioral sciences">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Information retrieval" target="Document management and text processing">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Information retrieval" target="Professional topics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Probability and statistics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Document types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Visualization">
+  <data key="d0">21.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="World Wide Web">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Law, social and behavioral sciences">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Accessibility">
+  <data key="d0">12.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Interaction design">
+  <data key="d0">35.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Collaborative and social computing">
+  <data key="d0">33.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="User characteristics">
+  <data key="d0">15.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Professional topics">
+  <data key="d0">11.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Ubiquitous and mobile computing">
+  <data key="d0">29.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Information systems applications">
+  <data key="d0">7.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Arts and humanities">
+  <data key="d0">6.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Computer graphics">
+  <data key="d0">9.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Emerging technologies">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Document management and text processing">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Computing $ technology policy">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Communication hardware, interfaces and storage">
+  <data key="d0">6.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Electronic design automation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Printed circuit boards">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Operations research">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Human computer interaction (HCI)" target="Information storage systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Law, social and behavioral sciences" target="Network types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Law, social and behavioral sciences" target="Probability and statistics">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Law, social and behavioral sciences" target="Professional topics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Law, social and behavioral sciences" target="Collaborative and social computing">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Law, social and behavioral sciences" target="Computing $ technology policy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Law, social and behavioral sciences" target="Ubiquitous and mobile computing">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Law, social and behavioral sciences" target="Information systems applications">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Law, social and behavioral sciences" target="Mathematical analysis">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Law, social and behavioral sciences" target="Modeling and simulation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Law, social and behavioral sciences" target="Arts and humanities">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Law, social and behavioral sciences" target="User characteristics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Collaborative and social computing" target="Visualization">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Collaborative and social computing" target="World Wide Web">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Collaborative and social computing" target="Information systems applications">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Collaborative and social computing" target="Interaction design">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Collaborative and social computing" target="Accessibility">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Collaborative and social computing" target="Professional topics">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="Collaborative and social computing" target="Ubiquitous and mobile computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Collaborative and social computing" target="User characteristics">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Collaborative and social computing" target="Computer graphics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Collaborative and social computing" target="Arts and humanities">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Collaborative and social computing" target="Computing $ technology policy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Visualization" target="Document types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Visualization" target="Ubiquitous and mobile computing">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Visualization" target="Emerging technologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Visualization" target="Accessibility">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Visualization" target="World Wide Web">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Visualization" target="User characteristics">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Visualization" target="Arts and humanities">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Visualization" target="Interaction design">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Visualization" target="Information systems applications">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Interaction design" target="Emerging technologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Interaction design" target="Accessibility">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Interaction design" target="Ubiquitous and mobile computing">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Interaction design" target="Information systems applications">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Interaction design" target="User characteristics">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Interaction design" target="Professional topics">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Professional topics" target="World Wide Web">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Professional topics" target="Network architectures">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Professional topics" target="Accessibility">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Professional topics" target="User characteristics">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Professional topics" target="Computing $ technology policy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Professional topics" target="Symbolic and algebraic manipulation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Professional topics" target="Information systems applications">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Information systems applications" target="Dependable and fault-tolerant systems and networks">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Information systems applications" target="Probability and statistics">
+  <data key="d0">5.0</data>
+</edge>
+<edge source="Information systems applications" target="World Wide Web">
+  <data key="d0">13.0</data>
+</edge>
+<edge source="Information systems applications" target="Communication hardware, interfaces and storage">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Information systems applications" target="Ubiquitous and mobile computing">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Information systems applications" target="Computer graphics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Information systems applications" target="Physical sciences and engineering">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Information systems applications" target="Mathematical analysis">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Information systems applications" target="Power and energy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Information systems applications" target="Operations research">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Information systems applications" target="Distributed computing methodologies">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Information systems applications" target="Symbolic and algebraic manipulation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Symbolic and algebraic manipulation" target="Emerging technologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Symbolic and algebraic manipulation" target="Network architectures">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Symbolic and algebraic manipulation" target="Very large scale integration design">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Emerging technologies" target="Dependable and fault-tolerant systems and networks">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Emerging technologies" target="Information storage systems">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Emerging technologies" target="Very large scale integration design">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Emerging technologies" target="Real-time systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Emerging technologies" target="Mathematical analysis">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Communication hardware, interfaces and storage" target="Network types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Communication hardware, interfaces and storage" target="Printed circuit boards">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Communication hardware, interfaces and storage" target="Accessibility">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Communication hardware, interfaces and storage" target="Computer graphics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Communication hardware, interfaces and storage" target="Information storage systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Enterprise computing" target="Dependable and fault-tolerant systems and networks">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Enterprise computing" target="World Wide Web">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Enterprise computing" target="Hardware validation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Enterprise computing" target="Power and energy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Enterprise computing" target="Robustness">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Dependable and fault-tolerant systems and networks" target="Information storage systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Dependable and fault-tolerant systems and networks" target="Hardware validation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Dependable and fault-tolerant systems and networks" target="Power and energy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Dependable and fault-tolerant systems and networks" target="Robustness">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Hardware validation" target="Power and energy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Hardware validation" target="Robustness">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Power and energy" target="Real-time systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Power and energy" target="Robustness">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Robustness" target="Modeling and simulation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Physical sciences and engineering" target="Probability and statistics">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Physical sciences and engineering" target="Arts and humanities">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Physical sciences and engineering" target="Modeling and simulation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Physical sciences and engineering" target="Information storage systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Probability and statistics" target="World Wide Web">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Probability and statistics" target="Mathematical analysis">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="Probability and statistics" target="Modeling and simulation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Probability and statistics" target="Operations research">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Arts and humanities" target="Electronic design automation">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Arts and humanities" target="Computing $ technology policy">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="User characteristics" target="World Wide Web">
+  <data key="d0">2.0</data>
+</edge>
+<edge source="User characteristics" target="Accessibility">
+  <data key="d0">4.0</data>
+</edge>
+<edge source="Ubiquitous and mobile computing" target="Network types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Ubiquitous and mobile computing" target="Accessibility">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="World Wide Web" target="Network types">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="World Wide Web" target="Information storage systems">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Distributed computing methodologies" target="Parallel computing methodologies">
+  <data key="d0">1.0</data>
+</edge>
+<edge source="Modeling and simulation" target="Computer graphics">
+  <data key="d0">1.0</data>
+</edge>
+</graph></graphml>
